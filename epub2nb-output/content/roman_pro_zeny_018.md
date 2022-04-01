@@ -11,7 +11,7 @@ _Jsou všichni muži takoví? – Oliver se zdráhá objednat druhou láhev �
 
 Večeřím s Oliverem!
 
-Sedíme v zaplněné sklepní restauraci Marco Polo na vltavském nábřeží; oknem nad sebou vidím osvětlený Žofín. Podnik vybral Oliver; tvrdí, že se mu líbí zdejší poctivá dřevěná podlaha a ty poctivé dřevěné židle.
+Sedíme v zaplněné sklepní restauraci **Marco Polo** na vltavském nábřeží; oknem nad sebou vidím osvětlený Žofín. Podnik vybral Oliver; tvrdí, že se mu líbí **zdejší poctivá dřevěná podlaha a ty poctivé dřevěné židle**.
 
 Rozhlížím se.
 
@@ -19,11 +19,11 @@ Rozhlížím se.
 
 Oplatí mi úsměv, ale mlčí. Oba jsme zvláštně, slavnostně nervózní. Svých vytahaných plátěných kalhot se sice Oliver nevzdal, ale vzal si k nim aspoň čistou košili a docela obstojné sako. Je stále ještě opálený. Sluší mu to.
 
-„Vymezme si hned na začátku konverzační okruhy,“ říkám. „Výslovně vám zakazuju mluvit o těchto tématech: současná politika sociálních demokratů, Formanovy filmy, moderní nábytek, deregulace cen bytů, Jižní Amerika a hlavně děti. Ani zmínka o dětech, jasný?“
+„Vymezme si hned na začátku konverzační okruhy,“ říkám. „Výslovně vám zakazuju mluvit o těchto tématech: současná politika sociálních demokratů, Formanovy filmy, moderní nábytek, deregulace cen bytů, Jižní Amerika a hlavně **děti**. Ani zmínka o dětech, jasný?“
 
 „Dobře,“ říká Oliver nechápavě.
 
-Naléhavým šepotem mu převyprávím příběh Ingrid (použiju samozřejmě výraz anální sex). Pokyvuje hlavou, neříká nic. Napadne mě, že jsem tou historkou možná zbytečně zmrazila atmosféru.
+Naléhavým šepotem mu převyprávím příběh Ingrid (použiju samozřejmě výraz **anální sex**). Pokyvuje hlavou, neříká nic. Napadne mě, že jsem tou historkou možná zbytečně zmrazila atmosféru.
 
 „Jste opravdu všichni takoví?“ plácnu ke všemu hloupě.
 
@@ -31,7 +31,7 @@ Oliver přemýšlí.
 
 „Obávám se, že víceméně ano,“ říká vážně a já na něho vytřeštím oči. „Lišíme se jen mírou svého sobectví.“
 
-Naštěstí nám v příští chvíli přinesou předkrm; plamínek svíčky se při příchodu číšníka zatřepotá, ale nezhasne. Carpaccio je skvělé, ale já mám pořád před očima tu mrtvou staženou kozu.
+Naštěstí nám v příští chvíli přinesou předkrm; plamínek svíčky se při příchodu číšníka zatřepotá, ale nezhasne. **Carpaccio** je skvělé, ale já mám pořád před očima tu mrtvou staženou kozu.
 
 „No, pokud možno dobrou chuť,“ říká Oliver.
 
@@ -39,7 +39,7 @@ Naštěstí nám v příští chvíli přinesou předkrm; plamínek svíčky se
 
   
 
-U aperitivu, na který jsme kvůli Ingrid úplně zapomněli, navrhnu Oliverovi tykání. Už se to nedá odkládat. Připíjíme si, a jakmile si po chvíli zvykneme na výslovnost nezvyklého ty, naše konverzace se rozběhne se stejnou lehkostí jako dřív. Je to opět ten Oliver, jakého si pamatuji z našich hovorů na pláži: uvolněný, chytrý, zábavný.
+U aperitivu, na který jsme kvůli Ingrid úplně zapomněli, navrhnu Oliverovi tykání. Už se to nedá odkládat. Připíjíme si, a jakmile si po chvíli zvykneme na výslovnost nezvyklého **ty**, naše konverzace se rozběhne se stejnou lehkostí jako dřív. Je to opět ten Oliver, jakého si pamatuji z našich hovorů na pláži: uvolněný, chytrý, zábavný.
 
 Nahnu se blíž k němu a pod stolem se nenápadně dotknu jeho kolena. Cítím na kůži jeho teplo. Světlo svíčky se mu odráží v očích – a mě ani na okamžik nenapadne myslet na AIDS a stafylokoky.
 
@@ -51,29 +51,29 @@ Neodpoví. Chopím se sklenice a trapně vysrknu pár zbylých kapek. Láhev je
 
 Občas z nervozity hrozně žvaním.
 
-„Nepopiratelná, leč upřímně řečeno poněkud banální skutečnost, že žijeme jen jednou,“ pronese nečekaně Oliver, „pro mě momentálně není úplně přesvědčivým důvodem pro objednání další láhve.“
+„Nepopiratelná, leč upřímně řečeno poněkud banální skutečnost, že **žijeme jen jednou**,“ pronese nečekaně Oliver, „pro mě momentálně **není** úplně přesvědčivým důvodem pro objednání další láhve.“
 
 Říká to jiným tónem, než mluvil předtím. Polekaně ho pozoruju.
 
-„Řekni na rovinu, že se chceš se mnou přiopít, a já tu láhev rád objednám,“ pokračuje. „Ale nelži. Mně se totiž nechce lhát. Já nebudu předstírat živý zájem o deregulaci cen pražských bytů, když ve skutečnosti – jak oba moc dobře víme – mám zájem o tebe. Předstírání je sice možná účinné, ale na druhou stranu je strašlivě únavné. Bude mi čtyřicet. Tyhle hry mě už dávno nebaví.“
+„Řekni na rovinu, že se chceš se mnou přiopít, a já tu láhev rád objednám,“ pokračuje. „Ale nelži. Mně se totiž nechce lhát. Já nebudu předstírat živý zájem o deregulaci cen pražských bytů, když ve skutečnosti – jak oba moc dobře víme – mám zájem o tebe. Předstírání je sice možná účinné, ale na druhou stranu je strašlivě **únavné**. Bude mi čtyřicet. Tyhle hry mě už dávno nebaví.“
 
-„Hry?“
+**„Hry?“**
 
-„Hry. Odmítám se například stále vyhýbat jakýmkoli zmínkám o Richardovi, a skrývat tak, že ve vzduchu nad naším stolem už od začátku večeře visí potenciální nevěra.“
+„Hry. Odmítám se například stále vyhýbat jakýmkoli zmínkám o Richardovi, a skrývat tak, že ve vzduchu nad naším stolem už od začátku večeře visí potenciální **nevěra**.“
 
 Jsem v šoku.
 
-„Ty jsi mě pozval na večeři!“ vypravím ze sebe.
+„**Ty** jsi mě pozval na večeři!“ vypravím ze sebe.
 
-„To je pravda,“ musí uznat Oliver. „Ale aspoň teď se pokouším jednat fér. Odmítám tě nenápadně opíjet, odmítám využívat tvé chvilkové slabosti, odmítám se tě náhodně dotýkat, odmítám ve správnou chvíli nechtěně, nezamýšleně mávnout na taxík, divit se, proč ten taxík vůbec zastavil, a doma tě pak nenásilně vmanévrovat do ložnice… Všechen ten obvyklej pokryteckej krám!“
+„To je pravda,“ musí uznat Oliver. „Ale aspoň teď se pokouším jednat fér. Odmítám tě **nenápadně** opíjet, odmítám využívat tvé **chvilkové slabosti**, odmítám se tě **náhodně** dotýkat, odmítám ve správnou chvíli **nechtěně, nezamýšleně** mávnout na taxík, **divit se**, proč ten taxík vůbec zastavil, a doma tě pak **nenásilně** vmanévrovat do ložnice… Všechen ten obvyklej pokryteckej krám!“
 
 Oliver ke konci projevu zvýší hlas, ale sám si to uvědomí a po krátké pauze promluví už tišeji.
 
-„Já nebudu taktizovat, jakkoli se to možná obrátí proti mně. Říkám to samozřejmě s vědomím, že takto okázalá rezignace na zavedenou sváděcí taktiku může být vykládána jako taktika obzvlášť rafinovaná – ale s tím nic nenadělám. Zkrátka a dobře: pokud chceš, tak se mě dotýkej, ale ne pokradmu… Jestli ti opravdu stojí za to zahnout Richardovi se skoro čtyřicetiletým náladovým alkoholikem, tak to udělej – ale přiznaně. S plným vědomím toho, co děláš. Nepřenášej svou odpovědnost na vypité víno, na tu romantickou svíčku na stole nebo na chudáka taxikáře… Přiznej si, že pokud mávnem na taxík, zaveze nás do mojí postele. Chceš to?“
+„Já **nebudu** taktizovat, jakkoli se to možná obrátí proti mně. Říkám to samozřejmě s vědomím, že takto okázalá rezignace na zavedenou sváděcí taktiku může být vykládána jako taktika obzvlášť rafinovaná – ale s tím nic nenadělám. Zkrátka a dobře: pokud chceš, tak se mě dotýkej, ale ne **pokradmu**… Jestli ti opravdu stojí za to zahnout Richardovi se skoro čtyřicetiletým náladovým alkoholikem, tak to udělej – ale **přiznaně**. S plným vědomím toho, co děláš. Nepřenášej svou odpovědnost na vypité víno, na tu romantickou svíčku na stole nebo na chudáka taxikáře… **Přiznej si**, že pokud mávnem na taxík, zaveze nás do mojí postele. Chceš to?“
 
 Chci – a tak to udělám. V restauraci, přede všemi. Dotknu se špiček jeho prstů a sevřu hřbet jeho ruky. Předkloním se, položím svou zpocenou dlaň na Oliverovo předloktí, pohladím jeho dětské hodinky, a zamířím dlaní výš, až do výstřihu jeho košile. Oliver zavře oči. Někteří hosté nás pozorují. K němu jet nemůžu, uvědomuju si. Bez svého parfému, zubního kartáčku, čistých kalhotek, odličovací soupravy, nočního krému, pyžama a femigelu se v žádném případě neobejdu.
 
-„Do mojí postele,“ říkám tiše.
+„Do **mojí** postele,“ říkám tiše.
 
 ## 3/
 
@@ -81,35 +81,35 @@ Chci – a tak to udělám. V restauraci, přede všemi. Dotknu se špiček j
 
 Taxík zastavuje před naším panelákem.
 
-Jak už jsem vám, milé dámy, myslím říkala, máma paneláky odjakživa nesnáší; ještě když táta žil, donutila ho, aby alespoň vyzdil a obložil umakartové koupelnové jádro. Po jeho smrti se nejprve zaměřila na ošklivé béžové linoleum v předsíni a kuchyni, které nechala nahradit cihlově okrovými dlaždicemi, a později, když znovu něco našetřila, dala vyměnit všechny ty bílé papundeklové dveře za dřevěné. Předloni ze všech pokojů vyhodila staré koberce, v Baumaxu zakoupila se slevou šedesát čtverečních metrů dřevěné plovoucí podlahy, vzor americká třešeň, oblékla si tričko s výstřihem a šla požádat Žemlu, zda by nám podlahu laskavě nepoložil… Což Žemla samozřejmě ochotně a zdarma udělal (Žemlová se mohla zbláznit), a máma konečně mohla přestat zouvat návštěvy. Loni své renovační výboje dokonce odvážně rozšířila i za hranice našeho bytu: natřela zábradlí kolem výtahové šachty, společně jsme vytapetovaly chodbu, vyměnily rozbitý kryt stropní lampy a přilepily chemoprenem odchlípnuté gumové pásky na hranách schodů.
+Jak už jsem vám, milé dámy, myslím říkala, máma paneláky odjakživa nesnáší; ještě když táta žil, donutila ho, aby alespoň vyzdil a obložil umakartové koupelnové jádro. Po jeho smrti se nejprve zaměřila na ošklivé béžové linoleum v předsíni a kuchyni, které nechala nahradit cihlově okrovými dlaždicemi, a později, když znovu něco našetřila, dala vyměnit všechny ty bílé papundeklové dveře za dřevěné. Předloni ze všech pokojů vyhodila staré koberce, v Baumaxu zakoupila se slevou šedesát čtverečních metrů dřevěné plovoucí podlahy, vzor **americká třešeň**, oblékla si tričko s výstřihem a šla požádat Žemlu, zda by nám podlahu laskavě nepoložil… Což Žemla samozřejmě ochotně a zdarma udělal (Žemlová se mohla zbláznit), a máma konečně mohla přestat zouvat návštěvy. Loni své renovační výboje dokonce odvážně rozšířila i za hranice našeho bytu: natřela zábradlí kolem výtahové šachty, společně jsme vytapetovaly chodbu, vyměnily rozbitý kryt stropní lampy a přilepily chemoprenem odchlípnuté gumové pásky na hranách schodů.
 
 Bohužel ani tak nepůsobí vstup do našeho bytu nikterak impozantně. Když s Oliverem vystoupíme z výtahu (páchnoucího odjakživa močí a zatuchlinou), přímo před očima máme gigantický botník rodiny Žemlových, který zabírá bezmála třetinu chodby; vyrobil ho sám Žemla a Žemlová jej opatřila červenomodrým textilním závěsem s motivy rozkvetlého vlčího máku.
 
-„Vždycky, když jsem v nějakém románu četla něco jako nedokázali už ovládnout svou vášeň a svlékat se začali ještě na chodbě,“ říkám Oliverovi, zatímco odemykám dveře, „vzpomněla jsem si chtě nechtě na tenhle botník…“
+„Vždycky, když jsem v nějakém románu četla něco jako **nedokázali už ovládnout svou vášeň a svlékat se začali ještě na chodbě**,“ říkám Oliverovi, zatímco odemykám dveře, „vzpomněla jsem si chtě nechtě na tenhle botník…“
 
 Ten vtípek trochu uvolní atmosféru.
 
 „Nezouvej se a běž dál,“ říkám a ukážu rukou směrem k mému pokoji, „moje postel je támhle…“
 
-Pokouším se dál žertovat, ale ve skutečnosti jsme oba mírně zaražení. Překvapeně zjišťujeme, že i zcela nepokrytecký přístup k sexu není bez problémů. Alespoň mě vyslovená pravda zatím ještě neosvobodila natolik, abych Oliverovi dokázala bez mrknutí oka říct Běž do koupelny a umej si žalud, počkám na tebe v ložnici…
+Pokouším se dál žertovat, ale ve skutečnosti jsme oba mírně zaražení. Překvapeně zjišťujeme, že i zcela **nepokrytecký** přístup k sexu není bez problémů. Alespoň mě **vyslovená pravda** zatím ještě neosvobodila natolik, abych Oliverovi dokázala bez mrknutí oka říct **Běž do koupelny a umej si žalud, počkám na tebe v ložnici…**
 
-Stojíme na prahu mého dívčího pokoje. Najednou si uvědomím, kam se Oliver dívá. Na poličce nad postelí mám početnou sbírku plyšáků: klokánka, pejska, mončičáka a další…
+Stojíme na prahu mého dívčího pokoje. Najednou si uvědomím, kam se Oliver dívá. Na poličce nad postelí mám početnou sbírku plyšáků: klokánka, pejska, **mončičáka** a další…
 
 „Proboha, co to je?“ vyhrkne Oliver s upřímným zděšením. „Okamžitě mi ukaž občanku!“
 
-„To jsou jenom… talismany,“ říkám rozpačitě a rychle zvířátka odklízím. Cítím se vůči nim ale natolik provinile, že navzdory Oliverově přítomnosti musím alespoň klokánka omluvně políbit.
+„To jsou jenom… talismany,“ říkám rozpačitě a rychle zvířátka odklízím. Cítím se vůči nim ale natolik provinile, že navzdory Oliverově přítomnosti musím alespoň **klokánka** omluvně políbit.
 
-„Zdálo se mi to, nebo jsi ho skutečně políbila?!“ zvolá Oliver.
+„Zdálo se mi to, nebo jsi ho skutečně **políbila**?!“ zvolá Oliver.
 
 „Nezdálo,“ statečně čelím jeho pohledu, ale jsem celá rudá. „Nosí mi štěstí.“
 
-„Líbáš ty… předměty každý večer?“ zajímá se Oliver.
+„Líbáš ty… **předměty** každý večer?“ zajímá se Oliver.
 
 Zahanbeně přikývnu.
 
-„Takže je to vlastně závislost,“ konstatuje pochmurně.
+„Takže je to vlastně **závislost**,“ konstatuje pochmurně.
 
-Trvá na tom, abych podstoupila léčbu. Navrhuje mi cosi jako náhradní metadonový program: ať prý zpočátku zkouším líbat beztvaré kusy plyše.
+Trvá na tom, abych podstoupila léčbu. Navrhuje mi cosi jako **náhradní metadonový program**: ať prý zpočátku zkouším líbat beztvaré kusy plyše.
 
 „Nic s očima, rozumíš?“ říká nekompromisně. „Další fází pak bude přechod od plyše k ložnímu povlečení z damašku.“
 

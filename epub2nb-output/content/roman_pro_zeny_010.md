@@ -15,13 +15,13 @@ Do Chicaga odletěla za Američanem jménem Steven. Před ním chodila půl roku
 
 Proč samí cizinci?
 
-Určitě, milé dámy, víte, co jsou to traumata z dětství. V parku vás v deseti letech porazí rozdováděný dobrman – a vy se pak celý život úzkostlivě bojíte všech psů. Nebo vám v mládí dávají na kašel med s cibulí – a vy pak celý život nejíte vůbec nic, v čem je cibule.
+Určitě, milé dámy, víte, co jsou to traumata z dětství. V parku vás v deseti letech porazí rozdováděný dobrman – a vy se pak celý život úzkostlivě bojíte **všech** psů. Nebo vám v mládí dávají na kašel med s cibulí – a vy pak celý život nejíte **vůbec nic**, v čem je cibule.
 
 Moje máma má podobné trauma: v mládí chodila se dvěma Čechy – a od té doby Čechy nesnáší.
 
-Všechny.
+**Všechny**.
 
-O tom prvním mluví zásadně jako o Pažoutovi (přičemž mi dlouho nebylo jasné, zda je to jeho příjmení, nebo pouze přezdívka; kdykoli o něm máma začala, tvářila se tak naštvaně, že jsem se jí bála zeptat).
+O tom prvním mluví zásadně jako o **Pažoutovi** (přičemž mi dlouho nebylo jasné, zda je to jeho příjmení, nebo pouze přezdívka; kdykoli o něm máma začala, tvářila se tak naštvaně, že jsem se jí bála zeptat).
 
 Ten druhý Čech byl můj táta.
 
@@ -39,7 +39,7 @@ Definitivně se rozešli toho večera, co Pažout přišel do Realistického div
 
 Ještě týž večer se seznámila s mým tátou.
 
-Na rozdíl od Pažouta měl na sobě dobře padnoucí tmavý oblek a lakýrky, a dokonce mámu o přestávce pozval do divadelního bufetu na dvě deci bílého vína. Skleničku držel dole za stopku, hovořil kultivovaným, příjemně ztlumeným hlasem a ve dveřích jí pokaždé dal přednost. Máma podlehla osudovému omylu: začala se domnívat, že je to tátova skutečná, jaksi permanentní podoba.
+Na rozdíl od Pažouta měl na sobě dobře padnoucí tmavý oblek a lakýrky, a dokonce mámu o přestávce pozval do divadelního bufetu na dvě deci bílého vína. Skleničku držel dole za stopku, hovořil kultivovaným, příjemně ztlumeným hlasem a ve dveřích jí pokaždé dal přednost. Máma podlehla osudovému omylu: začala se domnívat, že je to tátova skutečná, jaksi **permanentní** podoba.
 
 Když na jaře roku 1978 jeho lest s falešným převlekem definitivně prohlédla, bylo už pozdě. Byla ve třetím měsíci s úplně stejným českým buranem, jako byl Pažout.
 
@@ -61,19 +61,19 @@ Bohužel ho taky milovala.
 
 Podle ní jsou Češi buďto zamindrákovaní slaboši, nebo naopak domácí tyrani. Jsou to buďto trapní šetřílkové, anebo zbohatlíci, mluvící jen o svých penězích. V každém případě jsou to vulgární primitivové a beznadějní křupani. Na ulici kolem sebe plivou, páchnou potem a nosí děsivé spodní prádlo, o oblecích ani nemluvě. Jejich hygienické návyky jsou strašlivé, dokonce ještě strašlivější než způsob, jakým jedí krevety (pokud je ovšem na krevety někdo pozve, protože sami by si tak drahé jídlo nikdy neobjednali). A tak dále. Výjimky potvrzují pravidlo.
 
-Podobně jako Čechy nesnáší máma už i češtinu. Čeština je podle ní starý, opotřebovaný jazyk, v němž naprostá většina věcí nefunguje – podobně jako v českých vlacích. Kdosi (Pažout) vám například česky řekne: Miluju tě, chci si tě vzít a žít s tebou celý život – a za pouhých pár měsíců už ta slova neplatí. Slova v češtině už zkrátka ztratila svůj význam – nebo dokonce získala význam zcela opačný.
+Podobně jako Čechy nesnáší máma už i **češtinu**. Čeština je podle ní starý, opotřebovaný jazyk, v němž naprostá většina věcí nefunguje – podobně jako v českých **vlacích**. Kdosi (Pažout) vám například česky řekne: **Miluju tě, chci si tě vzít a žít s tebou celý život** – a za pouhých pár měsíců už ta slova neplatí. Slova v češtině už zkrátka ztratila svůj význam – nebo dokonce získala význam zcela opačný.
 
-Miluji tě znamená opustím tě.
+**Miluji tě** znamená **opustím tě**.
 
-Nebo umřu.
+Nebo **umřu**.
 
 A podobně.
 
-Značně rezervovaný vztah má tudíž máma i k české historii. Celé národní obrození považuje za obrovský omyl. Kdyby ti zakomplexovaní chudáčkové neblbli, tvrdí, mohli jsme dneska bydlet ve Vídni na Graben… 28. říjen je pro mou matku skoro totéž co jaltská konference: výměnou za národní svobodu vydal Masaryk české ženy napospas nejrůznějším Kondelíkům, Švejkům, Jakešům, Milošům Zemanům a Pažoutům, nebo v lepším případě neurotickým impotentům typu Kafky či Karla Čapka.
+Značně rezervovaný vztah má tudíž máma i k české **historii**. Celé národní obrození považuje za obrovský omyl. Kdyby ti zakomplexovaní chudáčkové neblbli, tvrdí, mohli jsme dneska bydlet ve Vídni na Graben… 28. říjen je pro mou matku skoro totéž co jaltská konference: výměnou za národní svobodu vydal Masaryk české ženy napospas nejrůznějším Kondelíkům, Švejkům, Jakešům, Milošům Zemanům a Pažoutům, nebo v lepším případě neurotickým impotentům typu Kafky či Karla Čapka.
 
 „Kafka byl Němec, mami…,“ namítám nesměle, ale máma jen mávne rukou.
 
-„Ani tak nemám pocit, že by bylo osmadvacátýho října co oslavovat,“ říká.
+„Ani tak nemám pocit, že by bylo osmadvacátýho října co **oslavovat**,“ říká.
 
 ## 5/
 
@@ -83,9 +83,9 @@ Máma nesnáší Čechy, české vlaky a igelitky.
 
 Miluje cizince, letadla a kvalitní značková zavazadla.
 
-Někdy mám pocit, že letiště a letadla miluje máma ještě o něco víc než cizince; vycházím z toho, že žádnému cizinci se nepodařilo získat srdce mé matky jaksi přímo v Praze. Bylo očividně ztrátou času, když jí všichni ti přechodně zde pobývající Stewartové a Knutové kupovali šperky a parfémy a zvali ji na okázalé večeře do restaurace U Malířů nebo do Tančícího domu… Ztrácíte čas, pánové, myslela jsem si v duchu, jestli chcete mou matku sbalit, odjeďte zpátky do vlasti – a za pár dní jí pošlete letenku. Potom na sebe hoďte svůj nejlepší oblek, zajeďte s autem do myčky a s kyticí růží na ni počkejte v letištní hale – a já vám garantuju, že ještě týž večer bude moje máma vaše.
+Někdy mám pocit, že letiště a letadla miluje máma ještě o něco víc než cizince; vycházím z toho, že žádnému cizinci se nepodařilo získat srdce mé matky jaksi přímo **v Praze**. Bylo očividně ztrátou času, když jí všichni ti přechodně zde pobývající Stewartové a Knutové kupovali šperky a parfémy a zvali ji na okázalé večeře do restaurace U Malířů nebo do Tančícího domu… Ztrácíte čas, pánové, myslela jsem si v duchu, jestli chcete mou matku sbalit, odjeďte zpátky do vlasti – a za pár dní jí pošlete **letenku**. Potom na sebe hoďte svůj nejlepší oblek, zajeďte s autem do myčky a s kyticí růží na ni počkejte v letištní hale – a já vám garantuju, že ještě týž večer bude moje máma vaše.
 
-Máma má totiž pro létání slabost. Jen málo věcí na světě jí dovede udělat větší radost než tiše se otvírající hydraulické dveře s nápisem ODLETY-DEPARTURES, za nimiž její stříbřitě šedý pojízdný kufr značky Samsonite čeká už jen hladký mramor letištní haly a fronta u odbavovací přepážky… Máma se do fronty zařadí s tajuplným úsměvem, který si bezpochyby nikdo z nervózních cestujících nedokáže vysvětlit.
+Máma má totiž pro létání slabost. Jen málo věcí na světě jí dovede udělat větší radost než tiše se otvírající hydraulické dveře s nápisem **ODLETY-DEPARTURES**, za nimiž její stříbřitě šedý pojízdný kufr značky **Samsonite** čeká už jen hladký mramor letištní haly a fronta u odbavovací přepážky… Máma se do fronty zařadí s tajuplným úsměvem, který si bezpochyby nikdo z nervózních cestujících nedokáže vysvětlit.
 
 („Mona Lisa z Ruzyně…,“ poznamenal posměšně Oliver, když jsem mu o matčině vášni pro létání poprvé vyprávěla.)
 
@@ -95,7 +95,7 @@ Máma má totiž pro létání slabost. Jen málo věcí na světě jí dovede u
 
 Působí to samozřejmě dost afektovaně, vzhledem k omylu dívky snad až trochu urážlivě, ale to rozhodně nebyl mámin záměr.
 
-Máma prostě už myslí anglicky.
+Máma prostě už **myslí** anglicky.
 
 Rodný jazyk ji začíná rychle opouštět. S pomocí několika posledních českých slov ještě požádá o místo u okna – stále s oním záhadným, spokojeným úsměvem.
 
@@ -111,7 +111,7 @@ Vyřídí potřebné formality a potom matce podá palubní vstupenku.
 
 „Thank you,“ říká matka naprosto samozřejmě.
 
-Uchopí svůj hand luggage, samozřejmě rovněž pojízdný, udělá s ním elegantní otočku a odchází. Dívka u přepážky ji ještě chvíli pokradmu sleduje. Máma má na sobě tmavomodrý kostým a pohybuje se v něm tak sebejistě, tak cílevědomě, že ji někteří z lidí, které míjí, považují za letušku. Zamíří k baru Meeting point, kde si vestoje vypije sklenku sektu. Šampaňské ještě více odlehčí její krok, takže pasovou kontrolou projde s profesionálním šarmem filmové hvězdy. Celníci, aniž dost dobře tuší proč, se k ní chovají s nápadnou zdvořilostí… V tranzitu máma nejprve zajde do Duty Free Shopu, vyzkouší si vzorek hydratačního krému Clinique, přičichne si k novému parfému Gucci (pokud má peníze, koupí si ho) – a pak se posadí mezi cestující u východu B 6, nenuceně si přehodí nohu přes nohu a s rozevřenou francouzskou ELLE v ruce důstojně čeká na odlet. Když zazní výzva k nástupu, máma na rozdíl od ostatních zůstane klidně sedět; teprve když se ten netrpělivý lidský chumel u skleněných dveří zcela rozptýlí a z reproduktoru se ozve the last call for passengers to New York…, matka beze spěchu vstane, uloží ELLE do kabely, popojde oněch několik kroků a podá mladému stevardovi svou letenku (udělá to takovým způsobem, že stevard zčervená). V letadle, které je už zcela zaplněné, vzbudí matčin opožděný příchod nemalou pozornost. Vsadím se, že ještě nikdo v dějinách letecké přepravy – možná snad s výjimkou tanečnice Josephiny Bakerové – se nedokázal protáhnout uličkou mezi sedadly tak elegantně jako moje matka.
+Uchopí svůj **hand luggage**, samozřejmě rovněž pojízdný, udělá s ním elegantní otočku a odchází. Dívka u přepážky ji ještě chvíli pokradmu sleduje. Máma má na sobě tmavomodrý kostým a pohybuje se v něm tak sebejistě, tak cílevědomě, že ji někteří z lidí, které míjí, považují za letušku. Zamíří k baru **Meeting point**, kde si vestoje vypije sklenku sektu. Šampaňské ještě více odlehčí její krok, takže pasovou kontrolou projde s profesionálním šarmem filmové hvězdy. Celníci, aniž dost dobře tuší proč, se k ní chovají s nápadnou zdvořilostí… V tranzitu máma nejprve zajde do **Duty Free Shopu**, vyzkouší si vzorek hydratačního krému **Clinique**, přičichne si k novému parfému **Gucci** (pokud má peníze, koupí si ho) – a pak se posadí mezi cestující u východu B 6, nenuceně si přehodí nohu přes nohu a s rozevřenou **francouzskou** ELLE v ruce důstojně čeká na odlet. Když zazní výzva k nástupu, máma na rozdíl od ostatních zůstane klidně sedět; teprve když se ten netrpělivý lidský chumel u skleněných dveří zcela rozptýlí a z reproduktoru se ozve **the last call for passengers to New York**…, matka beze spěchu vstane, uloží ELLE do kabely, popojde oněch několik kroků a podá mladému stevardovi svou letenku (udělá to takovým způsobem, že stevard zčervená). V letadle, které je už zcela zaplněné, vzbudí matčin opožděný příchod nemalou pozornost. Vsadím se, že ještě nikdo v dějinách letecké přepravy – možná snad s výjimkou tanečnice Josephiny Bakerové – se nedokázal protáhnout uličkou mezi sedadly tak elegantně jako moje matka.
 
 „Kdo to je?“ šeptají ženy svým manželům.
 
@@ -119,6 +119,6 @@ Uchopí svůj hand luggage, samozřejmě rovněž pojízdný, udělá s ním el
 
 Máma se posadí. Mezitím už jedna z letušek začíná obvyklou demonstraci použití pásů a záchranných vest. Přestože matka létá poměrně často, sleduje ono krátké školení překvapivě pozorně, a když se letuščiny sepnuté dlaně o chvíli později prudce rozlétnou směrem k nouzovým východům, z matčina výrazu je už zcela zřejmé, že tu jde o cosi víc než o obyčejnou bezpečnostní instruktáž.
 
-Pro mou mámu je to mše a zmíněná letuška je mladou kněžkou její životní víry.
+Pro mou mámu je to **mše** a zmíněná letuška je mladou **kněžkou** její životní víry.
 
-Víry, že ji ta obrovská síla Boeingu 737 dokáže navždy odnést pryč od všech těch nevěrných, buranských a špatně oblečených Čechů.
+Víry, že ji ta obrovská síla Boeingu 737 dokáže navždy odnést pryč od všech těch nevěrných, buranských a špatně oblečených **Čechů**.

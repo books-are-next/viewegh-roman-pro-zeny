@@ -1,0 +1,2145 @@
+{
+  "author": "Michal Viewegh",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "viewegh-roman-pro-zeny-44418a4",
+  "languagecode": "cs",
+  "modified": "2019-01-24T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Román pro ženy",
+  "revision": "44418a4",
+  "generatedAt": {
+    "date": "Fri Apr 01 2022 10:49:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648810152896
+  },
+  "documents": [
+    {
+      "title": "Román pro ženy",
+      "file": "roman_pro_zeny_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "roman_pro_zeny_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Drahá Lauro, • Román pro ženy",
+      "file": "roman_pro_zeny_005.html",
+      "words": 556,
+      "chars": 3323,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 1,
+      "prev": "roman_pro_zeny_002.html",
+      "next": "roman_pro_zeny_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Drahá Lauro,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PROLOG • Román pro ženy",
+      "file": "roman_pro_zeny_006.html",
+      "words": 461,
+      "chars": 2817,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 2,
+      "prev": "roman_pro_zeny_005.html",
+      "next": "roman_pro_zeny_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PROLOG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA I • Román pro ženy",
+      "file": "roman_pro_zeny_007.html",
+      "words": 1398,
+      "chars": 8315,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 3,
+      "prev": "roman_pro_zeny_006.html",
+      "next": "roman_pro_zeny_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA I",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA II • Román pro ženy",
+      "file": "roman_pro_zeny_008.html",
+      "words": 830,
+      "chars": 4814,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 4,
+      "prev": "roman_pro_zeny_007.html",
+      "next": "roman_pro_zeny_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA II",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA III • Román pro ženy",
+      "file": "roman_pro_zeny_009.html",
+      "words": 1020,
+      "chars": 5954,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 5,
+      "prev": "roman_pro_zeny_008.html",
+      "next": "roman_pro_zeny_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA III",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA IV • Román pro ženy",
+      "file": "roman_pro_zeny_010.html",
+      "words": 1573,
+      "chars": 9558,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 6,
+      "prev": "roman_pro_zeny_009.html",
+      "next": "roman_pro_zeny_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA IV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA V • Román pro ženy",
+      "file": "roman_pro_zeny_011.html",
+      "words": 1997,
+      "chars": 12091,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 7,
+      "prev": "roman_pro_zeny_010.html",
+      "next": "roman_pro_zeny_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA V",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VI • Román pro ženy",
+      "file": "roman_pro_zeny_012.html",
+      "words": 2029,
+      "chars": 12073,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 8,
+      "prev": "roman_pro_zeny_011.html",
+      "next": "roman_pro_zeny_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8/",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VII • Román pro ženy",
+      "file": "roman_pro_zeny_013.html",
+      "words": 536,
+      "chars": 3216,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 9,
+      "prev": "roman_pro_zeny_012.html",
+      "next": "roman_pro_zeny_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VIII • Román pro ženy",
+      "file": "roman_pro_zeny_014.html",
+      "words": 1311,
+      "chars": 8044,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 10,
+      "prev": "roman_pro_zeny_013.html",
+      "next": "roman_pro_zeny_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA IX • Román pro ženy",
+      "file": "roman_pro_zeny_015.html",
+      "words": 1056,
+      "chars": 6465,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 11,
+      "prev": "roman_pro_zeny_014.html",
+      "next": "roman_pro_zeny_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA IX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA X • Román pro ženy",
+      "file": "roman_pro_zeny_016.html",
+      "words": 691,
+      "chars": 3991,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 12,
+      "prev": "roman_pro_zeny_015.html",
+      "next": "roman_pro_zeny_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA X",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XI • Román pro ženy",
+      "file": "roman_pro_zeny_017.html",
+      "words": 1403,
+      "chars": 8584,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 13,
+      "prev": "roman_pro_zeny_016.html",
+      "next": "roman_pro_zeny_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XII • Román pro ženy",
+      "file": "roman_pro_zeny_018.html",
+      "words": 1606,
+      "chars": 10010,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 14,
+      "prev": "roman_pro_zeny_017.html",
+      "next": "roman_pro_zeny_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIII • Román pro ženy",
+      "file": "roman_pro_zeny_019.html",
+      "words": 1563,
+      "chars": 9256,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 15,
+      "prev": "roman_pro_zeny_018.html",
+      "next": "roman_pro_zeny_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIV • Román pro ženy",
+      "file": "roman_pro_zeny_020.html",
+      "words": 1476,
+      "chars": 8847,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 16,
+      "prev": "roman_pro_zeny_019.html",
+      "next": "roman_pro_zeny_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XV • Román pro ženy",
+      "file": "roman_pro_zeny_021.html",
+      "words": 2371,
+      "chars": 14080,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 17,
+      "prev": "roman_pro_zeny_020.html",
+      "next": "roman_pro_zeny_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8/",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVI • Román pro ženy",
+      "file": "roman_pro_zeny_022.html",
+      "words": 1773,
+      "chars": 10902,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 18,
+      "prev": "roman_pro_zeny_021.html",
+      "next": "roman_pro_zeny_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVII • Román pro ženy",
+      "file": "roman_pro_zeny_023.html",
+      "words": 752,
+      "chars": 4592,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 19,
+      "prev": "roman_pro_zeny_022.html",
+      "next": "roman_pro_zeny_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVIII • Román pro ženy",
+      "file": "roman_pro_zeny_024.html",
+      "words": 1240,
+      "chars": 7415,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 20,
+      "prev": "roman_pro_zeny_023.html",
+      "next": "roman_pro_zeny_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIX • Román pro ženy",
+      "file": "roman_pro_zeny_025.html",
+      "words": 1063,
+      "chars": 6509,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 21,
+      "prev": "roman_pro_zeny_024.html",
+      "next": "roman_pro_zeny_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XX • Román pro ženy",
+      "file": "roman_pro_zeny_026.html",
+      "words": 1433,
+      "chars": 8779,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 22,
+      "prev": "roman_pro_zeny_025.html",
+      "next": "roman_pro_zeny_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXI • Román pro ženy",
+      "file": "roman_pro_zeny_027.html",
+      "words": 1509,
+      "chars": 8934,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 23,
+      "prev": "roman_pro_zeny_026.html",
+      "next": "roman_pro_zeny_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXII • Román pro ženy",
+      "file": "roman_pro_zeny_028.html",
+      "words": 1184,
+      "chars": 7348,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 24,
+      "prev": "roman_pro_zeny_027.html",
+      "next": "roman_pro_zeny_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIII • Román pro ženy",
+      "file": "roman_pro_zeny_029.html",
+      "words": 1761,
+      "chars": 10733,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 25,
+      "prev": "roman_pro_zeny_028.html",
+      "next": "roman_pro_zeny_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIV • Román pro ženy",
+      "file": "roman_pro_zeny_030.html",
+      "words": 902,
+      "chars": 5421,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 26,
+      "prev": "roman_pro_zeny_029.html",
+      "next": "roman_pro_zeny_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXV • Román pro ženy",
+      "file": "roman_pro_zeny_031.html",
+      "words": 977,
+      "chars": 5904,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 27,
+      "prev": "roman_pro_zeny_030.html",
+      "next": "roman_pro_zeny_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVI • Román pro ženy",
+      "file": "roman_pro_zeny_032.html",
+      "words": 882,
+      "chars": 5284,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 28,
+      "prev": "roman_pro_zeny_031.html",
+      "next": "roman_pro_zeny_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVII • Román pro ženy",
+      "file": "roman_pro_zeny_033.html",
+      "words": 832,
+      "chars": 5062,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 29,
+      "prev": "roman_pro_zeny_032.html",
+      "next": "roman_pro_zeny_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVIII • Román pro ženy",
+      "file": "roman_pro_zeny_034.html",
+      "words": 954,
+      "chars": 5900,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 30,
+      "prev": "roman_pro_zeny_033.html",
+      "next": "roman_pro_zeny_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIX • Román pro ženy",
+      "file": "roman_pro_zeny_035.html",
+      "words": 1457,
+      "chars": 8745,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 31,
+      "prev": "roman_pro_zeny_034.html",
+      "next": "roman_pro_zeny_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXX • Román pro ženy",
+      "file": "roman_pro_zeny_036.html",
+      "words": 1062,
+      "chars": 6229,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 32,
+      "prev": "roman_pro_zeny_035.html",
+      "next": "roman_pro_zeny_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXX",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXI • Román pro ženy",
+      "file": "roman_pro_zeny_037.html",
+      "words": 1620,
+      "chars": 9696,
+      "ideas": 94,
+      "role": "chapter",
+      "order": 33,
+      "prev": "roman_pro_zeny_036.html",
+      "next": "roman_pro_zeny_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXII • Román pro ženy",
+      "file": "roman_pro_zeny_038.html",
+      "words": 1275,
+      "chars": 7634,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 34,
+      "prev": "roman_pro_zeny_037.html",
+      "next": "roman_pro_zeny_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXIII • Román pro ženy",
+      "file": "roman_pro_zeny_039.html",
+      "words": 808,
+      "chars": 4890,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 35,
+      "prev": "roman_pro_zeny_038.html",
+      "next": "roman_pro_zeny_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXIII",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXIV • Román pro ženy",
+      "file": "roman_pro_zeny_040.html",
+      "words": 709,
+      "chars": 4438,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 36,
+      "prev": "roman_pro_zeny_039.html",
+      "next": "roman_pro_zeny_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXIV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXV • Román pro ženy",
+      "file": "roman_pro_zeny_041.html",
+      "words": 1303,
+      "chars": 7754,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 37,
+      "prev": "roman_pro_zeny_040.html",
+      "next": "roman_pro_zeny_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXV",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7/",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXVI • Román pro ženy",
+      "file": "roman_pro_zeny_042.html",
+      "words": 582,
+      "chars": 3549,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 38,
+      "prev": "roman_pro_zeny_041.html",
+      "next": "roman_pro_zeny_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXVI",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1/",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2/",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3/",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4/",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5/",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6/",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "EPILOG • Román pro ženy",
+      "file": "roman_pro_zeny_043.html",
+      "words": 178,
+      "chars": 1099,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 39,
+      "prev": "roman_pro_zeny_042.html",
+      "next": "roman_pro_zeny_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "EPILOG",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Román pro ženy",
+      "file": "roman_pro_zeny_044.html",
+      "words": 48,
+      "chars": 300,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 40,
+      "prev": "roman_pro_zeny_043.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Román pro ženy",
+      "file": "colophon.html",
+      "words": 98,
+      "chars": 626,
+      "ideas": 10,
+      "role": "colophon",
+      "order": null,
+      "prev": "roman_pro_zeny_044.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 46286,
+      "chars": 279220,
+      "ideas": 2520
+    },
+    "chapters": {
+      "words": 46181,
+      "chars": 278555,
+      "ideas": 2506
+    }
+  }
+}

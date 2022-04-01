@@ -13,7 +13,7 @@ A nyní vám, milé dámy, budu vyprávět, jak jsem cestovala do New Yorku já
 
 Už týden před odletem začínám být nervózní; jak se den odletu blíží, moje nervozita se pochopitelně stupňuje.
 
-Taxikář, který mě veze na letiště, se pokouší vtipkovat, ale já ho neposlouchám, neboť musím stále kontrolovat, jestli mi z kabelky nevypadl pas, peníze nebo letenka. Tváře mám rozpálené, ale ruce a nos mám ještě studenější než jindy. Když se přede mnou otevřou hydraulické dveře ODLETY (anglické nápisy na rozdíl od mámy nevnímám), jsem už tak vystresovaná, že musím okamžitě zamířit k nejbližším záchodům. Matčin pojízdný kufr Samsonite si beru s sebou, neboť se panicky obávám, že venku by mi jej někdo ukradl. Zavřít dveře těsné kabinky není ovšem vůbec snadné. V zrcadle nad umývadly pozorují moje úsilí dvě přítomné ženy (co si myslí, nevím, ale rozhodně se nedomnívají, že jsem letuška…).
+Taxikář, který mě veze na letiště, se pokouší vtipkovat, ale já ho neposlouchám, neboť musím stále kontrolovat, jestli mi z kabelky nevypadl pas, peníze nebo letenka. Tváře mám rozpálené, ale ruce a nos mám ještě studenější než jindy. Když se přede mnou otevřou hydraulické dveře **ODLETY** (anglické nápisy na rozdíl od mámy nevnímám), jsem už tak vystresovaná, že musím okamžitě zamířit k nejbližším záchodům. Matčin pojízdný kufr **Samsonite** si beru s sebou, neboť se panicky obávám, že venku by mi jej někdo ukradl. Zavřít dveře těsné kabinky není ovšem vůbec snadné. V zrcadle nad umývadly pozorují moje úsilí dvě přítomné ženy (co si myslí, nevím, ale rozhodně se nedomnívají, že jsem letuška…).
 
 Na odchodu z toalet si krátce zkontroluju, jestli mi nevypadl z kabelky pas, peníze nebo letenka, a potom už na jedné z modrých obrazovek rychle hledám svůj let. Není tam! Začínám panikařit a jednoho z procházejících česky mluvících pilotů chytím za oprýmkovaný rukáv.
 
@@ -27,13 +27,13 @@ Pilot se obrátí ke svým dvěma kolegům.
 
 Pohlédne na obrazovku a vzápětí na můj kufr.
 
-„Řekl bych, že odlétáte, ne?“
+„Řekl bych, že **odlétáte**, ne?“
 
 Nechápavě přikývnu. Pilot se ironicky usměje.
 
-„Tak proč se díváte na přílety?“
+„Tak proč se díváte na **přílety**?“
 
-Zrudnu, rozpačitě mu poděkuju a odcházím hledat obrazovku s odlety. Můj let tam skutečně je – a je zde i číslo odbavovací přepážky. Zapíšu si ho na lístek papíru, abych ho nezapomněla.
+Zrudnu, rozpačitě mu poděkuju a odcházím hledat obrazovku s **odlety**. Můj let tam skutečně je – a je zde i číslo odbavovací přepážky. Zapíšu si ho na lístek papíru, abych ho nezapomněla.
 
 „Kolik zavazadel?“ zeptá se mě blondýna za přepážkou, když k ní – s lístečkem v ruce – přistoupím.
 
@@ -47,7 +47,7 @@ Pokouším se zmobilizovat svou asertivitu. Tahle psychická troska přece nejse
 
 „A jsem nekuřák, takže kdyby to šlo –“
 
-„Všechny naše lety jsou už léta nekuřácké,“ poučí mě znuděně slečna. „Jedenáct deset, východ B 6.“
+„**Všechny** naše lety jsou **už léta** nekuřácké,“ poučí mě znuděně slečna. „Jedenáct deset, východ B 6.“
 
 Očividně mne považuje za odbavenou, ale já odmítám přepážku opustit.
 
@@ -55,7 +55,7 @@ Očividně mne považuje za odbavenou, ale já odmítám přepážku opustit.
 
 Slečna vzdychne, podívá se na mě a dá se do vysvětlování.
 
-V baru Meeting point se podívám na nápojový lístek, abych zjistila, kolik zde stojí minerálka; potom si koupím minerálku z automatu. Zapiju kinedryl a projdu pasovou kontrolou. Tvářím se tak nejistě, jako kdybych měla v příručním zavazadle pět kilo čistého heroinu. Připadá mi, že celníci mě pozorují poněkud podezíravě. Zpotím se. V tranzitu najdu příslušný východ, posadím se mezi cestující a pro jistotu se ještě zeptám nejbližšího souseda, zda jsem tu opravdu správně. V kabelce mám Cosmopolitan (českou verzi), ale číst teď nedokážu. Čekám na výzvu k nástupu, v ruce křečovitě svírám palubní vstupenku a modlím se, aby nebyly turbulence. Rozhodnu se, že než definitivně vypnu mobil, zavolám ještě matce, přestože jsme se dohodly, že se ozvu až z New Yorku.
+V baru **Meeting point** se podívám na nápojový lístek, abych zjistila, kolik zde stojí minerálka; potom si koupím minerálku z automatu. Zapiju kinedryl a projdu pasovou kontrolou. Tvářím se tak nejistě, jako kdybych měla v příručním zavazadle pět kilo čistého heroinu. Připadá mi, že celníci mě pozorují poněkud podezíravě. Zpotím se. V tranzitu najdu příslušný východ, posadím se mezi cestující a pro jistotu se ještě zeptám nejbližšího souseda, zda jsem tu opravdu správně. V kabelce mám Cosmopolitan (**českou** verzi), ale číst teď nedokážu. Čekám na výzvu k nástupu, v ruce křečovitě svírám palubní vstupenku a modlím se, aby nebyly turbulence. Rozhodnu se, že než definitivně vypnu mobil, zavolám ještě matce, přestože jsme se dohodly, že se ozvu až z New Yorku.
 
 „Děje se něco?“ diví se máma. „Zrušili let?“
 
@@ -75,9 +75,9 @@ Potom se rozhlédnu, zda se nikdo nedívá, vytáhnu z kabelky plyšového klok
 
 Tak a teď jak jsem se seznámila s Jeffem.
 
-Musím začít trochu zeširoka. Odmaturovala jsem v devatenácti. Na filozofickou fakultu (obor čeština–psychologie) jsem se nedostala. Byla jsem panna a neuměla jsem pořádně anglicky. Příslušné výmluvy: Za moje panenství mohli mí spolužáci, neboť jsem si za celé ty čtyři roky ani jednou nedokázala představit, že bych s některým z těch hlučných pitomců vlezla do postele… Kromě toho jsem měla doslova hrůzu z pohlavních chorob. Párkrát jsem se nechala pozvat do kavárny, ale pokaždé to skončilo naprostým fiaskem. Seděla jsem proti tomu či onomu klukovi, světlo svíčky se mu odráželo v očích – a já si představovala kyselý pach jeho potu, AIDS a stafylokoky…
+Musím začít trochu zeširoka. Odmaturovala jsem v devatenácti. Na filozofickou fakultu (obor čeština–psychologie) jsem se nedostala. Byla jsem panna a neuměla jsem pořádně anglicky. Příslušné výmluvy: Za moje panenství mohli mí spolužáci, neboť jsem si za celé ty čtyři roky ani jednou nedokázala představit, že bych s některým z těch hlučných pitomců vlezla do postele… Kromě toho jsem měla doslova hrůzu z pohlavních chorob. Párkrát jsem se nechala pozvat do kavárny, ale pokaždé to skončilo naprostým fiaskem. Seděla jsem proti tomu či onomu klukovi, světlo svíčky se mu odráželo v očích – a já si představovala kyselý pach jeho potu, AIDS a **stafylokoky**…
 
-Za moji mizernou angličtinu mohla pro změnu naše angličtinářka. Vůbec jsme si nepadly do oka. Vlastně to ani angličtinářka nebyla – byla to prachobyčejná rekvalifikovaná ruštinářka, a já už z principu odjakživa nedůvěřuju předělaným věcem. Rekvalifikovaná ruštinářka, to je pro mě něco jako šaty přešité po tetě. Second hand jazyka. Předělávat slovanský jazyk na angličtinu, to nemůže nikdy dopadnout moc dobře. Navíc měla příšerně afektovanou výslovnost, kterou bůhvíproč považovala za britský přízvuk – jenže hysterie z nikoho rodilého mluvčího neudělá. Sama to ostatně musela tušit, protože před každou inspekcí byla neuvěřitelně nervózní. Přiběhla k nám do třídy už o přestávce, v náručí asi tři magnetofony, třesoucíma rukama servala z nástěnky všechny fotky Jima Morrisona s rozepnutým poklopcem (přes vášnivé protesty Ingrid, která nástěnku zhotovila) a pak ji celou pokryla barevnými obrázky usměvavých londýnských strážníků, poschoďových autobusů, červených telefonních budek a Big Benu. Welcome to London!
+Za moji mizernou angličtinu mohla pro změnu naše angličtinářka. Vůbec jsme si nepadly do oka. Vlastně to ani angličtinářka nebyla – byla to prachobyčejná rekvalifikovaná **ruštinářka**, a já už z principu odjakživa nedůvěřuju **předělaným** věcem. Rekvalifikovaná ruštinářka, to je pro mě něco jako šaty přešité po tetě. **Second** **hand jazyka**. Předělávat slovanský jazyk na angličtinu, to nemůže nikdy dopadnout moc dobře. Navíc měla příšerně afektovanou výslovnost, kterou bůhvíproč považovala za britský přízvuk – jenže hysterie z nikoho rodilého mluvčího neudělá. Sama to ostatně musela tušit, protože před každou inspekcí byla neuvěřitelně nervózní. Přiběhla k nám do třídy už o přestávce, v náručí asi tři magnetofony, třesoucíma rukama servala z nástěnky všechny fotky Jima Morrisona s rozepnutým poklopcem (přes vášnivé protesty Ingrid, která nástěnku zhotovila) a pak ji celou pokryla barevnými obrázky usměvavých londýnských strážníků, poschoďových autobusů, červených telefonních budek a Big Benu. **Welcome to London**!
 
 I know. I just make excuses.
 
@@ -93,21 +93,21 @@ Těžko říct, co z toho bylo pro mou mámu přijatelnější. Defloraci mi za
 
 Už to mě mělo varovat.
 
-Na první hodinu jsem naneštěstí přišla asi o deset minut později. Když jsem otevřela dveře do třídy, nejdřív jsem si myslela, že uvnitř nikdo není, ale potom jsem je uviděla: všichni studenti seděli, klečeli, nebo dokonce leželi na zemi. Na šedivém jekoru. Všichni byli bez bot a všichni měli na čele přilepený žlutý papírek: Rabbit. Wild Pig. Squirrel. Horse. Polar Bear…
+Na první hodinu jsem naneštěstí přišla asi o deset minut později. Když jsem otevřela dveře do třídy, nejdřív jsem si myslela, že uvnitř nikdo není, ale potom jsem je uviděla: všichni studenti seděli, klečeli, nebo dokonce leželi **na zemi**. Na šedivém jekoru. Všichni byli bez bot a všichni měli na čele přilepený žlutý papírek: **Rabbit. Wild Pig. Squirrel. Horse. Polar Bear**…
 
 „Hi, you must be Laura!“ přivítala mě jakási prdelatá Američanka ve vytahaných lacláčích, když si mě konečně všimla. „I know your mother. She is absolutely great!“
 
 „Yes,“ řekla jsem ochraptěle. „I know.“
 
-Američanka velmi dlouho souhlasně kývala hlavou a zářivě se přitom usmívala. Potom mě srazila na kolena, ukázala mi papírek s nápisem Turtle a připlácla mi ho těsně nad brýle.
+Američanka velmi dlouho souhlasně kývala hlavou a zářivě se přitom usmívala. Potom mě srazila na kolena, ukázala mi papírek s nápisem **Turtle** a připlácla mi ho těsně nad brýle.
 
-Nevěděla jsem, co to slovo znamená. Měla jsem pocit, že by to mohl být mýval, ale nebyla jsem si jistá. Všichni ti úplně cizí lidé na mě pobaveně civěli. Někomu tu strašně smrděly nohy.
+Nevěděla jsem, co to slovo znamená. Měla jsem pocit, že by to mohl být **mýval**, ale nebyla jsem si jistá. Všichni ti úplně cizí lidé na mě pobaveně civěli. Někomu tu strašně smrděly nohy.
 
 „You are a turtle now! Isn’t it fantastic?“ povykovala Američanka. „Look around and find some friends!“
 
-Zatlačila mi na ramena a donutila mě tak, abych se opřela rukama o zem. Pach nohou zesílil. Ale to už se ke mně plazil jakýsi tlusťoch v kostkované košili a s takovou tou řídkou bradkou, kterou jsem odjakživa nesnášela. Funěl. Na čele měl napsáno, že je sea calf. Mořský něco. Had? Přemýšlela jsem, jestli funí námahou, nebo napodobuje nějaké zvíře.
+Zatlačila mi na ramena a donutila mě tak, abych se opřela rukama o zem. Pach nohou zesílil. Ale to už se ke mně **plazil** jakýsi tlusťoch v kostkované košili a s takovou tou řídkou bradkou, kterou jsem odjakživa nesnášela. Funěl. Na čele měl napsáno, že je **sea calf**. Mořský něco. Had? Přemýšlela jsem, jestli funí námahou, nebo napodobuje nějaké zvíře.
 
-„Hi, sweet little turtle!“ povídá sea calf poněkud zadýchaně. „Do you know me?“
+„Hi, sweet little turtle!“ povídá **sea calf** poněkud zadýchaně. „Do you know me?“
 
 Všichni se pořád tvářili, jako že je to hrozná sranda.
 
@@ -119,7 +119,7 @@ Nadechla jsem se.
 
 „I don’t know this word,“ řekla jsem a ukázala prstem na tlusťochovo zpocené čelo.
 
-Američanka mu nařídila, ať mi to slovo nějakým způsobem opíše. Řekl mi anglicky, že je tlustý a leží celý den na pláži.
+Američanka mu nařídila, ať mi to slovo nějakým způsobem opíše. Řekl mi anglicky, že je **tlustý a leží celý den na pláži**.
 
 „Are you a German turist?“ podařilo se mi konečně zavtipkovat, ale nikdo to bohužel neslyšel. Tlusťoch to buďto nepochopil, nebo si to vzal osobně.
 
@@ -129,7 +129,7 @@ Američanka mu nařídila, ať mi to slovo nějakým způsobem opíše. Řekl mi
 
 „Oukej,“ řekl. Už se neusmíval. „What do you like to eat, turtle?“
 
-Jak mám sakra vědět, co ráda žeru, když nevím, kdo jsem? Cítila jsem, jak rudnu. Musela jsem s pravdou ven: neznám ani to svoje slovo.
+Jak mám sakra vědět, co ráda žeru, když nevím, kdo jsem? Cítila jsem, jak rudnu. Musela jsem s pravdou ven: neznám ani to **svoje** slovo.
 
 Všichni tuleni, velbloudi, kanci a veverky mě shovívavě pozorovali.
 
@@ -147,11 +147,11 @@ Načež jsem vyšla ze třídy – a už nikdy jsem se tam nevrátila.
 
   
 
-„Už se tam nikdy nevrátím,“ oznámila jsem mámě. „Najdu si školu, která nepoužívá alternativní vyučovací metody.“
+„Už se tam nikdy nevrátím,“ oznámila jsem mámě. „Najdu si školu, která **nepoužívá** alternativní vyučovací metody.“
 
 „Dobře,“ pravila máma. „Najdi si školu, kde vládne biflování a prušácký dril…“
 
-Nazítří jsem navštívila hned několik jazykových škol, ale všechny mi připadaly příliš moderní; nakonec jsem se rozhodla pro Státní jazykovou školu na Národní třídě – ta se mi zdála jaksi nejsolidnější. Zkusmo jsem nahlédla do jedné třídy, kde právě probíhala výuka. Všichni studenti seděli spořádaně v lavicích a před sebou měli otevřené učebnice.
+Nazítří jsem navštívila hned několik jazykových škol, ale všechny mi připadaly příliš **moderní**; nakonec jsem se rozhodla pro Státní jazykovou školu na Národní třídě – ta se mi zdála jaksi **nejsolidnější**. Zkusmo jsem nahlédla do jedné třídy, kde právě probíhala výuka. Všichni studenti seděli spořádaně v lavicích a před sebou měli otevřené učebnice.
 
 Na zemi nikdo neležel.
 
@@ -221,7 +221,7 @@ Přikývla jsem – ale šla jsem nejprve zavřít dveře. Zdálo se, že ho to
 
 „Chtěl jsem ti říct, že mám nějaké zkušenosti, i když ne zase tak moc. Myslím ale, že umím být ohleduplný. Musím také přiznat, že mě velmi dojímáš. Použiju samozřejmě kondom. Nehty už jsem si ostříhal,“ pravil nikoli bezchybnou, ale zcela plynnou češtinou a ukázal mi pravou ruku.
 
-Jeho přízvuk a jeho ř byly neodolatelné.
+Jeho přízvuk a jeho **ř** byly neodolatelné.
 
 „Hlavně ti chci říct, že tě mám myslím rád,“ řekl.
 

@@ -23,7 +23,7 @@ Máma mu krátce podá ruku, ale já si dobře všimnu, že před jeho pohledem 
 
 Ignoruje židli, kterou jí Oliver nabízí, a sedá si vedle mě. Zaraženě ji pozorujeme.
 
-„Co je?“ ušklíbne se. „Čekáte, že řeknu těší mě?“
+„Co je?“ ušklíbne se. „Čekáte, že řeknu **těší mě**?“
 
 Nastalé ticho je dlouhé a tíživé. Vezmu lžičku a zaťukám na skleničku.
 
@@ -31,7 +31,7 @@ Nastalé ticho je dlouhé a tíživé. Vezmu lžičku a zaťukám na skleničk
 
 Máma vzdychne.
 
-„Ráda bych vám řekla, že vás mám ráda,“ pronesu slavnostně. „Oba – chápete?“
+„Ráda bych vám řekla, že vás mám ráda,“ pronesu slavnostně. „**Oba** – chápete?“
 
 Bohužel v téže chvíli přichází mladý číšník s jídelními lístky, takže moje prohlášení vůbec nevyzní tak, jak jsem si představovala.
 
@@ -69,7 +69,7 @@ Oliver se mi zhroutí do náruče. Hladím mu čelo a tváře.
 
 Máma se vrací, vypadá klidnější; nepatrně se usmívá, a dokonce se krátce podívá i na Olivera.
 
-Kdybych ji neznala, řekla bych, že si na záchodě šlehla.
+Kdybych ji neznala, řekla bych, že si na záchodě **šlehla**.
 
 Číšník přináší objednané aperitivy a my mu bez valného zájmu nadiktujeme zvolená jídla. Jakmile se vzdálí, zdvihnu svou sklenici.
 
@@ -81,7 +81,7 @@ Kdybych ji neznala, řekla bych, že si na záchodě šlehla.
 
 Martini je příjemně vychlazené.
 
-„Oukej, Olivere,“ promluví máma a pokyvuje přitom hlavou. „Neviděli jsme se skoro dvacet let. Takže: docela ráda bych slyšela tvůj životní příběh…“
+„Oukej, **Olivere**,“ promluví máma a pokyvuje přitom hlavou. „Neviděli jsme se skoro dvacet let. Takže: docela ráda bych slyšela tvůj životní příběh…“
 
 V jejím hlase zatím není ironie. Pohladím jí zápěstí.
 
@@ -93,19 +93,19 @@ Máma se shovívavě zazubí.
 
 Oliver rozhodí dlaně: je těžké shrnout dvacet let života do několika vět, znamená jeho gesto. Potom ale přikývne.
 
-„Dobře. Jak to má být dlouhé?“ říká. „A v jakém žánru mám vyprávět?“
+„Dobře. Jak to má být dlouhé?“ říká. „A v jakém **žánru** mám vyprávět?“
 
-„Sociální drama?“ navrhuje pohotově máma. „Chudoba, nedostatek jídla, ubohé oblečení… Hrdina příběhu je bez prostředků, do divadla chodí v teniskách, nosí dětské hodinky – znáš přece tyhle typy…“
+„**Sociální drama?**“ navrhuje pohotově máma. „Chudoba, nedostatek jídla, ubohé oblečení… Hrdina příběhu je bez prostředků, do divadla chodí v teniskách, nosí dětské hodinky – znáš přece tyhle **typy**…“
 
 Oliver se poprvé usměje. Konečně si je dokážu představit spolu – a pocítím přitom záchvěv žárlivosti.
 
-„To se samozřejmě nabízí,“ připouští Oliver. „Nicméně osobně bych se přimlouval spíš za grotesku. V mém případě je dobře použitelný i horor.“
+„To se samozřejmě nabízí,“ připouští Oliver. „Nicméně osobně bych se přimlouval spíš za **grotesku**. V mém případě je dobře použitelný i **horor**.“
 
 „Necháme se překvapit,“ říká máma.
 
-Oliver začíná vyprávět. Je věcný, až zbytečně stručný, nijak svůj životopis neozvláštňuje (vymlouvá se na mě; už mi to prý říkal, nechce mě nudit): absurdní studium socialistické ekonomie, příšerná vojna v Žatci, dvě bezvýznamná zaměstnání, šestileté bezdětné manželství, rozvod, krátká porevoluční kariéra v řadách Občanského fóra, nyní už osm let v relativně známé reklamní agentuře jako takzvaný kreativec. Práce morálně diskutabilní, ale slušně placená, někdy i celkem zábavná. Odmlčí se.
+Oliver začíná vyprávět. Je věcný, až zbytečně stručný, nijak svůj životopis neozvláštňuje (vymlouvá se na mě; už mi to prý říkal, nechce mě nudit): absurdní studium socialistické ekonomie, příšerná vojna v Žatci, dvě bezvýznamná zaměstnání, šestileté bezdětné manželství, rozvod, krátká porevoluční kariéra v řadách Občanského fóra, nyní už osm let v relativně známé reklamní agentuře jako takzvaný **kreativec**. Práce morálně diskutabilní, ale slušně placená, někdy i celkem zábavná. Odmlčí se.
 
-„Proč jste se rozvedli?“ ptám se s živým zájmem.
+„Proč jste se rozvedli?“ ptám se **s živým zájmem**.
 
 Oliver na mě pohlédne.
 
@@ -125,9 +125,9 @@ A takhle to jde pořád dokola, až do konce. Rozcházíme se po půldruhé hod
 
   
 
-Po zbytek odpoledne se vyptávám mámy na Ameriku – je mi jasné, že tématu Oliver má pro tenhle víkend dost. Líčí mi pobyt u Steva v Chicagu a potom mluvíme o vážných i komických důsledcích jeho nabídky k sňatku. Už se zase chichotáme jako dvě dobré kamarádky.
+Po zbytek odpoledne se vyptávám mámy na Ameriku – je mi jasné, že tématu **Oliver** má pro tenhle víkend dost. Líčí mi pobyt u Steva v Chicagu a potom mluvíme o vážných i komických důsledcích jeho nabídky k sňatku. Už se zase chichotáme jako dvě dobré kamarádky.
 
-Když navečer dole zazvoní Rickie, v první chvíli vůbec netuším, kdo to může být. Chápu, milé dámy, že to zřejmě bude působit nevěrohodně – ale já jsem na něj opravdu zapomněla.
+Když navečer dole zazvoní Rickie, v první chvíli vůbec netuším, kdo to může být. Chápu, milé dámy, že to zřejmě bude působit nevěrohodně – ale já jsem na něj **opravdu** zapomněla.
 
 Omluvně pohlédnu na mámu a jdu mu otevřít.
 
@@ -137,7 +137,7 @@ Jeho přízvuk mi připadá ještě tragičtější než kdykoliv předtím. Za�
 
 „I’m fine,“ říká máma se smutným úsměvem; všimnu si, že se dívá na Rickieho výrazně vzorované ponožky. „Nice socks,“ poznamená a společně se tomu zasmějeme. Rickie se po krátkém zaváhání přidá. Jde k mámě a políbí ji na tvář. Mě políbí samozřejmě na ústa, a když se máma otočí, přejede mi rukou přes ňadra. V té samé chvíli zazvoní můj mobil položený na lednici. Ještě dřív, než se podívám na displej, vím zcela jistě, že je to Oliver.
 
-Neptejte se mě, jak jsem to mohla vědět, nedokážu vám to vysvětlit – ale věděla jsem to. S absolutní jistotou.
+Neptejte se mě, jak jsem to mohla vědět, nedokážu vám to vysvětlit – ale **věděla** jsem to. S absolutní jistotou.
 
 „Neruším?“ ptá se Oliver.
 
@@ -151,31 +151,31 @@ Slyším, jak Oliver polkne. Máma na mě starostlivě pohlédne. Rickie stojí 
 
 „To je… víš, nechtěl bych rozhodně, aby… ale…,“ zamotává se Oliver.
 
-„Já ti rozumím,“ říkám. „Nemusíš nic vysvětlovat.“
+„Já ti **rozumím**,“ říkám. „**Nemusíš** nic vysvětlovat.“
 
-„Panebože, já snad žárlím!“ zvolá náhle Oliver jakoby užasle. „Úplně mě rozbolelo břicho. To je komický… Všechno se ve mně svírá – znáš to? To je naprosto absurdní!“
+„Panebože, já snad **žárlím**!“ zvolá náhle Oliver jakoby užasle. „Úplně mě rozbolelo břicho. To je komický… Všechno se ve mně svírá – znáš to? To je naprosto absurdní!“
 
-„To ale… není nutné, chápeš?“ říkám zoufale. „Je to zbytečné, rozumíš mi?“
+„To ale… není **nutné**, chápeš?“ říkám zoufale. „Je to **zbytečné**, rozumíš mi?“
 
 Rickie se otočí a nepokrytě mě pozoruje.
 
-„Kristepane,“ říká Oliver. „On u vás… bude spát?“
+„Kristepane,“ říká Oliver. „On u vás… bude **spát**?“
 
 Tisknu si přístroj co nejsilněji k uchu a dívám se na Rickieho ponožky.
 
-„To nevím. Ale to… opravdu není vůbec důležitý, protože já jsem se už… Hele, můžu ti zavolat pozdějc?“ říkám.
+„To nevím. Ale to… opravdu není vůbec **důležitý**, protože já jsem se už… Hele, můžu ti zavolat pozdějc?“ říkám.
 
-„Ale jo. Nebo vlastně, jak to myslíš, pozdějc?“ mučí se Oliver. „Protože já… Chci říct, že tohle je… naprosto strašlivá situace. Ježíšikriste!“
+„Ale jo. Nebo vlastně, jak to myslíš, **pozdějc**?“ mučí se Oliver. „Protože já… Chci říct, že tohle je… naprosto strašlivá situace. Ježíšikriste!“
 
 Trápím se za něj. Chtěla bych ho uklidnit. Chtěla bych ho líbat.
 
-„Zavolám ti za chvíli,“ říkám naléhavě. „Za deset minut, oukej? Tak prosím tě nevyšiluj!“
+„Zavolám ti **za chvíli**,“ říkám naléhavě. „Za deset minut, oukej? Tak prosím tě **nevyšiluj**!“
 
 „Oukej,“ říká Oliver nepřesvědčivě.
 
 Zavěsím.
 
-„Dá si někdo kafe?“ říká nenuceně máma.
+„Dá si někdo kafe?“ říká **nenuceně** máma.
 
 „Jo, dal bych si,“ přikývne Rickie. „To byla Ingrid?“ zeptá se mě podezíravě.
 
@@ -191,7 +191,7 @@ Rickie vyčkává, ale já už nic neříkám. Blíží se k nám jakási pohro
 
 Rickie pohlédne na mámu, jako by chtěl, aby mu vysvětlila, co to má znamenat – ale máma na něho jen lhostejně mrkne.
 
-„Tak kdo to volal?“ vrtí hlavou.
+„Tak **kdo** to volal?“ vrtí hlavou.
 
 Kdo volal? Kdo mi to panebože volal? Nadechnu se – a najednou je všechna předchozí tíseň pryč.
 
@@ -201,7 +201,7 @@ Jsem úplně klidná.
 
 Máma na mě překvapeně pohlédne. Rickie otevře ústa.
 
-„Oliver?!“ vyhrkne. „Ten… z naší dovolený?“
+„**Oliver?!**“ vyhrkne. „Ten… z naší dovolený?“
 
 V jeho hlase ještě není žárlivost – zatím to zní jen udiveně. Je to příliš nečekané, příliš čerstvé. Rickie si to dosud nedokáže srovnat v hlavě.
 
@@ -211,7 +211,7 @@ V jeho hlase se objeví nejistota. Chce v mých očích najít ujištění, ž
 
 „Neni starej, Rickie,“ říkám smutně a slavnostně zároveň. „Já ho miluju.“
 
-Poplašeně, skoro dětsky zamrká. Právě se mu začíná hroutit svět. To přece není možné! Támhle v aktovce má přece ty kryty na Nokii 3210 pro moji mámu! Chtěl jí přece ten kryt dát k Vánocům – vždyť mi to říkal! Měli jsme ho vybrat společně! Konvice začíná pískat. Máma zalije připravené hrnky, postaví je na tác a diskrétně ho odnáší do obýváku. Rickie hledá nějaká slova – ale jenom naprázdno otvírá pusu. Je mi ho samozřejmě líto, ale zároveň mi celá ta scéna začíná připadat komická.
+Poplašeně, skoro dětsky zamrká. Právě se mu začíná hroutit svět. To přece není možné! Támhle v aktovce má přece ty kryty na Nokii 3210 pro moji mámu! Chtěl jí přece ten kryt dát k Vánocům – vždyť mi to říkal! Měli jsme ho vybrat společně! Konvice začíná pískat. Máma zalije připravené hrnky, postaví je na tác a **diskrétně** ho odnáší do obýváku. Rickie hledá nějaká slova – ale jenom naprázdno otvírá pusu. Je mi ho samozřejmě líto, ale zároveň mi celá ta scéna začíná připadat komická.
 
 „Ale jak to?!“ zvolá konečně Rickie.
 
@@ -223,4 +223,4 @@ To je ta nejupřímnější odpověď, kterou mu můžu dát.
 
 „Není to tvoje vina, Rickie,“ říkám tiše jako ve filmu.
 
-„Ale já už nám dva roky spořím na byt!“ vybuchuje Rickie v návalu ukřivděnosti. „S Liškou!“
+„Ale já už nám dva roky **spořím na byt**!“ vybuchuje Rickie v návalu ukřivděnosti. „**S Liškou!**“

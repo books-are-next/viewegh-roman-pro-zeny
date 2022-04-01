@@ -43,7 +43,7 @@ _NECHCI BYT ZA VODOU. CHCI SE S TEBOU POTAPET._
 
 Natolik mě to rozruší, že musím okamžitě do vany: sundám ze sprchy hlavici a třikrát po sobě se nádherně uspokojím (ale no tak, milé dámy, já přece vím, že to děláte stejně…).
 
-Zavolám Ingrid a pozvu ji na oběd do Louvru, kde jí všechno vyklopím: Možná jsem potkala dokonalého muže. Je úžasný. Má styl. Vyprávím jí o okolnostech našeho seznámení a o společném potápění. To vyprávění mě hrozně baví. Obvykle tolik nemluvím, ale nyní cítím, že bych to mohla Ingrid vykládat celé hodiny. Znovu a znovu.
+Zavolám Ingrid a pozvu ji na oběd do Louvru, kde jí všechno vyklopím: Možná jsem potkala **dokonalého muže**. Je **úžasný**. Má **styl**. Vyprávím jí o okolnostech našeho seznámení a o společném potápění. To vyprávění mě hrozně baví. Obvykle tolik nemluvím, ale nyní cítím, že bych to mohla Ingrid vykládat celé hodiny. Znovu a znovu.
 
 „Myslím, že ho miluju,“ říkám.
 
@@ -51,7 +51,7 @@ Zkouším, jak ta slova v mých ústech zní.
 
 „Blbost,“ krotí mě Ingrid. „Miluješ jeho jachtu. Miluješ jeho značkový hodinky a ten stříbrnej kýbl na šampaňský. Ale o tom to přece neni…“
 
-„To tvrdí Oliver taky. Značkovejm věcem jsme se vždycky posmívali. Jenomže já ti něco řeknu: mně to nejenže nepřipadá trapný, mně se to líbí. Nemůžu si pomoct. Má to šmrnc. Je to prostě šíleně… elegantní.“
+„To tvrdí Oliver taky. Značkovejm věcem jsme se vždycky posmívali. Jenomže já ti něco řeknu: mně to nejenže nepřipadá trapný, mně se to **líbí**. Nemůžu si pomoct. Má to **šmrnc**. Je to prostě šíleně… **elegantní**.“
 
 „Mluvíš jako tvoje matka,“ konstatuje Ingrid.
 
@@ -83,7 +83,7 @@ Zní to už poněkud podrážděně.
 
 „Nic.“
 
-Náhle vypadá tak nešťastně, až je mi ho líto. Uvědomuji si, že ho mám stále ráda. Navrhuje, abychom si někde dali dobrou večeři. Slovní spojení dobrá večeře je tradiční projev Oliverovy vstřícné nálady, a tak raději souhlasím (pro vaši informaci: jít na večeři v Oliverově slovníku znamená jít do nejbližší hospody a dát si pivo a smažený hermelín; jít na dobrou večeři znamená jít do nejbližší pizzerie a objednat si dvě sedmičky vína a kterékoliv jídlo pod sto padesát korun).
+Náhle vypadá tak nešťastně, až je mi ho líto. Uvědomuji si, že ho mám stále ráda. Navrhuje, abychom si někde dali **dobrou večeři**. Slovní spojení **dobrá večeře** je tradiční projev Oliverovy vstřícné nálady, a tak raději souhlasím (pro vaši informaci: **jít na večeři** v Oliverově slovníku znamená jít do nejbližší hospody a dát si pivo a smažený hermelín; **jít na dobrou večeři** znamená jít do nejbližší pizzerie a objednat si dvě sedmičky vína a kterékoliv jídlo pod sto padesát korun).
 
 Skončíme v jedné pizzerii na Karlově náměstí. Právě když Oliver ochutnává víno, z mojí kabelky se ozve tiché pípnutí. Strnu.
 
@@ -103,11 +103,11 @@ Nenávidím ho. Neodpovím a vypiju sklenici až do dna.
 
 Nemám sílu to popírat.
 
-„Takže,“ říká Oliver překvapeně, „jsi mu přece jenom dala číslo?“
+„Takže,“ říká Oliver překvapeně, „jsi mu přece jenom **dala** číslo?“
 
 Jeho hněvivý úžas stále roste.
 
-„Ty jsi mu za mými zády dala své telefonní číslo?!“
+„Ty jsi mu **za mými zády** dala své telefonní číslo?!“
 
 „Ano.“
 
@@ -121,7 +121,7 @@ Otevřu kabelku, uchopím mobil a čekám. Oliver se prudce otočí a odcház�
 
 „To jsem já,“ říkám překotně, „moc bych tě chtěla vidět…“
 
-Zve mě na večeři – zítra, v Le Café Colonial.
+Zve mě na večeři – zítra, v **Le Café Colonial**.
 
 Jsem šťastná.
 
@@ -141,7 +141,7 @@ Pro jistotu.
 
 „Lesklé,“ říkám. „Určitě lesklé.“
 
-Slovo matné se mi k NĚMU naprosto nehodí.
+Slovo **matné** se mi k NĚMU naprosto nehodí.
 
 ## 6/
 
@@ -155,7 +155,7 @@ Mirek s Vlastou, kteří to slyší, se ke mně tázavě otočí a já se na n
 
 „Předpokládám, že víš, co děláš,“ říká starostlivě Ingrid. „Uvědomuješ si, honey, že to skončí v posteli?“
 
-„Jestli si to uvědomuju?“ zopakuju po ní. „Já v to doufám!“
+„Jestli si to **uvědomuju**?“ zopakuju po ní. „Já v to **doufám**!“
 
 Ingrid se odmlčí.
 

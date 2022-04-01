@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Román pro ženy",
       "identifier": "urn:uuid:2f717cfb-a1db-4a58-b83f-6ee9cc7f38af",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-01-24T00:00:00.000Z"
+      "modified": "2019-01-24T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP-uroven2-kapitola MLP-uroven2-kapitola-dopis MLP-uroven2-kapitola-upraven",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "",
+      "figure": "MLP-obrazky",
+      "em": "MLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP-dopis--I\nMLP-dopis-podpis--I",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP-znak-tucne-11b\nMLP-text--B\n",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "roman_pro_zeny_001.md",
             "xhtml": "roman_pro_zeny_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_002.md",
@@ -48,32 +54,35 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_003.md",
             "xhtml": "roman_pro_zeny_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_004.md",
             "xhtml": "roman_pro_zeny_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_005.md",
@@ -84,7 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": ""
           },
           {
             "filename": "roman_pro_zeny_006.md",
@@ -95,7 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "PROLOG"
           },
           {
             "filename": "roman_pro_zeny_007.md",
@@ -106,7 +119,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA I"
           },
           {
             "filename": "roman_pro_zeny_008.md",
@@ -117,7 +132,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA II"
           },
           {
             "filename": "roman_pro_zeny_009.md",
@@ -128,7 +145,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA III"
           },
           {
             "filename": "roman_pro_zeny_010.md",
@@ -139,7 +158,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA IV"
           },
           {
             "filename": "roman_pro_zeny_011.md",
@@ -150,7 +171,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA V"
           },
           {
             "filename": "roman_pro_zeny_012.md",
@@ -161,7 +184,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA VI"
           },
           {
             "filename": "roman_pro_zeny_013.md",
@@ -172,7 +197,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA VII"
           },
           {
             "filename": "roman_pro_zeny_014.md",
@@ -183,7 +210,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA VIII"
           },
           {
             "filename": "roman_pro_zeny_015.md",
@@ -194,7 +223,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA IX"
           },
           {
             "filename": "roman_pro_zeny_016.md",
@@ -205,7 +236,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA X"
           },
           {
             "filename": "roman_pro_zeny_017.md",
@@ -216,7 +249,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XI"
           },
           {
             "filename": "roman_pro_zeny_018.md",
@@ -227,7 +262,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XII"
           },
           {
             "filename": "roman_pro_zeny_019.md",
@@ -238,7 +275,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XIII"
           },
           {
             "filename": "roman_pro_zeny_020.md",
@@ -249,7 +288,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XIV"
           },
           {
             "filename": "roman_pro_zeny_021.md",
@@ -260,7 +301,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XV"
           },
           {
             "filename": "roman_pro_zeny_022.md",
@@ -271,7 +314,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XVI"
           },
           {
             "filename": "roman_pro_zeny_023.md",
@@ -282,7 +327,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XVII"
           },
           {
             "filename": "roman_pro_zeny_024.md",
@@ -293,7 +340,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XVIII"
           },
           {
             "filename": "roman_pro_zeny_025.md",
@@ -304,7 +353,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XIX"
           },
           {
             "filename": "roman_pro_zeny_026.md",
@@ -315,7 +366,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XX"
           },
           {
             "filename": "roman_pro_zeny_027.md",
@@ -326,7 +379,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXI"
           },
           {
             "filename": "roman_pro_zeny_028.md",
@@ -337,7 +392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXII"
           },
           {
             "filename": "roman_pro_zeny_029.md",
@@ -348,7 +405,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXIII"
           },
           {
             "filename": "roman_pro_zeny_030.md",
@@ -359,7 +418,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXIV"
           },
           {
             "filename": "roman_pro_zeny_031.md",
@@ -370,7 +431,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXV"
           },
           {
             "filename": "roman_pro_zeny_032.md",
@@ -381,7 +444,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXVI"
           },
           {
             "filename": "roman_pro_zeny_033.md",
@@ -392,7 +457,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_034.md",
@@ -403,7 +469,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXVIII"
           },
           {
             "filename": "roman_pro_zeny_035.md",
@@ -414,7 +482,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXIX"
           },
           {
             "filename": "roman_pro_zeny_036.md",
@@ -425,7 +495,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXX"
           },
           {
             "filename": "roman_pro_zeny_037.md",
@@ -436,7 +508,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXXI"
           },
           {
             "filename": "roman_pro_zeny_038.md",
@@ -447,7 +521,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXXII"
           },
           {
             "filename": "roman_pro_zeny_039.md",
@@ -458,7 +534,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXXIII"
           },
           {
             "filename": "roman_pro_zeny_040.md",
@@ -469,7 +547,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXXIV"
           },
           {
             "filename": "roman_pro_zeny_041.md",
@@ -480,7 +560,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "roman_pro_zeny_042.md",
@@ -491,7 +572,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "KAPITOLA XXXVI"
           },
           {
             "filename": "roman_pro_zeny_043.md",
@@ -502,7 +585,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "EPILOG"
           },
           {
             "filename": "roman_pro_zeny_044.md",
@@ -513,7 +598,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -553,7 +639,7 @@
         "xhtml": "roman_pro_zeny_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Drahá Lauro,",
         "subtitleSuggest": "",
         "filename": "roman_pro_zeny_005.md",
         "xhtml": "roman_pro_zeny_005.xhtml"
@@ -721,7 +807,7 @@
         "xhtml": "roman_pro_zeny_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA XXVII",
         "subtitleSuggest": "",
         "filename": "roman_pro_zeny_033.md",
         "xhtml": "roman_pro_zeny_033.xhtml"
@@ -769,7 +855,7 @@
         "xhtml": "roman_pro_zeny_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "KAPITOLA XXXV",
         "subtitleSuggest": "",
         "filename": "roman_pro_zeny_041.md",
         "xhtml": "roman_pro_zeny_041.xhtml"
@@ -867,6 +953,6 @@
       "user": "books-are-next",
       "repo": "viewegh-roman-pro-zeny"
     },
-    "generatedAt": 1648809645186
+    "generatedAt": 1648810086322
   }
 }

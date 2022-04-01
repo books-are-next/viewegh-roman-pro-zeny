@@ -9,7 +9,7 @@ _Do Thajska s Liškou – Co trápí křehkou duši princezny Stephanie? – 
 
   
 
-Je to tak. Před rokem nám Rickie tajně založil stavební spoření. Každý měsíc platil ze svého sporožira tři tisíce korun, za každého patnáct set. Mělo to být překvapení. Už za pouhé čtyři roky by mě býval mohl ohromit naspořenou cílovou částkou, jakož i možností snadného získání úvěru. Uvědomila jsem si, jak moc se musel přemáhat, aby mi to neprozradil. Dodatečně to vysvětlovalo, proč se pokaždé, když jsem se rozčilovala nad cenami pražských bytů, tak záhadně usmíval.
+Je to tak. Před rokem nám Rickie tajně založil stavební spoření. Každý měsíc platil ze svého sporožira tři tisíce korun, za každého patnáct set. Mělo to být překvapení. Už za pouhé čtyři roky by mě býval mohl ohromit naspořenou **cílovou částkou**, jakož i možností snadného získání úvěru. Uvědomila jsem si, jak moc se musel přemáhat, aby mi to neprozradil. Dodatečně to vysvětlovalo, proč se pokaždé, když jsem se rozčilovala nad cenami pražských bytů, tak záhadně usmíval.
 
 A k čemu mu to všechno bylo? (Kdykoli si ještě dnes na ten Rickieho tajuplný úsměv vzpomenu, začnu si připadat provinile.)
 
@@ -21,7 +21,7 @@ Skoro mě uráží, jak málo kvůli mně trpí.
 
 _Letim na tri tydny do Thajska. Potrebuji zapomenout. Preju vse dobre._
 
-To potrebuji zapomenout je na můj vkus trochu patetické, ale jinak mi nečekaně strohý, jakoby mužný tón Rickieho zprávy imponuje.
+To potrebuji zapomenout je na můj vkus trochu patetické, ale jinak mi nečekaně strohý, jakoby **mužný** tón Rickieho zprávy imponuje.
 
 „Takže do Thajska s Liškou…,“ komentuje to Oliver. „Jestlipak ministr financí tuší, že nedotuje bydlení, ale prostitutky v Bangkoku? Státní příspěvek čtyři a půl tisíce – to jsou v Thajsku minimálně dvě, ne-li tři čísla…“
 
@@ -35,11 +35,11 @@ Připadá mi to vůči Rickiemu netaktní a cynické.
 
   
 
-„Rozešla jsem se definitivně s Rickiem Kabíčkem,“ oznamuji ve středu ráno ostatním vyrovnaným ženám v redakci. Je to samozřejmě Zpráva dne. Romana začne posmrkávat, Zdeňka s Vlastou nestačí zírat, Mirek je dočasně potěšen (alespoň do té chvíle, než se dozví další podrobnosti). Tesařová se jen kysele ušklíbne: Přestaňte se laskavě vykecávat, znamená její pohled, dneska je uzávěrka nového čísla.
+„Rozešla jsem se definitivně s Rickiem Kabíčkem,“ oznamuji ve středu ráno ostatním **vyrovnaným ženám** v redakci. Je to samozřejmě Zpráva dne. Romana začne posmrkávat, Zdeňka s Vlastou nestačí zírat, Mirek je dočasně potěšen (alespoň do té chvíle, než se dozví další podrobnosti). Tesařová se jen kysele ušklíbne: Přestaňte se laskavě vykecávat, znamená její pohled, dneska je uzávěrka nového čísla.
 
 Vrátím se k počítači a prohlížím si nachystané materiály: _Co trápí křehkou duši princezny Stephanie? – Olga z Klatov: Boj s nadváhou nikdy nevzdám! – Finančně strádám, ale úvěr splácím, říká Zbyněk Merunka._ _– Neplacení výživného je trestný čin. – Proč na svatbě B. Pitta chyběla nevěstina matka Nancy? – Štěkavý kašel malého Petříka vyděsil rodiče. – Moje šestnáctiletá dcera se zamilovala, ale o sexu se mnou odmítá mluvit. – Jak zůstat mladý. – Kolik vydělávají budoucí králové? – Nedělní recept: fazolový salát se žampióny. – Pacientku dlouho trápila prasklá ovariální cysta. – Charlesova přítelkyně Camilla se nervově zhroutila._ _– Marcela Březinová namísto mužských střídá účesy. – Exkluzivně: plakát Kassandry._ Moje dva příběhy ze života tentokrát zní: _Namísto barmanky šlapkou!_ a _Odloudila jsem milence svého manžela!_ Moc se s tím nepářu a do oběda jsem dávno hotová.
 
-„Už dodal soudruh astrolog nový horoskopy?!“ ptám se Zdeňky (soudruh je narážka na astrologovo pozitivní lustrační osvědčení). Zdeňka polekaně pootočí hlavu k Tesařové a potom nápadně rychle přikývne.
+„Už dodal soudruh astrolog nový horoskopy?!“ ptám se Zdeňky (**soudruh** je narážka na astrologovo pozitivní lustrační osvědčení). Zdeňka polekaně pootočí hlavu k Tesařové a potom nápadně rychle přikývne.
 
 „Tady to je,“ říká Vlasta.
 
@@ -69,11 +69,11 @@ Zírám užasle na displej – a potom ho ukážu Oliverovi.
 
 Začne se mi chvět brada – a proti své vůli se rozbrečím. Olej prská a škvíří. Oliver odstaví pánev z plynu, odvede mě k prostřenému stolu a posadí si mě na klín. Vnímám tlak jeho penisu.
 
-„Myslím, že je naopak dobře, že tohle napsal,“ říká pomalu, ale nepřestává mě přitom hladit. „Pro nás oba. Je skvělý, že konečně odhodil tu pokryteckou masku mužné zlomenosti. Jsem rád, že je vulgární. Tebe to definitivně zbaví výčitek – a mě obav z tvého případného resentimentu…“
+„Myslím, že je naopak dobře, že tohle napsal,“ říká pomalu, ale nepřestává mě přitom hladit. „Pro nás oba. Je skvělý, že konečně odhodil tu pokryteckou masku **mužné zlomenosti**. Jsem rád, že je vulgární. Tebe to definitivně zbaví výčitek – a mě obav z tvého případného resentimentu…“
 
 Vezmu žlutý papírový ubrousek a vysmrkám se. Když ho zmačkaný vracím do popelníku na stole, lehce se nadzvihnu – a ucítím, jak do mě Oliver začíná pronikat.
 
-„Teď už se obávám jen toho,“ říká Oliver ochraptěle, „že jsem zamilovaný…“
+„Teď už se **obávám** jen toho,“ říká Oliver ochraptěle, „že jsem **zamilovaný**…“
 
 Je to poprvé, co ho slyším tohle slovo vyslovit.
 
@@ -103,21 +103,21 @@ Je hrozná škoda, že babička nemá víc oken.
 
   
 
-Nevzpomínám si, že by pro mě radost ze života byla někdy úplně samozřejmá. Snad ještě tak v dětství – ale od té doby jsem se životní radosti musela pokaždé jakoby učit. Přinejmenším od tátovy smrti jsem si už vždycky musela připomínat, že ten či onen okamžik, který zrovna prožívám, je milý, hezký, nebo dokonce výjimečný – a že bych se rouhala, kdybych si to neuvědomovala.
+Nevzpomínám si, že by pro mě radost ze života byla někdy úplně samozřejmá. Snad ještě tak v dětství – ale od té doby jsem se životní radosti musela pokaždé jakoby **učit**. Přinejmenším od tátovy smrti jsem si už vždycky musela **připomínat**, že ten či onen okamžik, který zrovna prožívám, je milý, hezký, nebo dokonce výjimečný – a že bych se **rouhala**, kdybych si to neuvědomovala.
 
 Tak jsem si to honem rychle uvědomila.
 
-Pokud jsem na to nepřišla sama, museli mě na krásy života upozorňovat ostatní: Podívej, Lauro, na ty nádherně zralý tečkovaný meruňky! – Ježíš, Lauro, vidíš to úžasně modrý moře? – Tohle byl fakticky skvělej večer, viď, Lauro?
+Pokud jsem na to nepřišla sama, museli mě na krásy života **upozorňovat** ostatní: Podívej, Lauro, na ty nádherně zralý tečkovaný meruňky! – Ježíš, Lauro, vidíš to úžasně modrý moře? – Tohle byl fakticky skvělej večer, viď, Lauro?
 
 Když jsem v dobré náladě, jsem ochotná to jaksi dodatečně připustit: No jo, ty meruňky jsou vážně docela pěkný… Když se to vezme kolem a kolem, opravdu to byl docela fajn večer… Pokud ovšem náladu nemám, mechanicky přikyvuju, ale v duchu si říkám: Běžte se vysrat i s tečkovanejma meruňkama!
 
-Anebo ke mně ona životní radost přicházela až později – až ve vzpomínkách. Ve vzpomínkách je můj život převážně hezký: minulý týden jsem viděla pozoruhodné divadelní představení, předloni jsem absolvovala báječný výlet do Ameriky a loňský podzim bezvadnou pěší túru po Šumavě. V minulosti… Jenže přítomnost a minulost pro mě byly vždycky dvě úplně odlišné věci. V přítomnosti byla Amerika jeden velký stres, během divadelního představení mi ve skutečnosti bylo nesnesitelné horko (a v řadě přímo za mnou navíc seděli nějací idioti) a na Šumavě mě ničili komáři a kalhotky se mi za chůze zařezávaly do rozkroku.
+Anebo ke mně ona životní radost přicházela až později – až ve **vzpomínkách**. Ve vzpomínkách je můj život převážně hezký: minulý týden jsem viděla pozoruhodné divadelní představení, předloni jsem absolvovala báječný výlet do Ameriky a loňský podzim bezvadnou pěší túru po Šumavě. V **minulosti**… Jenže přítomnost a minulost pro mě byly vždycky dvě úplně odlišné věci. V **přítomnosti** byla Amerika jeden velký stres, během divadelního představení mi ve **skutečnosti** bylo nesnesitelné horko (a v řadě přímo za mnou navíc seděli nějací idioti) a na Šumavě mě ničili komáři a kalhotky se mi za chůze zařezávaly do rozkroku.
 
 A tak podobně.
 
-S budoucností to nikdy nebylo o moc lepší. Snila jsem třeba o tom, jak jednou pořádně uklidím byt, koupím parmezán a červené italské víno a uvařím spagetti frutti di mare a pozvu na ně všechny Richardovy přátele. Budu nenuceně milá a vtipná a na sobě budu mít domácké džíny a pod košili si nevezmu podprsenku a Richardovi kamarádi mu budou upřímně závidět… Jenže když jsem ten sen uskutečnila, okamžitě se to celé zvrtlo: každou chvíli jsem musela odbíhat do kuchyně, nestačila umývat sklenice a utírat kečup z podlahy a uvnitř jsem zuřila, že mi všichni akorát civí na prsa a klepou v obýváku popel na koberec…
+S **budoucností** to nikdy nebylo o moc lepší. Snila jsem třeba o tom, jak jednou pořádně uklidím byt, koupím parmezán a červené italské víno a uvařím **spagetti frutti di mare** a pozvu na ně všechny Richardovy přátele. Budu nenuceně milá a vtipná a na sobě budu mít **domácké** džíny a pod košili si nevezmu podprsenku a Richardovi kamarádi mu budou upřímně závidět… Jenže když jsem ten sen **uskutečnila**, okamžitě se to celé zvrtlo: každou chvíli jsem musela odbíhat do kuchyně, nestačila umývat sklenice a utírat kečup z podlahy a uvnitř jsem zuřila, že mi všichni akorát civí na prsa a klepou v obýváku popel na koberec…
 
-Nebo si představuju, jak někdy po obědě uteču z redakce a udělám si takové to krásné odpoledne mladé emancipované ženy: koupím si Elle nebo Cosmopolitan, sednu si do nějaké útulné kavárny, objednám si cappuccino, přehodím si nohu přes nohu a budu si číst a skrze výlohu zasněně pozorovat spěchající davy… A pak tu představu zrealizuju: v mé oblíbené kavárně je beznadějně plno, a tak tři čtvrtě hodiny hledám jinou; když konečně nějakou (mnohem horší) najdu, zjistím, že cappuccino mi neudělají, protože se jim před chvílí ucpala tryska na ohřev mléka. Dám si tedy velké espreso, ale protivný číšník mi omylem přinese malé; vypiju ho za pět minut a najednou nevím, co s rukama. Kolemjdoucí lidé na mě skrz výlohu nepříjemně zírají. Pokouším se číst, ale text skoro nevnímám, a tak raději platím a jedu domů, nebo se dokonce vrátím do práce…
+Nebo si představuju, jak někdy po obědě uteču z redakce a udělám si takové to krásné odpoledne mladé emancipované ženy: koupím si Elle nebo Cosmopolitan, sednu si do nějaké útulné kavárny, objednám si cappuccino, přehodím si nohu přes nohu a budu si číst a skrze výlohu zasněně pozorovat spěchající davy… A pak tu představu **zrealizuju**: v mé oblíbené kavárně je beznadějně plno, a tak tři čtvrtě hodiny hledám jinou; když konečně nějakou (mnohem horší) najdu, zjistím, že cappuccino mi neudělají, protože se jim před chvílí ucpala tryska na ohřev mléka. Dám si tedy velké espreso, ale protivný číšník mi omylem přinese malé; vypiju ho za pět minut a najednou nevím, co s rukama. Kolemjdoucí lidé na mě skrz výlohu nepříjemně zírají. Pokouším se číst, ale text skoro nevnímám, a tak raději platím a jedu domů, nebo se dokonce vrátím do práce…
 
 ## 6/
 
@@ -149,11 +149,11 @@ Patříme k sobě. Miluju ho.
 
   
 
-Máma se na moji lásku k Pažoutovi už nemůže dívat, a tak počátkem října znovu odletí do Chicaga za Stevem.
+Máma se na moji lásku k **Pažoutovi** už nemůže dívat, a tak počátkem října znovu odletí do Chicaga za Stevem.
 
 Když tu novinu sdělím na chodbě Žemlovi (o chystané svatbě raději pomlčím), reaguje bezmála žárlivě.
 
-„Už zas?“ vrtí hlavou. „Dyk tam teďko byla…“
+„Už **zas**?“ vrtí hlavou. „Dyk tam teďko byla…“
 
 V rukou vleče nákup, vypadá unaveně. Při zouvání se musí posadit na botník. Znovu si uvědomím, že má docela hezké oči – jenže co jsou platné hezké oči, když na vás pomrkávají z metráku sádla.
 
@@ -173,19 +173,19 @@ _Svatba bude 10. prosince_, píše máma.
 
 Opatrně se tomu smějeme.
 
-Praha 20. února 2000
+_Praha 20. února 2000_
 
 Drahá Lauro,
 
-lásko, nedej se splést datem v záhlaví, i tenhle dopis jsem měl (stejně jako oba předchozí) dávno napsaný už na začátku měsíce, přestože termín odevzdání je vždycky až dvacátého. Pokaždé ale uzávěrku v Rencaru posouvám o den nebo o dva (už si mě tam kvůli tomu sekretářky dobírají), jen abych si prodloužil naději, že se ozveš – ale zatím jen marně doufám. Tvoje mlčení je zničující především proto, že otvírá prostor nejrůznějším mučivým výkladům. Je možné, že jsi na moje dopisy dosud nenarazila, když jich každý měsíc visí po vagónech metra víc než stovka? Anebo jsi je přece jen četla, ale rozhodla ses, že nejlepší odpovědí bude pohrdavé mlčení? Čím ale pohrdáš – pokud je tenhle výklad správný – mým zoufalstvím? Mojí láskou k Tobě?
+_lásko, nedej se splést datem v záhlaví, i tenhle dopis jsem měl (stejně jako oba předchozí) dávno napsaný už na začátku měsíce, přestože termín odevzdání je vždycky až dvacátého. Pokaždé ale uzávěrku v Rencaru posouvám o den nebo o dva (už si mě tam kvůli tomu sekretářky dobírají), jen abych si prodloužil naději, že se ozveš – ale zatím jen marně doufám. Tvoje mlčení je zničující především proto, že otvírá prostor nejrůznějším mučivým výkladům. Je možné, že jsi na moje dopisy dosud nenarazila, když jich každý měsíc visí po vagónech metra víc než stovka? Anebo jsi je přece jen četla, ale rozhodla ses, že nejlepší odpovědí bude pohrdavé mlčení? Čím ale pohrdáš – pokud je tenhle výklad správný – mým zoufalstvím? Mojí láskou k Tobě?_
 
-Co naplat, nezbývá mi, než v této poněkud nákladné reklamní kampani pokračovat, a to i přesto, že si žádným obvyklým způsobem nemohu ověřit její efektivnost. Mluví o ní sice kdekdo, a zdálo by se tedy, že je to kampaň úspěšná – jenže Ty coby rozhodující cílová skupina mlčíš. „Pošlu“ Ti ještě pár dopisů a potom se uvidí: buďto moje vlezlá reklama nakonec zabere, dostane se Ti pod kůži, a já Ti budu moci svůj výrobek (= moje láska) prodat, nebo se to nepovede a firma (= já) zkrachuje. Takový je život ve svobodných kapitalistických poměrech.
+_Co naplat, nezbývá mi, než v této poněkud nákladné reklamní kampani pokračovat, a to i přesto, že si žádným obvyklým způsobem nemohu ověřit její **efektivnost**. Mluví o ní sice kdekdo, a zdálo by se tedy, že je to kampaň úspěšná – jenže Ty coby rozhodující **cílová** **skupina** mlčíš. „Pošlu“ Ti ještě pár dopisů a potom se uvidí: buďto moje vlezlá reklama nakonec zabere, dostane se Ti pod kůži, a já Ti budu moci svůj **výrobek** (= moje láska) **prodat**, nebo se to nepovede a **firma** (= já) zkrachuje. Takový je život ve svobodných kapitalistických poměrech._
 
-V této souvislosti mě napadá následující srovnání.
+_V této souvislosti mě napadá následující srovnání._
 
-V jednom americkém filmu, který jsme kdysi viděli spolu (název jsem bohužel zapomněl, ale vím určitě, že po kině jsme pak ještě zašli na dvě deci do Blatničky, kde jsme potkali Ingrid s Hubertem, vzpomínáš si?), je scéna, kdy se slavný a věčně spěchající hollywoodský producent rozhodne dát začínajícímu mladému scenáristovi šanci – za chůze mu poskytne jednu jedinou minutu, během které ho scenárista musí přesvědčit o tom, že jeho scénář je skvělý… Já jsem na tom relativně lépe, na to, abych přesvědčil Tebe, mám každý měsíc asi šedesát řádek (ON má ale celé dny a celé noci…).
+_V jednom americkém filmu, který jsme kdysi viděli spolu (název jsem bohužel zapomněl, ale vím určitě, že po kině jsme pak ještě zašli na dvě deci do Blatničky, kde jsme potkali Ingrid s Hubertem, vzpomínáš si?), je scéna, kdy se slavný a věčně spěchající hollywoodský producent rozhodne dát začínajícímu mladému scenáristovi šanci – za chůze mu poskytne jednu jedinou minutu, během které ho scenárista musí přesvědčit o tom, že jeho scénář je skvělý… Já jsem na tom relativně lépe, na to, abych přesvědčil Tebe, mám každý měsíc asi šedesát řádek (ON má ale celé dny a celé noci…)._
 
-Pokud jsi předchozí dva dopisy nečetla, pak věz, že jsem to v nich na Tebe zkoušel přes sentiment vzpomínek: nedělní rána u mě doma, smažení lívanců, však víš, dovolené v Chorvatsku, Kanáry a podobně. Tentokrát na Tebe vytáhnu těžší kalibr – poezii. (Ano, začal jsem číst poezii, kdo by to byl do mě řekl, že?) Nedávno jsem kdesi narazil na Ortenovu báseň Milostný dopis, v níž je obsaženo hodně z toho, kvůli čemu tohle všechno podnikám. Tady je:
+_Pokud jsi předchozí dva dopisy nečetla, pak věz, že jsem to v nich na Tebe zkoušel přes sentiment vzpomínek: nedělní rána u mě doma, smažení lívanců, však víš, dovolené v Chorvatsku, Kanáry a podobně. Tentokrát na Tebe vytáhnu těžší kalibr – poezii. (Ano, začal jsem číst poezii, kdo by to byl do mě řekl, že?) Nedávno jsem kdesi narazil na Ortenovu báseň Milostný dopis, v níž je obsaženo hodně z toho, kvůli čemu tohle všechno podnikám. Tady je:_
 
 _Nejčistší světlo je když svítá  
 a přece přijde chvíle ta:  
@@ -205,6 +205,6 @@ _Pak budeš plakat až ti slovo podá
 můj pohled který se už nepodívá  
 a ucítíš že láska neodešla_
 
-Oba dobře víme, že reklama je navoněná zdechlina a tak dále, ale věř mi, že v tomhle případě je to opravdu jinak. To jsou verše, které mne bolestivě zasáhly a které si mne v poslední době znovu a znovu „nacházejí“. Není to žádný slogan, který bych vybral s obvyklou cynickou vírou v jeho účinnost. Nic Ti neprodávám, ale ze srdce dávám. Miluju Tě. Moc Tě prosím, vrať se.
+_Oba dobře víme, že reklama je navoněná zdechlina a tak dále, ale věř mi, že v tomhle případě je to opravdu jinak. To jsou verše, které mne bolestivě zasáhly a které si mne v poslední době znovu a znovu „nacházejí“. Není to žádný slogan, který bych vybral s obvyklou cynickou vírou v jeho účinnost. Nic Ti neprodávám, ale ze srdce dávám. Miluju Tě. Moc Tě prosím, vrať se._
 
-Oliver
+_Oliver_

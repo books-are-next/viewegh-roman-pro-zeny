@@ -9,7 +9,7 @@ _S kadeřnicí Sandrou o výhodách polopenze – Náhle ztichlé vlasové di
 
   
 
-„Takže koukám už po dovolený…,“ promluví Sandra, moje kadeřnice, zatímco mi pročesává mokré vlasy (když mi jednou udělala trvalou, máma sarkasticky poznamenala, že Sandra bude nejspíš umělecký pseudonym).
+„Takže koukám už po dovolený…,“ promluví Sandra, moje kadeřnice, zatímco mi pročesává mokré vlasy (když mi jednou udělala trvalou, máma sarkasticky poznamenala, že Sandra bude nejspíš **umělecký pseudonym**).
 
 „Opálená, odpočinutá…,“ říká.
 
@@ -43,7 +43,7 @@ Jsem bez brýlí, takže Sandřin odraz v zrcadle přede mnou je značně rozos
 
 „Na Brači kde přesně?“ zeptám se o něco později, jako bych Brač znala.
 
-„Na Bolu. Jak je Zlatny rat, jestli víte?“
+„Na Bolu. Jak je **Zlatny rat**, jestli víte?“
 
 Omluvně vrtím hlavou – tak intenzivně, že mi Sandra musí zastavit bradu dvěma prsty, aby mě nestřihla.
 

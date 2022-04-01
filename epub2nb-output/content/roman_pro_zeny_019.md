@@ -17,9 +17,9 @@ Máma se v předsíni posadí na kufr. Jdu k ní, abych ji objala, ale ve stej
 
 Máma posměšně zavrtí hlavou.
 
-„Co chceš, Pažoute?“ houkne hlasitě.
+„Co chceš, **Pažoute**?“ houkne hlasitě.
 
-Slyším, jak Oliver vzdychne. Potom mě s mrazivě přesnou výslovností požádá, zda bych mu nepřinesla jeho značně obnošené, veskrze nemoderní šatstvo.
+Slyším, jak Oliver vzdychne. Potom mě s mrazivě přesnou výslovností požádá, zda bych mu nepřinesla jeho **značně obnošené, veskrze nemoderní šatstvo**.
 
 Mámě se do tváří nahrne červeň.
 
@@ -39,7 +39,7 @@ Chci mámu pohladit, ale ona přede mnou uhne.
 
 Konečně se vzpamatuje a přitáhne si mě k sobě. Ale promluvit ještě nedokáže.
 
-„Mami,“ říkám chlácholivě, „dobře, je to obrovská, asi nepříjemná náhoda – ale není to přece ničí vina…“
+„Mami,“ říkám chlácholivě, „dobře, je to obrovská, asi nepříjemná **náhoda** – ale není to přece ničí **vina**…“
 
 Praví, že o tom nechce mluvit. Potřebuje prý nějaký čas, aby se s tím vyrovnala – pokud to vůbec někdy dokáže. Ztěžka vstane, jde do kuchyně a zavře za sebou dveře.
 
@@ -63,7 +63,7 @@ Vykrade se z bytu, ani se neohlédne. Jakmile za ním zaklapnou dveře, máma j
 
 Ingrid je zpočátku příslušně šokována, ale nyní už vypadá pobaveně.
 
-„Ale co já?“ stěžuju si rozhořčeně. „Vyjde najevo, že Oliver spal s mou matkou, nicméně ani matku, ani Olivera kupodivu vůbec nezajímá, jak se s tím vyrovnám já…“
+„Ale co **já**?“ stěžuju si rozhořčeně. „Vyjde najevo, že Oliver **spal** s mou matkou, nicméně ani matku, ani Olivera kupodivu vůbec nezajímá, jak se s tím vyrovnám **já**…“
 
 Ingrid se usmívá.
 
@@ -71,7 +71,7 @@ Ingrid se usmívá.
 
 Zatvářím se pohoršeně, jenže v téže chvíli mi zvoní mobil. Vrhnu se k němu, ale je to bohužel Rickie. Volá z práce: Co prý má koupit mé matce k Vánocům?
 
-„K Vánocům, Rickie?“ opakuji po něm užasle a mrknu na šklebící se Ingrid, ale poprvé pocítím píchnutí výčitky. „Je začátek září…“
+„**K Vánocům**, Rickie?“ opakuji po něm užasle a mrknu na šklebící se Ingrid, ale poprvé pocítím píchnutí výčitky. „Je začátek **září**…“
 
 Rickie mi vysvětluje, že jim včera přišly hezké barevné kryty na Nokii 3210 – typ, který máma používá. Napadlo ho, že bych mu mohla pomoct nějaký vybrat. Samozřejmě by jí nedával jenom ten kryt, ale třeba ještě svítící anténku, nebo by jí nainstaloval motorek pro vibrační vyzvánění. Nebo dokonce obojí.
 
@@ -97,7 +97,7 @@ Dneska jsem to já, kdo nervózně přechází po její garsoniéře. Ingrid mě
 
 „Kdo? Rickie, nebo Oliver?“
 
-„Rickie… Připadám si špatná.“
+„Rickie… Připadám si **špatná**.“
 
 „Proč by sis měla připadat špatná?“ říká Ingrid trochu moc automaticky.
 
@@ -125,7 +125,7 @@ Ingrid pokrčí rameny.
 
 To se mi snad zdá!
 
-„Tak on,“ říká Ingrid důrazně. „Ale nepředstavuj si bůhvíco: vykládal mi, jak hrozně moc se mu líbila Julia Roberts v My best friend’s wedding, a pokoušel se mě líbat.“
+„Tak **on**,“ říká Ingrid důrazně. „Ale nepředstavuj si bůhvíco: vykládal mi, jak hrozně moc se mu líbila Julia Roberts v **My best friend’s wedding**, a pokoušel se mě líbat.“
 
 „Líbat?!“
 
@@ -151,9 +151,9 @@ Mobil!!! Ingrid mě nechce pustit. Konečně ruku vyprostím a hrábnu po vyzv�
 
 „A abys v tom mohla pokračovat…,“ říká polohlasem Ingrid.
 
-Oliver volá z domova. Jeho hlas zní ztrhaně, dutě. Pozvání na oběd odmítá: snídal pozdě a nemá ještě hlad. Navrhuji, abychom si v tom případě dali třeba jen koblihy a kávu v Dunkin’ Donuts… Raději ne, říká, na takový podnik si dneska připadá příliš starý.
+Oliver volá z domova. Jeho hlas zní ztrhaně, dutě. Pozvání na oběd odmítá: snídal pozdě a nemá ještě hlad. Navrhuji, abychom si v tom případě dali třeba jen koblihy a kávu v **Dunkin’ Donuts**… Raději ne, říká, na takový podnik si **dneska** připadá příliš starý.
 
-Konečně mi to dojde: původně jsem se domnívala, že je zdrcený z trapnosti onoho ranního incidentu, a že mu navíc vadí, že jsem jaksi v přímém příbuzenském poměru s jeho bývalou láskou. Ale je to jinak. Dnes ráno si Oliver pouze bolestně uvědomil, že je definitivně v onom věku, kdy muži začínají pošilhávat po dcerách svých někdejších milenek. Celý ten ranní výstup byl pro něj především nepříjemnou připomínkou přicházejícího stáří.
+Konečně mi to dojde: původně jsem se domnívala, že je zdrcený z trapnosti onoho ranního incidentu, a že mu navíc vadí, že jsem jaksi v přímém příbuzenském poměru s jeho bývalou láskou. Ale je to jinak. Dnes ráno si Oliver pouze bolestně uvědomil, že je definitivně v onom věku, kdy muži začínají pošilhávat po dcerách svých někdejších milenek. Celý ten ranní výstup byl pro něj **především** nepříjemnou připomínkou přicházejícího stáří.
 
 Oliver mou teorii ani v nejmenším nepopírá.
 
@@ -165,19 +165,19 @@ Oliver mou teorii ani v nejmenším nepopírá.
 
   
 
-Nad postelí v Oliverově překvapivě útulné nuselské garsoniéře (čekala jsem příslušný bohémský bordel, ale Oliver tu má místy až pedantský pořádek) visí jedna z těch velkých reklam na cigarety Marlboro – Marlboro Country. Určitě je znáte: široké pláně zalité měkkým světlem zapadajícího slunce, divocí koně, usměvaví opálení kovbojové v džínsách a kostkovaných košilích – a pod tím následující text:
+Nad postelí v Oliverově překvapivě útulné nuselské garsoniéře (čekala jsem příslušný bohémský bordel, ale Oliver tu má místy až pedantský pořádek) visí jedna z těch velkých reklam na cigarety Marlboro – **Marlboro Country**. Určitě je znáte: široké pláně zalité měkkým světlem zapadajícího slunce, divocí koně, usměvaví opálení kovbojové v džínsách a kostkovaných košilích – a pod tím následující text:
 
-This is the place where some men do what others only dream about. (Tohle je místo, kde někteří muži dělají to, o čem ostatní pouze sní.)
+**This is the place where some men do what others only dream about.** (Tohle je místo, kde někteří muži dělají to, o čem ostatní pouze sní.)
 
 Ležím s tváří položenou na Oliverově hrudi. Oliver mi dýchá do vlasů a dvěma prsty mi jemně hladí nahá záda. Je mi krásně.
 
-Ozve se můj mobil (podle vyzvánění vím, že je to Rickie), ale já ho vypnu. Oliver mě, abych tak řekla, úplně přesměroval.
+Ozve se můj mobil (podle vyzvánění vím, že je to Rickie), ale já ho vypnu. Oliver mě, abych tak řekla, úplně **přesměroval**.
 
 „To byl ten chlapec?“ říká Oliver.
 
 Přikývnu.
 
-„Když teď řeknu, že s ním soucítím,“ přemítá nahlas Oliver, „bude to – přestože je to z mé strany bezmála upřímné – ještě větší morální hnůj, než kdybych případně tvrdil, že je mi to šuma­fuk.“
+„Když teď řeknu, že s ním soucítím,“ přemítá nahlas Oliver, „bude to – přestože je to z mé strany bezmála **upřímné** – ještě větší morální hnůj, než kdybych případně tvrdil, že je mi to šuma­fuk.“
 
 Nespokojeně se zavrtím. Nechci takovéhle věci slyšet – i kdyby to byla stokrát pravda.
 
@@ -227,17 +227,17 @@ Nic se neozývá.
 
 Oliver pokrčí rameny a předá mi telefon.
 
-„Mami, pochop,“ začnu, „já jsem zamilovaná…“
+„Mami, pochop,“ začnu, „já jsem **zamilovaná**…“
 
 „Gratuluju.“
 
-Úplně vidím, jak se máma ušklíbla.
+Úplně **vidím**, jak se máma ušklíbla.
 
-„Mami, já přece nechci, já přece ani nemůžu dělat něco tobě natruc!“ zvolám zoufale.
+„Mami, já přece nechci, já přece ani **nemůžu** dělat něco tobě natruc!“ zvolám zoufale.
 
-„Ale co po mně chceš?!“ křičí máma. „Abych vám s Pažoutem požehnala?!“
+„Ale co po mně chceš?!“ křičí máma. „Abych vám s Pažoutem **požehnala**?!“
 
-„Aby ses to aspoň pokusila pochopit!“
+„Aby ses to aspoň **pokusila** pochopit!“
 
 Slyším její dech.
 
@@ -249,4 +249,4 @@ Dlouze, hluboce si povzdychne. Připadá mi, že v tom jediném povzdechu je ob
 
 Navrhuju kavárnu Louvre na Národní třídě – vím, že to tam má ráda. Třeba zítra v jednu?
 
-„Dobře,“ souhlasí po chvíli. „Ale vyřiď tomu člověku, ať si laskavě nebere tenisky…“
+„Dobře,“ souhlasí po chvíli. „Ale vyřiď tomu **člověku**, ať si laskavě nebere tenisky…“

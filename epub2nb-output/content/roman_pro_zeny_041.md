@@ -1,9 +1,7 @@
 ---
-title: ''
+title: KAPITOLA XXXV
 contentType: prose
 ---
-
-KAPITOLA XXXV
 
 _Laura promlouvá k fotografii – Happy Birthday! – Mírně promiskuitní podzim – Nařčení z feminismu – Pilný Robert_
 
@@ -37,11 +35,11 @@ Bylo to jako ve filmu: v pátek přijdu z práce domů, nic netušíc odemknu 
 
   
 
-Na tom večírku jsem si nicméně uvědomila, že všechny ty lidi znám už příliš dlouho a že naléhavě potřebuju poznat nějaké nové.
+Na tom večírku jsem si nicméně uvědomila, že všechny ty lidi znám už příliš dlouho a že naléhavě potřebuju poznat nějaké **nové**.
 
 Chcete vědět, milé sestry, jak se po rozchodu s partnerem seznámit s novými lidmi? Doktorka Wolfová vám poradí: _Možnost seznámit se s novými lidmi máte v_ _knihovně, v obchodním domě, divadle, biografu, plaveckém bazénu i v kanceláři._ Připadá vám to poněkud nekonkrétní? Zajímá vás, jak jsem to po rozchodu s Oliverem dělala v obchodním domě Tesco já? Prostě s nákupním vozíkem zajeďte před libovolný regál, rozepněte si u košile dva knoflíčky a potom se už jen bezradně rozhlížejte. Jakmile v dosahu deseti metrů uvidíte osamoceného chlapa, co vypadá aspoň trochu k světu _(Nevyhlížejte velkou lásku!)_, oslovte ho. Je úplně jedno, s čím se na něho obrátíte: namluvte mu třeba, že nemůžete najít solamylovou moučku nebo thajskou kari omáčku. Jestli vám to připadá po herecké stránce příliš náročné, můžete jednoduše jenom sklopit hlavu a vrazit do něho vozíkem. Kdo nevyhledává známosti, nemůže získat přátele (strana 102). Usmívejte se, prohoďte s ním pár vět (je úplně jedno, o čem), nechte se pozvat na kafe, nebo mu rovnou dejte telefon. Hlavně se _nesnažte za každou cenu dozvědět, zda s vámi dotyčný muž chce navázat trvalý vztah_. Radši na to nemyslete. Hrozně by to z vás totiž vyzařovalo, dotyčný muž _by si toho všiml a okamžitě by se stáhl_.
 
-Ale je tu jeden problém: patrně se při hledání nových známostí nevyhnete jistým… slepým uličkám (řečeno zaobaleně). Alespoň já jsem v takové slepé uličce skončila ten podzim hned třikrát. Dodnes jsem totiž nepochopila, jak být například v plaveckém bazénu _ve vztahu k_ _mužům_ _aktivní_ – a vyhnout se přitom promiskuitě. Není mi zkrátka úplně jasné, jak v koktailovém baru _neodmítat pozvání_ – a nemuset potom s těmi chlapy souložit.
+Ale je tu jeden problém: patrně se při hledání nových známostí nevyhnete jistým… **slepým uličkám** (řečeno zaobaleně). Alespoň já jsem v takové slepé uličce skončila ten podzim hned třikrát. Dodnes jsem totiž nepochopila, jak být například v plaveckém bazénu _ve vztahu k_ _mužům_ _aktivní_ – a vyhnout se přitom promiskuitě. Není mi zkrátka úplně jasné, jak v koktailovém baru _neodmítat pozvání_ – a nemuset potom s těmi chlapy souložit.
 
 Byla bych moc ráda, kdyby mi to doktorka Wolfová vysvětlila.
 
@@ -49,15 +47,15 @@ Byla bych moc ráda, kdyby mi to doktorka Wolfová vysvětlila.
 
   
 
-Do barů a různých klubů mě začala tahat Ingrid (občas s námi šla i máma). Obvykle jsem se tvářila značně útrpně – jako že to celé podstupuji výlučně kvůli nim – a zhola nic jsem si od toho neslibovala (vím dávno, že pravděpodobnost seznámení s někým použitelným je v barech a hospodách ještě menší než jinde). Někdy to nicméně bylo docela fascinující divadlo… Jestli si, milé dámy, aspoň občas vyjdete samy, jen ve dvou nebo ve třech, určitě víte, o čem mluvím. Začíná to samozřejmě pohledy od sousedních stolů. Myslím, že všichni chlapi by si své významné pohledy měli aspoň jednou v životě zkusit doma před zrcadlem – možná by jim to pak došlo. Očividně si vůbec neuvědomují, co takový významný pohled dokáže po čtyřech panácích udělat s jejich obličejem… A to je teprve začátek. Dříve nebo později k vám některý z nich bez vyzvání přistoupí, podívá se vám do výstřihu a pronese cosi jako Tak co, kočky, jak to jde? (nebo něco podobně invenčního). Potom se pyšně ohlédne na své padesátileté prošedivělé kamarády, kteří se na vás šklebí jako puberťáci, nabere si z vaší misky plnou hrst oříšků a začne si je v rytmu pístu parní lokomotivy po jednom vhazovat do pusy. Vy mu velmi odměřeně odpovíte, načež ten chlap se zeširoka usměje, ukáže vám jazyk pokrytý žlutobílým kobercem rozžvýkaných buráků (zřejmě si takhle představuje zářivý úsměv) a řekne:
+Do barů a různých klubů mě začala tahat Ingrid (občas s námi šla i máma). Obvykle jsem se tvářila značně útrpně – jako že to celé podstupuji výlučně kvůli nim – a zhola nic jsem si od toho neslibovala (vím dávno, že pravděpodobnost seznámení s někým **použitelným** je v barech a hospodách ještě menší než jinde). Někdy to nicméně bylo docela fascinující divadlo… Jestli si, milé dámy, aspoň občas vyjdete samy, jen ve dvou nebo ve třech, určitě víte, o čem mluvím. Začíná to samozřejmě pohledy od sousedních stolů. Myslím, že všichni chlapi by si své **významné** pohledy měli aspoň jednou v životě zkusit doma před zrcadlem – možná by jim to pak došlo. Očividně si vůbec neuvědomují, co takový významný pohled dokáže po čtyřech panácích udělat s jejich obličejem… A to je teprve začátek. Dříve nebo později k vám některý z nich bez vyzvání přistoupí, podívá se vám do výstřihu a pronese cosi jako Tak co, kočky, jak to jde? (nebo něco podobně invenčního). Potom se pyšně ohlédne na své padesátileté prošedivělé kamarády, kteří se na vás šklebí jako puberťáci, nabere si z vaší misky plnou hrst oříšků a začne si je v rytmu pístu parní lokomotivy po jednom vhazovat do pusy. Vy mu velmi odměřeně odpovíte, načež ten chlap se zeširoka usměje, ukáže vám jazyk pokrytý žlutobílým kobercem rozžvýkaných buráků (zřejmě si takhle představuje **zářivý úsměv**) a řekne:
 
 „Jo, jasně!“
 
 „Promiňte,“ oznámí mu máma chladně, „ale chtěly bychom být samy.“
 
-„Jak samy? Sem se lidi choděj bavit!“ poučí ji chlápek, ale v jeho sebevědomém úsměvu už je postřehnutelná trhlina.
+„Jak samy? Sem se lidi choděj **bavit**!“ poučí ji chlápek, ale v jeho sebevědomém úsměvu už je postřehnutelná trhlina.
 
-„V tom se od ostatních lidí nelišíme,“ říká máma klidně. „Ještě před chvílí jsme se bavily celkem dobře.“
+„V tom se od ostatních lidí nelišíme,“ říká máma klidně. „Ještě **před chvílí** jsme se bavily celkem dobře.“
 
 „S náma byste se mohly bavit ještě líp…,“ zubí se chlápek a ukáže na svoje spolustolovníky.
 
@@ -65,7 +63,7 @@ Máma si je postupně prohlédne. Záměrně si dává načas.
 
 „To mi připadá velmi nepravděpodobné,“ pousměje se potom mrazivě.
 
-Chlápek vypadá, že bude mámu inzultovat – ale nakonec se na odchodu spokojí s poznámkou o frigidních feministkách.
+Chlápek vypadá, že bude mámu inzultovat – ale nakonec se na odchodu spokojí s poznámkou o **frigidních feministkách**.
 
 A tak dále.
 
@@ -73,9 +71,9 @@ A tak dále.
 
   
 
-V říjnu jsem v Solidní nejistotě narazila na kluka, který se od podobných playboyů příjemně lišil. Jmenoval se Robert. Byl menší, ale hezký, studoval pedagogickou fakultu a do baru přišel s kamarádem oslavit úspěšně složenou zkoušku. Příliš si nás s Ingrid nevšímali, a proto jsem se ho _aktivně_ zeptala, jestli si k nim můžeme přisednout.
+V říjnu jsem v **Solidní nejistotě** narazila na kluka, který se od podobných playboyů příjemně lišil. Jmenoval se Robert. Byl menší, ale hezký, studoval pedagogickou fakultu a do baru přišel s kamarádem oslavit úspěšně složenou zkoušku. Příliš si nás s Ingrid nevšímali, a proto jsem se ho _aktivně_ zeptala, jestli si k nim můžeme přisednout.
 
-Ingrid a kamarád asi po půlhodině odešli každý zvlášť (kamarádovi bylo prý cítit z pusy), ale my dva jsme zůstali a povídali si. I když, povídali: byl to jeden z těch typů, co buďto mlčí, nebo mluví téměř výlučně o sobě, takže jsem se s ním upřímně řečeno nudila. Samozřejmě jsem se na něj po celou tu dobu patřičně společensky culila, ale doopravdy mě rozesmát se mu za celý večer nepodařilo. No a co, říkala jsem si, lepší než nic. Kde je psáno, že život musí být ukrutná sranda? Navíc když mluvil o zápočtových písemkách nebo o souborné zkoušce u docentky Machové, měl v očích takové lesklé vzrušení… Jakmile nás přišli zkasírovat, dotkla jsem se jeho ruky.
+Ingrid a kamarád asi po půlhodině odešli každý zvlášť (kamarádovi bylo prý cítit z pusy), ale my dva jsme zůstali a povídali si. I když, povídali: byl to jeden z těch typů, co buďto mlčí, nebo mluví téměř výlučně o sobě, takže jsem se s ním upřímně řečeno nudila. Samozřejmě jsem se na něj po celou tu dobu patřičně společensky culila, ale **doopravdy** mě rozesmát se mu za celý večer nepodařilo. No a co, říkala jsem si, lepší než nic. Kde je psáno, že život musí být ukrutná sranda? Navíc když mluvil o zápočtových písemkách nebo o **souborné zkoušce** u docentky Machové, měl v očích takové lesklé vzrušení… Jakmile nás přišli zkasírovat, dotkla jsem se jeho ruky.
 
 „Žiju s mámou, takže ke mně nemůžem,“ pravila jsem. „Bydlíš daleko?“
 
@@ -95,7 +93,7 @@ V posteli nebyl Robert nic moc a já jsem se kromě toho styděla na něj hned
 
 Tohle nechápu: oni přece musí vědět, že i kdyby se nám to nelíbilo, stejně bychom jim to neřekly – a přesto se nás pořád ptají…
 
-„Chceš, abych tě oklasifikovala?“ řekla jsem.
+„Chceš, abych tě **oklasifikovala**?“ řekla jsem.
 
 Nervózně se usmíval – zřejmě jako před každým známkovým ohodnocením.
 

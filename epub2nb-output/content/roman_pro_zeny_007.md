@@ -11,11 +11,11 @@ _Má už Laura chlapce? – Nejlepší přítelkyně – Rickieho bělmo – 
 
 Začnu třeba tím, jak jsme se předloni na konci srpna vrátili s Richardem z dovolené v Chorvatsku.
 
-Na začátku každého mluveného i psaného projevu by prý měl být vtip – alespoň to tvrdí příručka Jak si zlepšit mluvený a psaný projev. Různé psychologické příručky jako Nekazte si život maličkostmi nebo Jak si vybudovat harmonický partnerský vztah si mimochodem kupuju dost často, neboť odjakživa trpím možná naiv­ní, ale tak jako tak znervózňující představou, že se v nich skrývají jakési zásadní informace, bez jejichž znalosti není možné prožít šťastný život… No nic. Vtipem navodíte přátelskou atmosféru a získáte si posluchače na svou stranu, tvrdí autor výše zmíněné brožury. Když v projevu, tak proč ne na začátku románu, říkám si, jenomže kterým?
+Na začátku každého mluveného i psaného projevu by prý měl být vtip – alespoň to tvrdí příručka **Jak si zlepšit mluvený a psaný projev**. Různé psychologické příručky jako **Nekazte si život maličkostmi** nebo **Jak si vybudovat harmonický partnerský vztah** si mimochodem kupuju dost často, neboť odjakživa trpím možná naiv­ní, ale tak jako tak znervózňující představou, že se v nich skrývají jakési zásadní informace, bez jejichž znalosti není možné prožít šťastný život… No nic. Vtipem **navodíte přátelskou atmosféru a získáte si posluchače na svou stranu**, tvrdí autor výše zmíněné brožury. Když v projevu, tak proč ne na začátku románu, říkám si, jenomže **kterým**?
 
 Kterým z těch všech vtipů, z nichž se přinejmenším poslední dva roky skládá můj život?
 
-Tak co třeba tenhle: Je mi dvaadvacet, mám za sebou tři roky poměrně intenzivního milostného života – a moje jediná žijící babička, které už bohužel poněkud haraší, se mě dodnes při každé návštěvě zeptá, jestli prý už mám chlapce.
+Tak co třeba tenhle: Je mi dvaadvacet, mám za sebou tři roky poměrně intenzivního milostného života – a moje jediná žijící babička, které už bohužel poněkud haraší, se mě dodnes při každé návštěvě zeptá, **jestli prý už mám chlapce**.
 
 „Tak co, Lauro,“ říká s šibalským úsměvem, „už máš chlapce?“
 
@@ -29,7 +29,7 @@ Nevím, co mě to popadlo, ale prostě jsem jí najednou nechtěla lhát.
 
 Tak jsem na ni udělala takové ty upřímné oči à la Barunka Panklová a pravila jsem:
 
-„Mám, babičko. Dokonce hned dva.“
+„Mám, babičko. Dokonce hned **dva**.“
 
 ## 2/
 
@@ -39,21 +39,21 @@ Nyní tedy ten návrat z dovolené: Přiletěli jsme ve čtvrtek odpoledne. Byt
 
 Žádnou radost jsem z toho rozhodně neměla.
 
-Otupěle jsem začala vybalovat kufry (Rickie se nabízel, že mi pomůže, ale já jsem ho odmítla). Každé tričko, které jsem vzala do ruky, mi připomnělo ten či onen konkrétní den, kdy jsem ho měla na sobě – a tím i Olivera. Plavky, které jsem před odletem musela zapakovat ještě mokré, byly už poněkud zatuchlé, ale zároveň z nich bylo ještě slabě cítit moře. Mám odjakživa silně vyvinutý čich, což – jak všichni víme – má svá pro i proti. Pokud zrovna nežijete v rozkvetlém mandlovém háji a do práce jezdíte tak jako já narvaným metrem, je tahle dispozice rozhodně spíš nevýhodou. Možná lépe než druzí dokážete vychutnat vůni vína či květin, lépe než většina ostatních umíte ocenit rafinované složení drahého parfému (na drahých parfémech upřímně řečeno doslova ujíždím…), ale zároveň i nadprůměrně trpíte. I velmi slabý zápach, který ostatním připadá pouze nepříjemný (pokud ho vůbec cítí), vás fyzicky doslova ničí.
+Otupěle jsem začala vybalovat kufry (Rickie se nabízel, že mi pomůže, ale já jsem ho odmítla). Každé tričko, které jsem vzala do ruky, mi připomnělo ten či onen konkrétní den, kdy jsem ho měla na sobě – a tím i Olivera. Plavky, které jsem před odletem musela zapakovat ještě mokré, byly už poněkud zatuchlé, ale zároveň z nich bylo ještě slabě cítit moře. Mám odjakživa silně vyvinutý čich, což – jak všichni víme – má svá pro i proti. Pokud zrovna nežijete v rozkvetlém mandlovém háji a do práce jezdíte tak jako já narvaným metrem, je tahle dispozice rozhodně spíš nevýhodou. Možná lépe než druzí dokážete vychutnat vůni vína či květin, lépe než většina ostatních umíte ocenit rafinované složení drahého parfému (na drahých parfémech upřímně řečeno doslova **ujíždím**…), ale zároveň i nadprůměrně **trpíte**. I velmi slabý zápach, který ostatním připadá pouze **nepříjemný** (pokud ho vůbec cítí), vás fyzicky doslova **ničí**.
 
 Ale to předbíhám.
 
 Rickie se naštěstí rozhodl, že si půjde do hospody zahrát šipky, takže jsem mohla zavolat Ingrid a všechno jí vyklopit: Asi jsem se zamilovala! Do bezmála čtyřicetiletého chlapa!
 
-Na druhé straně linky je ticho. Pochopím, že Ingrid mé nadšení nesdílí. Má pocit, říká po chvíli, že čtyřicet let už je vážně moc.
+Na druhé straně linky je ticho. Pochopím, že Ingrid mé nadšení nesdílí. Má pocit, říká po chvíli, že čtyřicet let už je **vážně moc**.
 
-„To jsem si taky myslela…,“ pronesu bezmocně.
+„To jsem si **taky** myslela…,“ pronesu bezmocně.
 
 Později se mě Ingrid ptá, jestli si nechci jít večer někam zatancovat, abychom oslavily můj návrat – ale na to jsem po té dlouhé cestě příliš unavená.
 
 „Dneska ne, nezlob se. Co zítra?“ navrhuju. „Když tak běž sama. Ale neudělej žádnou blbost…“
 
-Vím, co říkám. Pokud jde o sex, měla přede mnou Ingrid vždycky náskok. Já jsem o panenství přišla v devatenácti, Ingrid v patnácti. Od té doby už zažila leccos. Ne všechno vyzkoušela dobrovolně – jednou ji jakýsi profesionální tanečník proti její vůli na půlku noci připoutal k posteli… Po zážitcích tohoto typu následuje zpravidla jeden plačtivý ranní telefonát (hádejte komu…) a potom zhruba třítýdenní celibát. Během něho se Ingrid přihlásí do jednoho nebo dvou vzdělávacích kurzů a na kick-box. Když ji v tomto specifickém období navštívím doma, obvykle ji zastihnu, jak svýma krátkýma nohama zuřivě kope před sebe a vykřikuje, že všichni chlapi by zasloužili vykastrovat… Týden nato ale už opět sedí někde v kavárně v tričku na ramínka a dělá oči na zelenookého černovlasého kluka v kašmírovém svetru; ještě týž večer se s ním vyspí, zamiluje se do něj a po týdnu známosti mu v prodejně The Art of Living zakoupí oranžové křeslo (což toho kluka samozřejmě vyděsí, okamžitě se stáhne a začne o Ingrid prohlašovat, že je tak trochu praštěná).
+Vím, co říkám. Pokud jde o sex, měla přede mnou Ingrid vždycky náskok. Já jsem o panenství přišla v devatenácti, Ingrid v patnácti. Od té doby už zažila leccos. Ne všechno vyzkoušela dobrovolně – jednou ji jakýsi profesionální tanečník proti její vůli na půlku noci připoutal k posteli… Po zážitcích tohoto typu následuje zpravidla jeden plačtivý ranní telefonát (hádejte komu…) a potom zhruba třítýdenní celibát. Během něho se Ingrid přihlásí do jednoho nebo dvou vzdělávacích kurzů a na **kick-box**. Když ji v tomto specifickém období navštívím doma, obvykle ji zastihnu, jak svýma krátkýma nohama zuřivě kope před sebe a vykřikuje, že všichni chlapi by zasloužili vykastrovat… Týden nato ale už opět sedí někde v kavárně v tričku na ramínka a dělá oči na zelenookého černovlasého kluka v kašmírovém svetru; ještě týž večer se s ním vyspí, zamiluje se do něj a po týdnu známosti mu v prodejně **The Art of Living** zakoupí oranžové křeslo (což toho kluka samozřejmě vyděsí, okamžitě se stáhne a začne o Ingrid prohlašovat, že je tak trochu praštěná).
 
 Což má ostatně pravdu.
 
@@ -75,9 +75,9 @@ Vsadím se, že moc dobře víte, jaké takové jedno pípnutí dokáže vytvoř
 
   
 
-Nakonec jsem to stejně nevydržela. Ve čtvrt na osm jsem si nasadila brýle a vstala jsem z postele. Rickie spal – nebo předstíral, že spí. Mimochodem, brýle: nosím je už od třetí třídy, takže jsem si na ně dávno zvykla. Nemám z nich sebemenší mindrák. Já rovná se brýle, tak to vždycky bylo a bude. O kontaktních čočkách jsem nikdy neuvažovala – jednak se dneska dají sehnat opravdu slušivé brýle a za druhé si už z principu odmítám strkat prsty do očí… Připadá mi to vážně nechutné. Když vidím, jak si někdo stahuje spodní víčko a ukazuje celému světu svou rudou sliznici, je mi z toho pokaždé šoufl. Navíc přitom každý vypadá jako mentálně retardovaný idiot – všimli jste si někdy, jak se lidé při nasazování čoček tváří?
+Nakonec jsem to stejně nevydržela. Ve čtvrt na osm jsem si nasadila brýle a vstala jsem z postele. Rickie spal – nebo předstíral, že spí. Mimochodem, brýle: nosím je už od třetí třídy, takže jsem si na ně dávno zvykla. Nemám z nich sebemenší mindrák. Já rovná se brýle, tak to vždycky bylo a bude. O kontaktních čočkách jsem nikdy neuvažovala – jednak se dneska dají sehnat opravdu slušivé brýle a za druhé si už z principu odmítám strkat prsty do očí… Připadá mi to vážně nechutné. Když vidím, jak si někdo stahuje spodní víčko a ukazuje celému světu svou rudou sliznici, je mi z toho pokaždé šoufl. Navíc přitom každý vypadá jako mentálně retardovaný idiot – všimli jste si někdy, jak se lidé při nasazování čoček **tváří**?
 
-No nic, jakmile jsem měla brýle na nose, šla jsem do kuchyně zapnout mobil, abych zjistila, jestli mi v noci nepřišla od někoho nějaká textovka. Říkám od někoho, ale samozřejmě mám na mysli hlavně Olivera. Kromě něj mi v noci píší už jenom máma a Ingrid. Se zprávami od mámy problém není, ty můžu dát Rickiemu kdykoliv přečíst (samozřejmě s výjimkou těch, v nichž se máma zmiňuje o něm – ha ha…).
+No nic, jakmile jsem měla brýle na nose, šla jsem do kuchyně zapnout mobil, abych zjistila, jestli mi v noci nepřišla **od někoho** nějaká textovka. Říkám **od někoho**, ale samozřejmě mám na mysli hlavně Olivera. Kromě něj mi v noci píší už jenom máma a Ingrid. Se zprávami od mámy problém není, ty můžu dát Rickiemu kdykoliv přečíst (samozřejmě s výjimkou těch, v nichž se máma zmiňuje o něm – ha ha…).
 
 Typická textovka od Ingrid přichází v časných ranních hodinách a zní: VSECHNY CHLAPY BY MELI VYKASTROVAT!
 

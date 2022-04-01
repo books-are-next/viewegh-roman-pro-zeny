@@ -19,7 +19,7 @@ Doma se sesunu na nejbližší židli a prohlížím si obálku. Na známce je 
 
 „Robert?“
 
-„Oliver! Oliver mi poslal dopis!“
+„**Oliver!** Oliver mi poslal dopis!“
 
 Ingrid vzdychne.
 
@@ -43,11 +43,11 @@ Ukážu jí obálku. Dosud jsem ji neotevřela, ale zároveň už několik hodin
 
 Máma vypadá bezradně. Sedá si ke stolu a zapaluje si. Bílá obálka leží mezi námi.
 
-„Ty víš, dítě, že tě miluju,“ promluví po chvíli. „Hrozně ráda bych ti poradila dobře. Hrozně ráda bych ti poradila tak, abys byla šťastná – ale podívej se na můj život…“
+„Ty víš, dítě, že tě miluju,“ promluví po chvíli. „Hrozně ráda bych ti poradila dobře. Hrozně ráda bych ti poradila tak, abys byla **šťastná** – ale podívej se na **můj** život…“
 
 Bezmocně rozhodí rukama. Ten jediný pohyb zahrnuje všechny minulé roky, všechny ty nepodařené vztahy.
 
-„Copak já můžu někomu radit?“ dodá sklesle.
+„Copak **já** můžu někomu radit?“ dodá sklesle.
 
 ## 3/
 
@@ -69,11 +69,11 @@ Na radu Doris, Ingrid a Roberta s nimi naložím úplně stejně.
 
 Pár dní po Novém roce objevím v metru cestou do práce první dopis. Samozřejmě zprvu vůbec nic netuším, a tak jen napůl zvědavě, napůl nechápavě přistoupím blíž ke kovovému rámečku a čtu:
 
-Drahá Lauro,
+_Drahá Lauro,_
 
-jediné, co mi po Tobě zbylo, jsou vzpomínky.
+_jediné, co mi po Tobě zbylo, jsou vzpomínky._
 
-Když to takhle napíšu, zní to jako text nějakého hloupého amerického hitu, kterým jsme se spolu občas vysmívali – a najednou je pro mě v tom klišé hluboká pravda. Celé hodiny, celé dny na Tebe vzpomínám – v práci, v autě, doma, v čekárně u doktora Z. – všude. Vzpomínám, a kdykoliv se mi podaří objevit v paměti nějaký nový obrázek nebo třeba jenom nový detail, úplně mě to nadchne – a hned vzápětí „sejme“…
+_Když to takhle napíšu, zní to jako text nějakého hloupého amerického hitu, kterým jsme se spolu občas vysmívali – a najednou je pro mě v tom klišé hluboká pravda. Celé hodiny, celé dny na Tebe vzpomínám – v práci, v autě, doma, v čekárně u doktora Z. – všude. Vzpomínám, a kdykoliv se mi podaří objevit v paměti nějaký nový obrázek nebo třeba jenom nový detail, úplně mě to nadchne – a hned vzápětí „sejme“…_
 
 Náhle pochopím, že dopis psal Oliver a že jeho adresátkou jsem já. Polekaně zatajím dech, proti své vůli zrudnu, o krok poodstoupím a opatrně se rozhlédnu, jako by mě některý ze spolucestujících mohl usvědčit, že adresátkou dopisu jsem právě já…
 
