@@ -2,16 +2,16 @@
   "author": "Michal Viewegh",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "viewegh-roman-pro-zeny-44418a4",
+  "identifier": "viewegh-roman-pro-zeny-8777cf9",
   "languagecode": "cs",
   "modified": "2019-01-24T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Román pro ženy",
-  "revision": "44418a4",
+  "revision": "8777cf9",
   "generatedAt": {
-    "date": "Fri Apr 01 2022 10:49:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648810152896
+    "date": "Fri Apr 01 2022 10:57:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648810623837
   },
   "documents": [
     {
@@ -2078,7 +2078,7 @@
       "role": "chapter",
       "order": 39,
       "prev": "roman_pro_zeny_042.html",
-      "next": "roman_pro_zeny_044.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -2090,34 +2090,14 @@
       ]
     },
     {
-      "title": "Román pro ženy",
-      "file": "roman_pro_zeny_044.html",
-      "words": 48,
-      "chars": 300,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 40,
-      "prev": "roman_pro_zeny_043.html",
-      "next": "colophon.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
       "title": "Tiráž • Román pro ženy",
       "file": "colophon.html",
-      "words": 98,
-      "chars": 626,
-      "ideas": 10,
+      "words": 146,
+      "chars": 926,
+      "ideas": 22,
       "role": "colophon",
       "order": null,
-      "prev": "roman_pro_zeny_044.html",
+      "prev": "roman_pro_zeny_043.html",
       "next": null,
       "toc": [
         {
@@ -2137,9 +2117,9 @@
       "ideas": 2520
     },
     "chapters": {
-      "words": 46181,
-      "chars": 278555,
-      "ideas": 2506
+      "words": 46133,
+      "chars": 278255,
+      "ideas": 2494
     }
   }
 }

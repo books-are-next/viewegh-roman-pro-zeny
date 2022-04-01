@@ -54,11 +54,13 @@ readingOrder:
   - roman_pro_zeny_041.html
   - roman_pro_zeny_042.html
   - roman_pro_zeny_043.html
-  - roman_pro_zeny_044.html
   - colophon.html
 tocBase:
   - id: section-1
     children:
+      - link: roman_pro_zeny_005.html
+        title: Drahá Lauro,
+        hiddenTitle: false
       - link: roman_pro_zeny_006.html
         title: PROLOG
         hiddenTitle: false
@@ -140,6 +142,9 @@ tocBase:
       - link: roman_pro_zeny_032.html
         title: KAPITOLA XXVI
         hiddenTitle: false
+      - link: roman_pro_zeny_033.html
+        title: KAPITOLA XXVII
+        hiddenTitle: false
       - link: roman_pro_zeny_034.html
         title: KAPITOLA XXVIII
         hiddenTitle: false
@@ -160,6 +165,9 @@ tocBase:
         hiddenTitle: false
       - link: roman_pro_zeny_040.html
         title: KAPITOLA XXXIV
+        hiddenTitle: false
+      - link: roman_pro_zeny_041.html
+        title: KAPITOLA XXXV
         hiddenTitle: false
       - link: roman_pro_zeny_042.html
         title: KAPITOLA XXXVI
