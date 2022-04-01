@@ -1,0 +1,1174 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Román pro ženy",
+    "identifier": "urn:uuid:2f717cfb-a1db-4a58-b83f-6ee9cc7f38af",
+    "author": "Michal Viewegh",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2019-01-24T00:00:00.000Z",
+    "published": "2019-01-18T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/roman_pro_zeny_044.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/roman_pro__idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image002_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/obalka_roman_pro_zeny_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Drahá Lauro",
+      "href": "OEBPS/Text/roman_pro_zeny_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "PROLOG",
+      "href": "OEBPS/Text/roman_pro_zeny_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "KAPITOLA I",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "KAPITOLA II",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_008.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_008.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_008.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_008.xhtml#toc_marker-4-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "KAPITOLA III",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "KAPITOLA IV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "KAPITOLA V",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7-7"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "KAPITOLA VI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-7"
+        },
+        {
+          "title": "8/",
+          "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8-8"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Drahá Lauro",
+      "href": "OEBPS/Text/roman_pro_zeny_012.xhtml#toc_marker-9"
+    },
+    {
+      "title": "KAPITOLA VII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_013.xhtml#toc_marker-10-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_013.xhtml#toc_marker-10-2"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_013.xhtml#toc_marker-10"
+    },
+    {
+      "title": "KAPITOLA VIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_014.xhtml#toc_marker-11"
+    },
+    {
+      "title": "KAPITOLA IX",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_015.xhtml#toc_marker-12"
+    },
+    {
+      "title": "KAPITOLA X",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_016.xhtml#toc_marker-13-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_016.xhtml#toc_marker-13-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_016.xhtml#toc_marker-13-3"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_016.xhtml#toc_marker-13"
+    },
+    {
+      "title": "KAPITOLA XI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_017.xhtml#toc_marker-14"
+    },
+    {
+      "title": "KAPITOLA XII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_018.xhtml#toc_marker-15-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_018.xhtml#toc_marker-15-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_018.xhtml#toc_marker-15-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_018.xhtml#toc_marker-15-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_018.xhtml#toc_marker-15"
+    },
+    {
+      "title": "KAPITOLA XIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_019.xhtml#toc_marker-16"
+    },
+    {
+      "title": "KAPITOLA XIV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_020.xhtml#toc_marker-17-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_020.xhtml#toc_marker-17-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_020.xhtml#toc_marker-17-3"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_020.xhtml#toc_marker-17"
+    },
+    {
+      "title": "KAPITOLA XV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-7"
+        },
+        {
+          "title": "8/",
+          "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18-8"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Drahá Lauro",
+      "href": "OEBPS/Text/roman_pro_zeny_021.xhtml#toc_marker-19"
+    },
+    {
+      "title": "KAPITOLA XVI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_022.xhtml#toc_marker-20"
+    },
+    {
+      "title": "KAPITOLA XVII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_023.xhtml#toc_marker-21-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_023.xhtml#toc_marker-21-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_023.xhtml#toc_marker-21-3"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_023.xhtml#toc_marker-21"
+    },
+    {
+      "title": "KAPITOLA XVIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_024.xhtml#toc_marker-22"
+    },
+    {
+      "title": "KAPITOLA XIX",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_025.xhtml#toc_marker-23"
+    },
+    {
+      "title": "KAPITOLA XX",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-24-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-24-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-24-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-24-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-24"
+    },
+    {
+      "title": "Drahá Lauro,",
+      "href": "OEBPS/Text/roman_pro_zeny_026.xhtml#toc_marker-25"
+    },
+    {
+      "title": "KAPITOLA XXI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_027.xhtml#toc_marker-26"
+    },
+    {
+      "title": "KAPITOLA XXII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_028.xhtml#toc_marker-27-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_028.xhtml#toc_marker-27-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_028.xhtml#toc_marker-27-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_028.xhtml#toc_marker-27-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_028.xhtml#toc_marker-27"
+    },
+    {
+      "title": "KAPITOLA XXIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_029.xhtml#toc_marker-28"
+    },
+    {
+      "title": "KAPITOLA XXIV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_030.xhtml#toc_marker-29-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_030.xhtml#toc_marker-29-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_030.xhtml#toc_marker-29-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_030.xhtml#toc_marker-29-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_030.xhtml#toc_marker-29"
+    },
+    {
+      "title": "KAPITOLA XXV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_031.xhtml#toc_marker-30-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_031.xhtml#toc_marker-30-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_031.xhtml#toc_marker-30-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_031.xhtml#toc_marker-30-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_031.xhtml#toc_marker-30"
+    },
+    {
+      "title": "KAPITOLA XXVI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_032.xhtml#toc_marker-31"
+    },
+    {
+      "title": "KAPITOLA XXVII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32-7"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_033.xhtml#toc_marker-32"
+    },
+    {
+      "title": "KAPITOLA XXVIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_034.xhtml#toc_marker-33-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_034.xhtml#toc_marker-33-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_034.xhtml#toc_marker-33-3"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_034.xhtml#toc_marker-33"
+    },
+    {
+      "title": "KAPITOLA XXIX",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34-6"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_035.xhtml#toc_marker-34"
+    },
+    {
+      "title": "KAPITOLA XXX",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35-7"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_036.xhtml#toc_marker-35"
+    },
+    {
+      "title": "KAPITOLA XXXI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36-6"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Drahá Lauro,",
+      "href": "OEBPS/Text/roman_pro_zeny_037.xhtml#toc_marker-37"
+    },
+    {
+      "title": "KAPITOLA XXXII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38-5"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_038.xhtml#toc_marker-38"
+    },
+    {
+      "title": "KAPITOLA XXXIII",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_039.xhtml#toc_marker-39-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_039.xhtml#toc_marker-39-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_039.xhtml#toc_marker-39-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_039.xhtml#toc_marker-39-4"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_039.xhtml#toc_marker-39"
+    },
+    {
+      "title": "KAPITOLA XXXIV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_040.xhtml#toc_marker-40-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_040.xhtml#toc_marker-40-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_040.xhtml#toc_marker-40-3"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_040.xhtml#toc_marker-40"
+    },
+    {
+      "title": "KAPITOLA XXXV",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-6"
+        },
+        {
+          "title": "7/",
+          "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41-7"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_041.xhtml#toc_marker-41"
+    },
+    {
+      "title": "KAPITOLA XXXVI",
+      "children": [
+        {
+          "title": "1/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-1"
+        },
+        {
+          "title": "2/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-2"
+        },
+        {
+          "title": "3/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-3"
+        },
+        {
+          "title": "4/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-4"
+        },
+        {
+          "title": "5/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-5"
+        },
+        {
+          "title": "6/",
+          "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42-6"
+        }
+      ],
+      "href": "OEBPS/Text/roman_pro_zeny_042.xhtml#toc_marker-42"
+    },
+    {
+      "title": "EPILOG",
+      "href": "OEBPS/Text/roman_pro_zeny_043.xhtml#toc_marker-43"
+    }
+  ]
+}
