@@ -11,7 +11,7 @@ _Čeho se Laura bojí? – Oliver a třídní schůzky – Citát z Havlíč
 
 STAROMLADENECKA PEVNOST DOBYTA! textuju Ingrid.
 
-Mám takovou radost, že jí málem pošlu letící srdce, ale naštěstí si včas připomenu své celoživotní předsevzetí neposílat nikdy nikomu žádný z těch hloupých obrázků (copak jsme Indiáni, abychom komunikovali prostřednictvím obrázkového písma?). Zároveň mám ze společného bydlení s Oliverem trochu strach.
+Mám takovou radost, že jí málem pošlu **letící srdce**, ale naštěstí si včas připomenu své celoživotní předsevzetí neposílat nikdy nikomu žádný z těch hloupých obrázků (copak jsme Indiáni, abychom komunikovali prostřednictvím obrázkového písma?). Zároveň mám ze společného bydlení s Oliverem trochu strach.
 
 Bojím se o své soukromí, o své každodenní zvyklosti.
 
@@ -19,17 +19,17 @@ Bojím se, že si zevšedníme.
 
 Bojím se, že dopustím, aby mi Oliver začal jít na nervy.
 
-Bojím se, že nepřestanu dál hledat.
+Bojím se, že nepřestanu dál **hledat**.
 
 ## 2/
 
   
 
-První dva měsíce jsou ovšem nad očekávání skvělé. Oba se od samého začátku nápadně snažíme. Na uvítanou dostanu od Olivera květiny, modré hedvábné pyžamo Marks and Spencer a bílý froté župan; já mu na oplátku koupím totéž křeslo, jaké před časem koupila Ingrid Hubertovi.
+První dva měsíce jsou ovšem nad očekávání skvělé. Oba se od samého začátku nápadně snažíme. Na uvítanou dostanu od Olivera květiny, modré hedvábné pyžamo **Marks and Spencer** a bílý froté župan; já mu na oplátku koupím totéž křeslo, jaké před časem koupila Ingrid Hubertovi.
 
 Oliver je nadšený. Je milý a zábavný. Přátelsky se škádlíme.
 
-„Milá Lauro, věř, že nemám opravdu ani to nejmenší proti tvým vlasovým šampónům, koupelovým pěnám, balzámům, kondicionérům, hair-repairům a tělovým mlékům, rozmístěným po celém obvodu mojí vany,“ říká mi Oliver po návratu z koupelny. „Ovšem pouze za předpokladu, zůstane-li na jejím okraji místo na odložení skleničky na víno a misky s olivama…“
+„Milá Lauro, věř, že nemám opravdu ani to nejmenší proti **tvým** vlasovým šampónům, koupelovým pěnám, balzámům, kondicionérům, hair-repairům a tělovým mlékům, rozmístěným po celém obvodu **mojí** vany,“ říká mi Oliver po návratu z koupelny. „Ovšem pouze za předpokladu, zůstane-li na jejím okraji místo na odložení skleničky na víno a misky s olivama…“
 
 „Panebože! Bordelář s pedantskými návyky!“ směju se. „Ta nejhorší kombinace!“
 
@@ -47,9 +47,9 @@ Chodíme se vítat do předsíně.
 
 Jednou u vína dokonce znovu otevře debatu o dětech.
 
-„Jsou dny, kdy si to dokážu představit,“ říká. „Myslím, že bych měl děti…“
+„Jsou dny, kdy si to **dokážu** představit,“ říká. „Myslím, že bych měl děti…“
 
-„To už jsi natolik znuděný?“ připomenu mu jízlivě jeho vlastní slova.
+„To už jsi natolik **znuděný**?“ připomenu mu jízlivě jeho vlastní slova.
 
 „Je mi koneckonců čtyřicet,“ vrtí hlavou. „Nechci být na synově třídní schůzce nejstarší rodič…“
 
@@ -59,7 +59,7 @@ Téměř každý večer chodíme spát společně. Nemilujeme se už tak často 
 
 Víte, milé sestry, co je to láska?
 
-Když vám někdo před usnutím nezištně hladí dlaň.
+Když vám někdo před usnutím **nezištně** hladí dlaň.
 
 ## 3/
 
@@ -67,7 +67,7 @@ Když vám někdo před usnutím nezištně hladí dlaň.
 
 Jenomže nic netrvá věčně.
 
-„Pravá cena lásky spočívá v tom, že byla,“ cituje mi Oliver jednoho únorového večera z rozečteného Jaroslava Havlíčka. „Splněné sny stojí na prahu bouří, marné přijdou do ráje.“
+„Pravá cena lásky spočívá v tom, že **byla**,“ cituje mi Oliver jednoho únorového večera z rozečteného Jaroslava Havlíčka. „Splněné sny stojí na prahu bouří, marné přijdou do ráje.“
 
 V březnu na ta slova dojde.
 
@@ -81,11 +81,11 @@ Oliver ke mně udiveně vzhlédne – jako by ho velice překvapilo, že u ně
 
 „Ahoj ahoj,“ říká roztržitě, unaveně.
 
-Poslední březnový týden je nemocný – respektive se za nemocného vydává. Jde o naprosto tuctovou virózu, jenže Oliver příznaky choroby značně dramatizuje. Odmítá opustit postel, heká, pětkrát denně si měří teplotu a láduje se coldrexem, bromhexinem a různými předraženými multivitamíny (jeho domácí lékárnička připomíná slušně vybavenou polní nemocnici střední velikosti).
+Poslední březnový týden je nemocný – respektive se za nemocného **vydává**. Jde o naprosto tuctovou virózu, jenže Oliver příznaky choroby značně dramatizuje. Odmítá opustit postel, heká, pětkrát denně si měří teplotu a láduje se coldrexem, bromhexinem a různými předraženými multivitamíny (jeho domácí lékárnička připomíná slušně vybavenou polní nemocnici střední velikosti).
 
-„Konečně chápu, co je to ta slavná mužská hypochondrie,“ usmívám se na něho, když mu nesu toho dne již druhé suché pyžamo, ale Oliver se naštve. Tvrdí, že jeho nepopiratelné zdravotní potíže cynicky bagatelizuju.
+„Konečně chápu, co je to ta slavná **mužská hypochondrie**,“ usmívám se na něho, když mu nesu toho dne již druhé suché pyžamo, ale Oliver se naštve. Tvrdí, že jeho nepopiratelné zdravotní potíže **cynicky bagatelizuju**.
 
-Po pár dnech se samozřejmě uzdraví – ale protivný už zůstane. Celé večery mlčí, a když ho přímo požádám, zda by si se mnou nepovídal, začne mi podrážděně vyprávět cosi o tom, že všichni výrobci pracích prostředků jsou idioti.
+Po pár dnech se samozřejmě **uzdraví** – ale protivný už zůstane. Celé večery mlčí, a když ho přímo požádám, zda by si se mnou nepovídal, začne mi podrážděně vyprávět cosi o tom, že všichni výrobci pracích prostředků jsou idioti.
 
 Jeho historky přestávají být zábavné.
 
@@ -119,4 +119,4 @@ Ingrid se nejprve dojatě usmívá, ale při druhém čtení už se směje nahla
 
 Ale potom se neudržím a chechtám se spolu s ní.
 
-Moje mezilidské vztahy mezi mužem a ženou jsou už asi pokažené.
+Moje **mezilidské vztahy mezi mužem a ženou** jsou už asi pokažené.

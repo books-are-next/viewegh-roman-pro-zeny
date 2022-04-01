@@ -49,7 +49,7 @@ V redakci to nestojí za nic. Romana je nemocná, takže musím na čtrnáct dn
 
 Na konci týdne dám Ingrid na taxík a poprosím ji, zda by mi od Olivera nepřivezla věci.
 
-„Doufám, že aspoň trpí?“ ptám se jí později, když společně vynášíme všechny igelitky a krabice z taxíku nahoru (Oliver mi je samozřejmě už úplně ukradený, ale chápete, milé dámy, že jisté minimální zvědavosti se člověk neubrání). Ingrid krčí rameny a přemýšlí.
+„Doufám, že aspoň **trpí**?“ ptám se jí později, když společně vynášíme všechny igelitky a krabice z taxíku nahoru (Oliver mi je samozřejmě už úplně ukradený, ale chápete, milé dámy, že jisté minimální zvědavosti se člověk neubrání). Ingrid krčí rameny a přemýšlí.
 
 „Chceš říct, že ten bastard ani netrpí?“ říkám. „Jak se vůbec tvářil?“
 
@@ -77,11 +77,11 @@ Svět je odporné místo.
 
   
 
-Máma vytáhne z kredence láhev červeného (Tři Gracie, značka jejího mládí), zručně ji otevře a všem nám nalije. Usadíme se v kuchyni. Chvíli jen tak nezávazně tlacháme a potom nám Ingrid začne líčit problémy se studentem, který u ní toho času bydlí. Pro vaši informaci: Ingrid už dneska nedokáže bydlet sama. Neumí si prý představit, že by na polštáři vedle ní bylo prázdno… Tím pádem si každého chlapa, se kterým se seznámí, k sobě okamžitě nastěhuje.
+Máma vytáhne z kredence láhev červeného (**Tři Gracie**, značka jejího mládí), zručně ji otevře a všem nám nalije. Usadíme se v kuchyni. Chvíli jen tak nezávazně tlacháme a potom nám Ingrid začne líčit problémy se studentem, který u ní toho času bydlí. Pro vaši informaci: Ingrid už dneska nedokáže bydlet sama. Neumí si prý představit, že by na polštáři vedle ní bylo prázdno… Tím pádem si každého chlapa, se kterým se seznámí, k sobě okamžitě nastěhuje.
 
 No comment.
 
-Ten zatím poslední se jmenuje Ondra a je to náruživý sportovec. Prakticky vůbec nemá na Ingrid čas, protože jednak ještě studuje (FTVS), a jednak trénuje na Železného muže. Každý den jezdí dvě hodiny na kole a potom jde běhat. Denně musí uběhnout minimálně deset kilometrů. Ve středu a v neděli místo běhání plave. Ingrid občas chodí do bazénu s ním, ale on si jí vůbec nevšímá, neboť musí uplavat šedesát bazénů.
+Ten zatím poslední se jmenuje Ondra a je to náruživý sportovec. Prakticky vůbec nemá na Ingrid čas, protože jednak ještě studuje (FTVS), a jednak trénuje na **Železného muže**. Každý den jezdí dvě hodiny na kole a potom jde běhat. Denně musí uběhnout minimálně deset kilometrů. Ve středu a v neděli místo běhání plave. Ingrid občas chodí do bazénu s ním, ale on si jí vůbec nevšímá, neboť musí uplavat šedesát bazénů.
 
 Zmínka o plavání mi připomene, jak jsem se potápěla s NÍM. Zhluboka dýchám, abych se nerozbrečela.
 
@@ -93,23 +93,23 @@ Napije se vína a všem nám dolije.
 
 Máma se statečně usmívá.
 
-„Možná s ním chodím z určitý solidarity…,“ přemítá Ingrid, které to vůbec nedojde.
+„Možná s ním chodím z určitý **solidarity**…,“ přemítá Ingrid, které to vůbec nedojde.
 
 Víno mě zpočátku uvolní, ale jakmile vypiju třetí skleničku, začne se mi po NĚM nesnesitelně stýskat. Cítím, jak mi vlhnou oči. Máma vstane a přinese pytlík s pistáciemi. Ingrid si mi sedne na klín a hladí mě po zádech.
 
-„Já jsem asi před měsícem taky poznala jednoho sportovce,“ pronese náhle máma a významně zdvihne obočí. „Ženatýho sportovce…“
+„Já jsem asi před měsícem taky poznala jednoho sportovce,“ pronese náhle máma a významně zdvihne obočí. „**Ženatýho** sportovce…“
 
-„Ženatýho?!“ pohoršuje se naoko Ingrid. „No teda Jano…“
+„**Ženatýho**?!“ pohoršuje se naoko Ingrid. „No teda Jano…“
 
 Máma se uculuje a začíná nesměle vyprávět (většinou se příliš nesvěřuje): Jmenuje se Cyril. Je to doktor-dietolog. Občas si prý ve městě dají oběd nebo kafe. Spí spolu, ale jen jednou týdně – konkrétně v úterý večer, kdy chodí dietolog na squash.
 
 Její nezvyklou otevřenost přikládám na vrub vypitému vínu a snaze mě pobavit.
 
-„On chodí sem?“ zeptám se překvapeně.
+„On chodí **sem**?“ zeptám se překvapeně.
 
 Máma přikývne.
 
-„Počkej,“ zvolá Ingrid, „on se s tebou vyspí – a pak jde hrát squash?!“
+„Počkej,“ zvolá Ingrid, „on se s tebou vyspí – a pak jde **hrát squash**?!“
 
 „Ale ne,“ vysvětluje máma. „Ten squash je jenom záminka.“
 
@@ -121,7 +121,7 @@ Ingrid to vezme na vědomí s jistou úlevou.
 
 „Dokonce,“ uchechtne se máma, „si ten dres máčí…“
 
-„Máčí!?“ vyjekne Ingrid.
+„**Máčí**!?“ vyjekne Ingrid.
 
 Obě na mámu nechápavě hledíme. Máma kývne bradou ke květináčům na okně.
 
@@ -147,15 +147,15 @@ Najednou i ona vypadá smutně.
 
 Máma přinese druhou láhev; jakmile ji otevře, ihned se napiju.
 
-„Panebože, chlapi…,“ vrtí hlavou Ingrid.
+„Panebože, **chlapi**…,“ vrtí hlavou Ingrid.
 
 Očividně se z té máminy historky ještě nevzpamatovala.
 
-„Já jsem jednou chodila s jedním, kterej zase strašně šetřil,“ říká. „Když jsme šli do kina, platili jsme lístky napůl. Znáte to. Nebo mi cestou ke mně koupil novej Cosmopolitan – a pak si ho ode mě nechal zaplatit… Věříte tomu?“
+„Já jsem jednou chodila s jedním, kterej zase strašně **šetřil**,“ říká. „Když jsme šli do kina, platili jsme lístky napůl. Znáte to. Nebo mi cestou ke mně koupil novej Cosmopolitan – a pak si ho ode mě nechal zaplatit… Věříte tomu?“
 
-„Šetřílci jsou možná vůbec nejhorší…,“ uvažuje máma.
+„**Šetřílci** jsou možná vůbec nejhorší…,“ uvažuje máma.
 
-„Bydlel u mě asi měsíc,“ vzpomíná Ingrid. „Měl svoje mejdlo i svoji pastu. A teď se podržte: celej měsíc používal ten samej kus zubní nitě…“
+„Bydlel u mě asi měsíc,“ vzpomíná Ingrid. „Měl svoje mejdlo i svoji pastu. A teď se podržte: celej měsíc používal **ten samej** kus zubní nitě…“
 
 „Ne?!“ říká máma nevěřícně.
 
@@ -175,7 +175,7 @@ Jeff mě miloval, musím si v duchu přiznat. Opustila jsem ho já.
 
 Opouštíme – a jsme opouštěni.
 
-„Ano, Jeff mě miloval,“ říkám kysele, „pokud jsem mu ovšem nezapomněla koupit New York Times, arašídovou pomazánku nebo marshmallows…“
+„Ano, Jeff mě miloval,“ říkám kysele, „pokud jsem mu ovšem nezapomněla koupit **New York Times**, arašídovou pomazánku nebo **marshmallows**…“
 
 Kdosi dlouze zvoní, všechny sebou škubneme. Máma na mě tázavě pohlédne a jde otevřít. Je to Žemla – slyším ho zdravit. Uvědomím si, že jsem ho minimálně dva týdny neviděla. V předsíni je zarážející ticho. Dotknu se ramene Ingrid a jdu se tam raději podívat.
 

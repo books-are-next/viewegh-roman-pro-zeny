@@ -25,13 +25,13 @@ Chvíli naslouchá, velký nos zklamaně nakrčený.
 
 Zatímco Tesařová mluví, protáhnu se ke svému stolku a přelétnu očima vysokou hromádku došlých dopisů. Vím přesně, co v nich bude: nevěrní manželé, rozvody, alkoholici, vyměněné zámky, vybrané vkladní knížky, facky a možná i kopance a pálení cigaretou; v lepším případě problémy s neschopným obvodním doktorem nebo banální sousedské spory, za léta nakynuté do rozměrů antického dramatu: _Proč jsem ho bodla nůžkama do břicha? Protože ten jejich podvraťák se nám už zase!!!!!!!!!!!! vychcal na rohožku…_
 
-Nechce se mi zrovna teď všechnu tu mizérii otvírat.
+Nechce se mi **zrovna teď** všechnu tu mizérii otvírat.
 
 Tesařová se chladně rozloučí a zavěsí. Mám podezření, že na druhém konci linky se tak stalo už dřív.
 
 „Kráva jedna!“ uleví si Tesařová a okamžitě hledá cigaretu.
 
-Ostatní konečně mohou vstát a obejmout mě. Rozdávám dárky, které jsem jim přivezla: malý akvarel se zátokou a lodičkami pro Romanu (miluje moře, ale od rozvodu před devíti lety u něj chuděra ještě ani jednou nebyla), velkou bonboniéru pro Vlastu, láhev proška pro Zdeňku a lahvičku levandulového oleje pro Tesařovou (tuším, co si myslíte, milé dámy, ale já bych prostě nerada o tohle místo přišla, to je to celé).
+Ostatní konečně mohou vstát a obejmout mě. Rozdávám dárky, které jsem jim přivezla: malý akvarel se zátokou a lodičkami pro Romanu (miluje moře, ale od rozvodu před devíti lety u něj chuděra ještě ani jednou nebyla), velkou bonboniéru pro Vlastu, láhev **proška** pro Zdeňku a lahvičku levandulového oleje pro Tesařovou (tuším, co si myslíte, milé dámy, ale já bych prostě nerada o tohle místo přišla, to je to celé).
 
 Pro Mirka mám malou láhev laciného červeného vína.
 
@@ -69,7 +69,7 @@ Babička se tváří uraženě. Chtěla mléko ve skle, se třemi červenými pr
 
 „A kdy přijede máma?“ ptá se babička podrážděně, nesouhlasně. „Co si to s tou Amerikou zas vyvzpomněla…“
 
-Veškeré cesty mimo Prahu považuje babička za úplnej nesmysl, cesty mimo republiku jsou podle ní čirý šílenství. Raději si ani nepředstavuju, kam řadí lety přes oceán…
+Veškeré cesty mimo Prahu považuje babička za **úplnej nesmysl**, cesty mimo republiku jsou podle ní **čirý šílenství**. Raději si ani nepředstavuju, kam řadí lety přes oceán…
 
 „Už možná zejtra,“ chlácholím ji. „A určitě ti něco přiveze!“
 
@@ -127,17 +127,17 @@ Počkám, až Žemla definitivně vypadne. Lékárník trpělivě čeká se mnou
 
   
 
-O půl hodiny později sedím na červeném sofa z prodejny The Art of Living. Ingrid zuřivě křižuje pětadvacet čtverečních metrů své elegantně zařízené garsoniéry a nepřítomně si přitom prohlíží můj dárek: náramek z růžového korálu, který jsem jí před chvílí připnula na zápěstí. Je půl šesté odpoledne, ale ona je stále ještě v noční košili.
+O půl hodiny později sedím na červeném sofa z prodejny **The Art of Living**. Ingrid zuřivě křižuje pětadvacet čtverečních metrů své elegantně zařízené garsoniéry a nepřítomně si přitom prohlíží můj dárek: náramek z růžového korálu, který jsem jí před chvílí připnula na zápěstí. Je půl šesté odpoledne, ale ona je stále ještě v noční košili.
 
 „Sedni si, prosím tě,“ říkám jí už potřetí. „Znervózňuješ mě.“
 
 Konečně se zastaví.
 
-„Já sedět nemůžu!“ vzlykne. „Nechápeš to?“
+„Já sedět **nemůžu**!“ vzlykne. „Nechápeš to?“
 
-Potom to ze sebe vysype: seznámila se s ním včera večer v Solidní nejistotě. Nějaký Karel, asi třicet, údajně svobodný; má vlastní firmu, která sem něco dováží.
+Potom to ze sebe vysype: seznámila se s ním včera večer v **Solidní nejistotě**. Nějaký Karel, asi třicet, údajně svobodný; má vlastní firmu, která **sem něco dováží**.
 
-„Ale co sem dováží?“ přeruším ji. „Hodinky? Heroin? Holínky? Co konkrétně?“
+„Ale co sem dováží?“ přeruším ji. „Hodinky? Heroin? Holínky? Co **konkrétně**?“
 
 „Ježišmarjá, to já nevim,“ říká Ingrid. „Nikdy si nepamatuju detaily…“
 
@@ -145,7 +145,7 @@ Potom to ze sebe vysype: seznámila se s ním včera večer v Solidní nejisto
 
 „Víno,“ říká Ingrid jakoby dotčeně. „Fakt jenom víno.“
 
-Jednu láhev bílého vypili během večeře, druhou si dali potom. Ingrid se líbila Karlova nenucenost, údajně vůbec netlačil na pilu. O Julii Roberts se za celý večer ani jedenkrát nezmínil. O čem mluvili? Ingrid rozhodí rukama. Uf, o všem možném: o současné politice sociálních demokratů, o Formanových filmech, o nábytku (Karel má údajně rád – stejně jako Ingrid – kombinaci dřevo, sklo a kov), o deregulaci cen bytů, o knížkách…
+Jednu láhev bílého vypili během večeře, druhou si dali potom. Ingrid se líbila Karlova nenucenost, údajně vůbec **netlačil na pilu**. O Julii Roberts se za celý večer ani jedenkrát nezmínil. O čem mluvili? Ingrid rozhodí rukama. Uf, o všem možném: o současné politice sociálních demokratů, o Formanových filmech, o nábytku (Karel má údajně rád – stejně jako Ingrid – kombinaci dřevo, sklo a kov), o deregulaci cen bytů, o knížkách…
 
 „Podnikatel, kterej čte?“ namítnu.
 
@@ -155,7 +155,7 @@ Nejvíc vlastně mluvili o cestování. Ingrid připadalo, že Karel byl snad v
 
 Dokonce mluvil i o dětech.
 
-„Chápeš: o dětech!“ vykřikuje Ingrid. „Už ani tohle jim neni svatý!“
+„Chápeš: **o dětech**!“ vykřikuje Ingrid. „Už ani tohle jim neni svatý!“
 
 Karel tvrdil, že děti rozhodně chce. Biologické hodiny prý tikají i chlapům. Ano, ví, že jako muž má ještě čas – ale zároveň se prý nechce dožít toho, aby se nějaká přiblblá učitelka ptala před celou třídou jeho syna, proč včera přišel na třídní schůzky dědeček…
 
@@ -175,4 +175,4 @@ Ingrid mi pláče na rameni, její slzy mi máčejí tričko.
 
 Náhle ke mně vzhlédne.
 
-„Hele, obě víme, že my ženský dovedeme bejt taky pěkný mrchy… Ale,“ zakroutí nevěřícně hlavou, „takovýhle svině přece nejsme?!“
+„Hele, obě víme, že my ženský dovedeme bejt **taky** pěkný mrchy… Ale,“ zakroutí nevěřícně hlavou, „takovýhle **svině** přece nejsme?!“

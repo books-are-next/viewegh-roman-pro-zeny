@@ -61,7 +61,7 @@ Uraženě jsem vstala.
 
   
 
-Večer jsme ho s Rickiem potkali ve městě na folklórním vystoupení mečového tance Morešky. Schodiště pod městskou bránou sloužilo jako improvizované hlediště; usadili jsme se mezi ostatní diváky, a když jsem se po chvíli otočila, spatřila jsem Olivera jen o pár schodů nad námi. Vypadal už mnohem lépe, dokonce mi pokynul hlavou na pozdrav. Rickie si ničeho nevšiml. Noc byla horká, měla jsem jen bílé šaty na ramínka, svetr jsem si ovázala kolem pasu. Představení začalo. Rickie mě objal kolem ramen. Ve světlech pod námi Červený král dlouze bojoval s Černým králem, který zajal jeho dívku.
+Večer jsme ho s Rickiem potkali ve městě na folklórním vystoupení mečového tance **Morešky**. Schodiště pod městskou bránou sloužilo jako improvizované hlediště; usadili jsme se mezi ostatní diváky, a když jsem se po chvíli otočila, spatřila jsem Olivera jen o pár schodů nad námi. Vypadal už mnohem lépe, dokonce mi pokynul hlavou na pozdrav. Rickie si ničeho nevšiml. Noc byla horká, měla jsem jen bílé šaty na ramínka, svetr jsem si ovázala kolem pasu. Představení začalo. Rickie mě objal kolem ramen. Ve světlech pod námi Červený král dlouze bojoval s Černým králem, který zajal jeho dívku.
 
 Cítila jsem na krku Oliverův pohled.
 
@@ -79,7 +79,7 @@ Na odchodu jsme se s Oliverem znovu střetli; Rickie ho málem nepoznal.
 
 Oliver ani já jsme to nekomentovali. Nastalé ticho bylo trapné. Zbývaly mi maximálně dvě tři vteřiny, abych něco udělala.
 
-„Co kdybychom si všichni dali někde rakiji?“ navrhla jsem bezstarostně. „Zvu vás, chlapci!“
+„Co kdybychom si všichni dali někde rakiji?“ navrhla jsem **bezstarostně**. „Zvu vás, chlapci!“
 
 Rickieho to trochu překvapilo, ale kývl. Oliver se zprvu tvářil nesouhlasně, ale nakonec pozvání přijal a celý večer se choval opravdu skvěle: svou pozornost spravedlivě dělil mezi mě a Rickieho, a dokonce si za pomoci několika zábavných historek z reklamní branže brzy získal jeho sympatie. Když se mě posléze podnapilý Rickie pokoušel osahávat, odvracel diskrétně pohled.
 
@@ -121,13 +121,13 @@ Zdvihl hlavu, ale nic neříkal.
 
 Zamyšleně mě pozoroval.
 
-„Nezdvořilé? Nemyslím. Myslím, že už pouhým odesíláním těch zpráv nás oba automaticky dostáváte mimo tyhle kategorie…“
+„Nezdvořilé? Nemyslím. Myslím, že už pouhým odesíláním těch zpráv nás oba automaticky dostáváte **mimo** tyhle kategorie…“
 
 Rozprostřela jsem deku, svlékla si horní díl plavek a ulehla vedle něj. Zavřel oči. Slunce žhnulo. Cítila jsem vůni jeho opalovacího krému.
 
 „Kdo je ta dívka, s níž jste měl přijet?“ zeptala jsem se po chvíli.
 
-„Taková jedna… bludička,“ vzdychl si.
+„Taková jedna… **bludička**,“ vzdychl si.
 
 „Bludička?“
 
@@ -137,9 +137,9 @@ Rozprostřela jsem deku, svlékla si horní díl plavek a ulehla vedle něj. Za
 
 Stále měl zavřené oči.
 
-„Ode mě si spíš slibovala, že když se mnou bude v srpnu spát, dostanu ji v září na křest úplně nového parfému od Estée Lauder, kde by se při troše štěstí mohla seznámit s Pavlem Zedníčkem nebo s Mahulenou Bočanovou…“
+„Ode mě si spíš slibovala, že když se mnou bude v srpnu spát, dostanu ji v září na křest úplně nového parfému od **Estée Lauder**, kde by se při troše štěstí mohla seznámit s Pavlem Zedníčkem nebo s Mahulenou Bočanovou…“
 
-(Nebudete tomu věřit, milé dámy, ale nad slovem spát jsem pocítila skutečnou žárlivost.)
+(Nebudete tomu věřit, milé dámy, ale nad slovem **spát** jsem pocítila skutečnou žárlivost.)
 
 „Nejste tak trochu cynik?“ plácla jsem nazdařbůh, ale zdálo se, že Oliver o mé otázce opravdu uvažuje.
 
@@ -147,7 +147,7 @@ Stále měl zavřené oči.
 
 Obrátil se na břicho, tvář si položil na vzdálenější stranu.
 
-„A jak vidíte ty moje textovky?“ zeptala jsem se tiše.
+„A jak **vidíte** ty moje textovky?“ zeptala jsem se tiše.
 
 „To nechtějte vědět,“ zamumlal do osušky.
 

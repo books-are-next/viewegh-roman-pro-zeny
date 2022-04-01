@@ -15,7 +15,7 @@ Zda pije přes den, nevím. Z práce přichází až na výjimky střízlivý (
 
 Tak nevím.
 
-Jednoho večera ho škádlivě vyzvu, abychom si v posledním čísle Cosmopolitanu společně vyplnili test Jste alkoholik? Oliverovi se nechce. Je to prý ztráta času, může mi přesně říct, co mu vyjde.
+Jednoho večera ho **škádlivě** vyzvu, abychom si v posledním čísle Cosmopolitanu společně vyplnili test **Jste alkoholik**? Oliverovi se nechce. Je to prý ztráta času, může mi přesně říct, co mu vyjde.
 
 „Ano?“ říkám neutrálně. „A co?“
 
@@ -27,7 +27,7 @@ Mlčky se odhadujeme pohledem.
 
 „Přesto bych chtěla, abys to vyplnil,“ říkám.
 
-„Ale proč?“ nechápe. „Co novýho se chceš dozvědět?“
+„Ale proč?“ nechápe. „Co **novýho** se chceš dozvědět?“
 
 „Udělej to pro mě.“
 
@@ -51,7 +51,7 @@ _d) každý den._
 
 Když skončí, zděšeně mu nahlížím přes rameno: jeho průměrná týdenní spotřeba činí pět litrů vína plus dvanáct jednotek tvrdého alkoholu.
 
-„Kolik je jedna jednotka tvrdého alkoholu?“ ptám se.
+„Kolik je jedna **jednotka** tvrdého alkoholu?“ ptám se.
 
 „Jeden malej panák,“ říká Oliver. „Klid, zlato.“
 
@@ -79,11 +79,11 @@ Poslední večer před máminým příletem z Ameriky se po kině zastavíme v�
 
 Hubert je koneckonců ženatý.
 
-„Ahoj Lauro! Moc rád tě vidím. Vypadáš úžasně, vážně!“ paroduje Hubert můj nedávný požadavek na elementární lidskou zdvořilost. „Jak se vůbec máš? Promiň, zapomněl jsem vás představit – ale s Ingrid se vlastně znáš, že?“
+„Ahoj Lauro! Moc rád tě vidím. Vypadáš **úžasně**, vážně!“ paroduje Hubert můj nedávný požadavek na elementární lidskou zdvořilost. „Jak se vůbec **máš**? Promiň, zapomněl jsem vás představit – ale s Ingrid se vlastně znáš, že?“
 
 „Polib si šos, Huberte,“ říkám s úsměvem.
 
-„Ale no tak, Lauro… Pojď a posaď se přece,“ vstává a dvorně mi odsouvá židli. „Prosím. Co si dáš k pití? Červené, nebo bílé? Jestli ti smím poradit, mají tu naprosto úžasné sylvánské zelené… Ale proboha počkej – jedlas vůbec něco? Nemáš prokristapána hlad?“
+„Ale no tak, Lauro… Pojď a posaď se přece,“ vstává a dvorně mi odsouvá židli. „Prosím. Co si dáš k pití? Červené, nebo bílé? Jestli ti smím poradit, mají tu naprosto úžasné sylvánské zelené… Ale proboha počkej – jedlas vůbec něco? Nemáš prokristapána **hlad**?“
 
 Ukážu mu zdvižený prostředníček, ale v průběhu večera nicméně musím konstatovat, že onen kritický výstup mému vztahu s Hubertem prospěl. Už si mě nedovolí ignorovat, tu a tam mě pustí ke slovu, a dokonce občas poslouchá, co říkám.
 
@@ -105,8 +105,8 @@ Hladím Oliverovi mokrá prsa. Jazykem ochutnávám pěnu na jeho chloupcích. J
 
 „Nic,“ říká. „Vydloub jsem si kuří voko…“
 
-Dokonce mi ho ukáže.
+Dokonce mi ho **ukáže**.
 
-S odporem odvracím hlavu. Čeští muži, pomyslím si. Máma má pravdu.
+S odporem odvracím hlavu. **Čeští muži**, pomyslím si. Máma má pravdu.
 
 Oliver se marně pokouší svou neomalenost napravit; jdu uraženě spát, otočím se k němu zády a ihned usnu.

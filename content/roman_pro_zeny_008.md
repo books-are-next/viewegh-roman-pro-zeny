@@ -21,13 +21,13 @@ To nevím.
 
   
 
-Jmenuje se ve skutečnosti Richard, ale kamarádi mu říkají Rickie. Richard je podle mě – na rozdíl od Rickieho – docela dobré, jaksi poctivé jméno, ale Rickie trval na tom, abych jeho přezdívku laskavě používala. Tak jsem ji používala. Copak záleží na jméně? říkala jsem si. Zpočátku mi její vyslovení na veřejnosti dělalo trochu potíže, ale zvykla jsem si. Časem mi to ani nepřišlo. Klidně jsem ho oslovila Rickie i před lidmi. Říkala jsem to ale trochu zdrženlivě, jakoby uvědoměle, jestli mi rozumíte, abych všem, co mě slyšeli a co si tak jako já možná uvědomovali, že ta přezdívka je mírně řečeno sporná, dala najevo patřičný ironický odstup. Po roce už jsem dokázala na Rickieho i hlasitě zavolat:
+Jmenuje se ve skutečnosti Richard, ale kamarádi mu říkají Rickie. Richard je podle mě – na rozdíl od Rickieho – docela dobré, jaksi **poctivé** jméno, ale Rickie trval na tom, abych jeho přezdívku laskavě používala. Tak jsem ji používala. Copak záleží na jméně? říkala jsem si. Zpočátku mi její vyslovení na veřejnosti dělalo trochu potíže, ale zvykla jsem si. Časem mi to ani nepřišlo. Klidně jsem ho oslovila **Rickie** i před lidmi. Říkala jsem to ale trochu zdrženlivě, jakoby **uvědoměle**, jestli mi rozumíte, abych všem, co mě slyšeli a co si tak jako já možná uvědomovali, že ta přezdívka je mírně řečeno sporná, dala najevo patřičný ironický odstup. Po roce už jsem dokázala na Rickieho i hlasitě **zavolat**:
 
 „Rickie, pojď sem, prosím tě!“
 
 Ale předtím jsem se vždycky rozhlédla.
 
-Ta jeho přezdívka byla něco jako ošklivý, křiklavě barevný svetr, který vám v zaplněné zahradní restauraci některý ze spolustolovníků džentlmensky přehodí přes záda, protože jste si stěžovala, že je vám zima… Nebo ta hnusná potištěná igelitka, kterou obvykle dostanete v samoobsluze… Tuhle averzi k igelitkám mám samozřejmě po mámě. Vždycky než do takové igelitky začnu skládat nákup, obrátím ji naruby, takže pokladní se na mě pochopitelně dívá dost divně. Ale je to pořád lepší, než se producírovat po ulicích s reklamou na Cio cio chips.
+Ta jeho přezdívka byla něco jako ošklivý, křiklavě barevný svetr, který vám v zaplněné zahradní restauraci některý ze spolustolovníků džentlmensky přehodí přes záda, protože jste si stěžovala, že je vám zima… Nebo ta hnusná potištěná igelitka, kterou obvykle dostanete v samoobsluze… Tuhle averzi k igelitkám mám samozřejmě po mámě. Vždycky než do takové igelitky začnu skládat nákup, obrátím ji naruby, takže pokladní se na mě pochopitelně dívá dost divně. Ale je to pořád lepší, než se producírovat po ulicích s reklamou na **Cio cio chips**.
 
 Richard nicméně vypadal, že je se svou přezdívkou naprosto spokojen. Byl ostatně spokojen i se svým příjmením.
 
@@ -51,7 +51,7 @@ Po chvíli na mě tázavě mrkne a zeptá se:
 
 Usměju se.
 
-„Na co ty bys taky mohla myslet, co?“ říká, zvedá se a odvádí si mě do postele mé matky (ta moje je pro dva malá).
+„Na co **ty** bys taky mohla myslet, co?“ říká, zvedá se a odvádí si mě do postele mé matky (ta moje je pro dva malá).
 
 „Svlíkni se!“ nařizuje mi a já ho poslechnu.
 
@@ -63,7 +63,7 @@ Nehraju to.
 
 „Co je na tom?“ říká umanutě a fascinovaně si prohlíží hrdlo tuby.
 
-Sundám si tedy kalhotky a lehnu si na postel. On se ke mně blíží s tak vážným a tak odpovědným výrazem, až mě to rozesměje. Ztiší mě a roztáhne mi nohy. Poplašeně těkám očima po stropě. Bojím se, že mě škrábne, ale udělá to kupodivu naprosto precizně, jemně, ohleduplně. Vzruší mě to – a svým způsobem i dojme. Rickie si spokojeně utírá ruce do ručníku. Náhle působí dospěleji než kdykoliv předtím.
+Sundám si tedy kalhotky a lehnu si na postel. On se ke mně blíží s tak vážným a tak **odpovědným výrazem**, až mě to rozesměje. Ztiší mě a roztáhne mi nohy. Poplašeně těkám očima po stropě. Bojím se, že mě škrábne, ale udělá to kupodivu naprosto precizně, jemně, ohleduplně. Vzruší mě to – a svým způsobem i dojme. Rickie si spokojeně utírá ruce do ručníku. Náhle působí dospěleji než kdykoliv předtím.
 
 „Pojď ke mně, Rickie,“ žádám ho. „Pojď do mě.“
 
@@ -71,7 +71,7 @@ Ale potom si to jako obvykle pokazí: z ničeho nic se rozesměje.
 
 Jeho ramena se otřásají, jeho obličej zrudne. Ukazuje mi obnažené dásně. Vypadá jako puberťák.
 
-„Ježiš – jak to v tobě čvachtalo, viď?“ chechtá se a nemůže popadnout dech.
+„Ježiš – jak to v tobě **čvachtalo**, viď?“ chechtá se a nemůže popadnout dech.
 
 Takhle to bylo s Rickiem skoro pořád: když mlčel a já pozorovala tu jeho hezkou tvářičku, cítila jsem k němu upřímnou lásku.
 
@@ -81,7 +81,7 @@ Jenomže on vždycky dříve či později promluvil – a já začala mít poc
 
   
 
-Nejvíc mě ale Richard (ano, já vím, Rickie) dojímal, když jsem viděla, jak se snaží myslet na naši budoucnost. Vystřihoval inzeráty na byt a zakládal si je do zvláštních desek, které neustále nosil v aktovce. Chápala jsem ho. Vlastní byt jsme neměli a u mě doma jsme mohli být jenom ve dnech, kdy byla máma pryč.
+Nejvíc mě ale Richard (ano, já vím, **Rickie**) dojímal, když jsem viděla, jak se snaží myslet na naši budoucnost. Vystřihoval inzeráty na byt a zakládal si je do zvláštních desek, které neustále nosil v aktovce. Chápala jsem ho. Vlastní byt jsme neměli a u mě doma jsme mohli být jenom ve dnech, kdy byla máma pryč.
 
 „Jedna plus ká ká, čtyřicet dva metrů, cihla, Karlín, ó vé. Kolik myslíš?“
 
@@ -97,6 +97,6 @@ Rickie se zachmuří, vstane a přechází po místnosti. Vím, že v duchu po
 
 Jindy třeba z ničeho nic pronese:
 
-„Dobře, bavorák. Je to dobrý auto, ale leasingový splátky ti zloměj krk. Máš tak sešněrovaný rodinný finance, že se nemůžeš pomalu ani uprdnout. Natož pak něco jinýho… Má to potom cenu?“
+„Dobře, **bavorák**. Je to dobrý auto, ale leasingový splátky ti zloměj krk. Máš tak sešněrovaný rodinný finance, že se nemůžeš pomalu ani uprdnout. Natož pak něco jinýho… Má to potom **cenu**?“
 
 „Nemá, Rickie,“ říkám co možná přesvědčivě.

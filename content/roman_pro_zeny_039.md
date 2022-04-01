@@ -37,7 +37,7 @@ No to si snad ta Němka dělá srandu?!
 
   
 
-Umiňuju si, že svou krizi zkrátím. Přechodím to jako chřipku. Nemůžu si přece dovolit ztratit kvůli NĚMU dva až čtyři roky – na to je život příliš krátký. Jsem přece dost silná, abych se s tím vyrovnala mnohem rychleji. (I am strong enough to live without HIM…) Člověk, který absolvuje autoškolu formou třítýdenního rychlokursu, nemusí být o nic horší řidič než ti, kteří kurs navštěvují několik měsíců… Rozhodnu se, že vyberu z knihy pouze to podstatné:
+Umiňuju si, že svou krizi zkrátím. Přechodím to jako chřipku. Nemůžu si přece dovolit ztratit kvůli NĚMU dva až čtyři roky – na to je život příliš krátký. Jsem přece dost silná, abych se s tím vyrovnala mnohem rychleji. (**I am strong enough to live without HIM…**) Člověk, který absolvuje autoškolu formou třítýdenního rychlokursu, nemusí být o nic horší řidič než ti, kteří kurs navštěvují několik měsíců… Rozhodnu se, že vyberu z knihy pouze to podstatné:
 
 _1\. Akceptuji své zoufalství z rozchodu s NÍM._
 
@@ -73,7 +73,7 @@ Cítím se strašně.
 
 Před spaním si dle rady z knihy připravím _horkou relaxační koupel_ a vypiju _sklenku teplého mléka s medem_, ale usnout stejně nedokážu. Pořád na NĚJ musím myslet. Začnu proto dýchat břichem: položím si dlaň pod žaludek a zkouším _myslet na to, jak můj dech pomalu proudí až pod mou ruku a vysoko ji nadzdvihne_, ale moc mi to nejde.
 
-Myslím pouze na to, jak mi to ten bastard mohl udělat!?
+Myslím pouze na to, **jak mi to ten bastard mohl udělat**!?
 
 Uvědomuji si, že je ve mně ještě příliš hněvu. _Pociťování zuřivosti_ _a nenávisti je nutná fáze na cestě k osvobození. Lidé, kteří nedokážou projevit zuřivost, si jen prodlužují osvobozovací proces._ Musím dát té zuřivosti průchod. Ale jak? Znovu sáhnu po žluté brožuře: _Vezměte z ledničky kostky ledu a házejte je v koupelně na podlahu. Při každém hodu vykřikněte jednu výčitku na adresu svého partnera. Ledové kostky řinčí jako sklo, ale mají tu přednost, že nedělají nepořádek._ Jenomže Němci zřejmě nebydlí v paneláku… _Zajeďte autem na opuštěné místo, zavřete okna a vykřičte všechen svůj hněv._
 
@@ -83,7 +83,7 @@ To je ono! Jediným pohybem vyklouznu z noční košile a rychle si obléknu t
 
 Máma vyjde z koupelny právě ve chvíli, když si vztekle zavazuju tenisky.
 
-„Ty jdeš běhat? Teď v noci?“
+„Ty jdeš běhat? Teď **v noci**?“
 
 „Hlavně se mi to nepokoušej rozmluvit!“
 

@@ -1,9 +1,7 @@
 ---
-title: ''
+title: KAPITOLA XXVII
 contentType: prose
 ---
-
-KAPITOLA XXVII
 
 _Hubertovy deprese – Pravá cena lásky (opakování) – Sladké finále – Skaut v Louvru_
 
@@ -15,7 +13,7 @@ Ingrid se rozchází s Hubertem!
 
 „Už jsem ty kecy nedokázala poslouchat,“ vysvětluje mi během oběda v nuselské restauraci Radnice.
 
-„Takže ono se nakonec ukázalo, že není zralý, inteligentní a sečtělý?“ připomenu jí ironicky někdejší okouzlení.
+„Takže ono se nakonec ukázalo, že **není** zralý, inteligentní a sečtělý?“ připomenu jí ironicky někdejší okouzlení.
 
 „Ale asi je,“ říká Ingrid otráveně. „Jenomže když von život není soutěž v sečtělosti.“
 
@@ -31,7 +29,7 @@ Uznale kývám hlavou, Ingrid se spokojeně uculuje. Konečně jsme se tomu chla
 
 „O tom to přece neni…,“ namítá Ingrid.
 
-„Teoreticky. To si můžeš říkat – ale představ si, že v tom každej den žiješ!“
+„Teoreticky. To si můžeš **říkat** – ale představ si, že v tom každej den **žiješ**!“
 
 Ingrid vypadá, že si to zkouší představit.
 
@@ -47,13 +45,13 @@ Ingrid vypadá, že si to zkouší představit.
 
   
 
-Oliver je ovšem na Ingrid naštvaný – a tím pádem i na mě. Tvrdí, že Huberta zradila.
+Oliver je ovšem na Ingrid naštvaný – a tím pádem i na mě. Tvrdí, že Huberta **zradila**.
 
-„Jak – zradila?“ nesouhlasím. „Copak mu něco slibovala? Copak lze v lásce něco slibovat?“
+„Jak – zradila?“ nesouhlasím. „Copak mu něco **slibovala**? Copak lze v lásce něco slibovat?“
 
 Neodpovídá.
 
-„Pravá cena lásky spočívá v tom, že byla,“ připomenu mu. „Splněné sny stojí na prahu bouří, marné přijdou do ráje…“
+„Pravá cena lásky spočívá v tom, že **byla**,“ připomenu mu. „Splněné sny stojí na prahu bouří, marné přijdou do ráje…“
 
 Oliver mlčí.
 
@@ -91,7 +89,7 @@ Vyhlížíme usměvavou, perfektně oblečenou a nalíčenou dámu v nejlepš�
 
 Ingrid ji starostlivě pozoruje.
 
-„Jak to myslíš – volná?“ říkám opatrně.
+„Jak to myslíš – **volná**?“ říkám opatrně.
 
 „Tak jak to říkám,“ směje se nepřesvědčivě máma. „Můj život je znovu otevřen novým dobrodružstvím a mámivým příslibům…“
 
@@ -101,15 +99,15 @@ A potom se rozpláče.
 
   
 
-Stručná rekapitulace: na Mallorce máma po týdnu Hansovi vytkla, že se k turistům z bývalého východním bloku (zejména k východním Němcům, Polákům a bohužel i k Čechům) chová s postřehnutelnou povýšeností, a označila takové chování za krajně nesympatické. Hans pravil (po kratší pauze), že podle něj je to vcelku přirozená reakce na to, jak neomaleně se většina těchto lidí chová. Nevšimla si snad máma, jak se oblékají? Jak nakupují? Jak se chovají na trajektu nebo v hotelové jídelně u švédských stolů? Copak nevidí, že některým těmhle lidem zcela schází jakási základní kultura?
+Stručná rekapitulace: na Mallorce máma po týdnu Hansovi vytkla, že se k turistům z bývalého východním bloku (zejména k východním Němcům, Polákům a bohužel i k Čechům) chová s postřehnutelnou povýšeností, a označila takové chování za **krajně nesympatické**. Hans pravil (po kratší pauze), že podle něj je to vcelku přirozená reakce na to, jak neomaleně se **většina** těchto lidí chová. Nevšimla si snad máma, jak se oblékají? Jak nakupují? Jak se chovají na trajektu nebo v hotelové jídelně u švédských stolů? Copak nevidí, že některým těmhle lidem zcela schází jakási základní **kultura**?
 
-Máma ho obratem nařkla, že je kryptofašista.
+Máma ho obratem nařkla, že je **kryptofašista**.
 
 Hans nahněvaně odpověděl, že takové urážky si rozhodně nezaslouží. Čekal by spíš trochu vděku (nehtem ukazováčku přitom prý významně poklepal na svou zlatou kreditní kartu).
 
-Načež mu máma obrátila na hlavu zbytek poháru Heisse Liebe.
+Načež mu máma obrátila na hlavu zbytek poháru **Heisse Liebe**.
 
-(Tomu se říká sladká tečka…)
+(Tomu se říká **sladká tečka**…)
 
 Hans vstal, otřel si z obličeje zmrzlinu a teplé maliny a z recepce si telefonicky zamluvil nejbližší let do Hamburku.
 
@@ -129,10 +127,10 @@ Tesařová se rozvádí.
 
 Mirka pozvu do kavárny Louvre.
 
-Dostaví se v hnědých manšestrových kraťasech a zelené košili se vzdutými nárameníky, takže vypadá jako skautský náčelník. Všechno si vyříkáme. Ano, i já ho mám ráda, ale jenom jako kamaráda. Znáte to. Je potěšený a zklamaný zároveň. Dělá takové ty sladkokyselé obličeje.
+Dostaví se v hnědých manšestrových kraťasech a zelené košili se vzdutými nárameníky, takže vypadá jako skautský náčelník. Všechno si vyříkáme. **Ano,** **i já ho mám ráda, ale jenom jako kamaráda.** Znáte to. Je potěšený a zklamaný zároveň. Dělá takové ty sladkokyselé obličeje.
 
 ## 7/
 
   
 
-Květen je zároveň poslední měsíc, kdy jsem tyhle věci ještě schopná vnímat. Počátkem června odlétáme s Oliverem na deset dní na Korčulu, kde se – jak se vzácně shodnou všichni výše jmenovaní – úplně zblázním.
+Květen je zároveň poslední měsíc, kdy jsem tyhle věci ještě schopná vnímat. Počátkem června odlétáme s Oliverem na deset dní na Korčulu, kde se – jak se vzácně shodnou všichni výše jmenovaní – **úplně zblázním.**

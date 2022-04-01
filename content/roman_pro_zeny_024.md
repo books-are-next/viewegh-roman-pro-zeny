@@ -21,11 +21,11 @@ Musím se usmívat – ale zároveň mě to vzrušuje.
 
 Večer Olivera nenávidím, ráno ho miluju.
 
-Tak prudké výkyvy vztahu k partnerovi by mi ještě před pár lety připadaly nevysvětlitelně podivné, jaksi nenormální – ale dneska chápu, že bez podobného citového kolísání to bohužel asi nejde. Začínám už také tušit, že časové intervaly mezi momentální náklonností a momentální averzí se s léty zřejmě zkracují, a že okamžiky lásky a nenávisti se dokonce nejednou prolnou.
+Tak prudké výkyvy vztahu k partnerovi by mi ještě před pár lety připadaly nevysvětlitelně podivné, jaksi **nenormální** – ale dneska chápu, že bez podobného citového kolísání to bohužel asi nejde. Začínám už také tušit, že časové intervaly mezi momentální náklonností a momentální averzí se s léty zřejmě zkracují, a že okamžiky lásky a nenávisti se dokonce nejednou prolnou.
 
-Okamžitě vypadni, ty prevíte!
+**Okamžitě vypadni, ty prevíte!**
 
-Ne, počkej! Zůstaň tu se mnou, lásko…
+**Ne, počkej! Zůstaň tu se mnou, lásko…**
 
 ## 3/
 
@@ -33,7 +33,7 @@ Ne, počkej! Zůstaň tu se mnou, lásko…
 
 Na letiště odjíždíme jako čerstvě zamilovaný pár.
 
-Oliver nejprve nemůže nastartovat, Praha je tradičně zacpaná a na letištním parkovišti dlouho hledáme volné místo, takže do příletové haly přibíháme na poslední chvíli – ale potom zjišťujeme, že mámin let má padesátiminutové zpoždění a máme naopak spoustu času. Letiště mě odjakživa znervózňují (a to i v případě, že sama nikam neletím), a navíc si dnes mezi všemi těmi obchodníky v tmavých oblecích ve svých starých džínách a sportovní bundě připadám nesvá. Oliver to vycítí a vezme mě za ruku; ostatně sám na tom s oblečením není o nic líp. Najdeme stánek s květinami, necháme si zabalit tři čajové růže a jdeme na kávu do baru Meeting Point. Oliver si všimne, že se mi chvějí ruce.
+Oliver nejprve nemůže nastartovat, Praha je tradičně zacpaná a na letištním parkovišti dlouho hledáme volné místo, takže do příletové haly přibíháme na poslední chvíli – ale potom zjišťujeme, že mámin let má padesátiminutové zpoždění a máme naopak spoustu času. Letiště mě odjakživa znervózňují (a to i v případě, že sama nikam neletím), a navíc si dnes mezi všemi těmi obchodníky v tmavých oblecích ve svých starých džínách a sportovní bundě připadám nesvá. Oliver to vycítí a vezme mě za ruku; ostatně sám na tom s oblečením není o nic líp. Najdeme stánek s květinami, necháme si zabalit tři čajové růže a jdeme na kávu do baru **Meeting Point**. Oliver si všimne, že se mi chvějí ruce.
 
 „Co se děje?“ říká.
 
@@ -41,11 +41,11 @@ Přisune si židli blíž a starostlivě mě obejme.
 
 „Nevím,“ říkám po pravdě. „Dostala jsem to, ale tím to není. Mám trochu strach.“
 
-Snažím se to nějak líp vysvětlit – Oliverovi i sama sobě. Snad je to tím, že jsem poloviční sirotek, ke všemu jedináček. Kromě mámy a babičky už na celém širém světě nikoho nemám – myslím nikoho z vlastní rodiny. S babičkou se už nedá příliš komunikovat.
+Snažím se to nějak líp vysvětlit – Oliverovi i sama sobě. Snad je to tím, že jsem poloviční sirotek, ke všemu jedináček. Kromě mámy a babičky už na celém širém světě nikoho nemám – myslím nikoho z **vlastní rodiny**. S babičkou se už nedá příliš komunikovat.
 
 A máma teď sedí kdesi v oblacích v mnohatunovém stroji, jehož volnému pádu z desetikilometrové výšky zabraňují jen čtyři porouchatelné motory…
 
-„Mám mámu někde nad mrakama, chápeš?“ zoufám si.
+„Mám mámu někde **nad mrakama**, chápeš?“ zoufám si.
 
 Napůl je to upřímné, napůl to hraju.
 
@@ -69,7 +69,7 @@ Vrhnu se jí kolem krku a proti své vůli se rozpláču.
 
 „Co je?“ ušklíbne se máma. „Bije tě?“
 
-„Naopak,“ vzlykám a směju se zároveň. „Představ si, že jsme několikrát byli i v divadle… Nikdy bych nevěřila, že náš vztah takovou zkouškou úspěšně projde… Ale my jsme to dokázali!“
+„Naopak,“ vzlykám a směju se zároveň. „Představ si, že jsme několikrát byli i v **divadle**… Nikdy bych nevěřila, že náš vztah takovou zkouškou úspěšně projde… Ale my jsme to dokázali!“
 
 Máma mi uštědří lehký výchovný záhlavek, vyndá papírový kapesník a utírá mi oči.
 
@@ -77,13 +77,13 @@ Máma mi uštědří lehký výchovný záhlavek, vyndá papírový kapesník a�
 
 „Mám naspáno víc jak šest hodin,“ vysvětluje mi. „Jsem svěží jako ranní rosa.“
 
-Ta metafora sedí. Skutečně tak působí.
+Ta metafora sedí. Skutečně tak **působí**.
 
-„No,“ odkašle si Oliver, „tak vás pěkně vítáme, maminko.“
+„No,“ odkašle si Oliver, „tak vás pěkně vítáme, **maminko**.“
 
 Mámě zablýskne v očích, ale květiny od něho přijme a nechá se i políbit na tvář.
 
-„Nazdar, Pažoute,“ říká a znovu si nás důkladně změří. „Byli jste někde stanovat? Nebo jste čistili les?“
+„Nazdar, Pažoute,“ říká a znovu si nás důkladně změří. „Byli jste někde **stanovat**? Nebo jste **čistili les**?“
 
 ## 5/
 
@@ -91,7 +91,7 @@ Mámě zablýskne v očích, ale květiny od něho přijme a nechá se i pol�
 
 Venku je nevlídno, sychravo. Studeně mží.
 
-„Panebože, tady je ale hnusně!“ říká máma, když vyjdeme před letištní budovu.
+„Panebože, tady **je** ale hnusně!“ říká máma, když vyjdeme před letištní budovu.
 
 „To by se v Americe rozhodně nestalo,“ podotkne Oliver.
 
@@ -107,11 +107,11 @@ Projdeme mezi taxíky a míříme k parkovišti.
 
 Oliver se otočí, ale oba taxikáři už jsou k nám zády – šourají se nazpět do letištní haly. Máma za nimi konsternovaně hledí.
 
-„Mimochodem,“ informuje nás, „celník na pasovce se šťoural prstem v uchu. A potom mi tou samou rukou podal pas…“
+„Mimochodem,“ informuje nás, „celník na pasovce se šťoural prstem v uchu. A potom mi **tou samou** rukou podal pas…“
 
 „Skandální,“ říká Oliver.
 
-„A ne snad? Na rukávu uniformy má státní znak!“ vrtí hlavou máma. „Co si ty lidi vůbec myslej?!“
+„A ne snad? Na rukávu uniformy má **státní znak**!“ vrtí hlavou máma. „Co si ty lidi vůbec myslej?!“
 
 Přicházíme k poslední řadě parkujících aut.
 
@@ -127,9 +127,9 @@ Mám to auto ráda, ale nyní ho vidím máminýma očima: levý blatník odliš
 
 „Bingo,“ přikývne Oliver.
 
-„Věděla jsem, že budeš mít takovéhle auto,“ říká máma spo­kojeně – tak spokojeně, až mě to zamrzí.
+„**Věděla jsem**, že budeš mít takovéhle auto,“ říká máma spo­kojeně – tak spokojeně, až mě to zamrzí.
 
-„Škoda 105 je víc než auto,“ říká Oliver, zatímco odemyká potlučené dveře. „Škoda 105 je životní styl…“
+„Škoda 105 je víc než auto,“ říká Oliver, zatímco odemyká potlučené dveře. „Škoda 105 je **životní styl**…“
 
 Jakkoli se snaží vtipkovat, poznám na něm, že mámina jízlivost je mu nepříjemná. Nastupujeme, máma si sedá dozadu. Uvnitř je zima a nepořádek a především tu jako vždycky cosi páchne (Oliver říká, že on nic necítí). S řevem nastartuje.
 
@@ -137,7 +137,7 @@ Jakkoli se snaží vtipkovat, poznám na něm, že mámina jízlivost je mu nep�
 
 Jsem ráda, že se kvůli mně překonává. Vyjíždíme z parkoviště.
 
-„Všichni tvrdí, že nejhorší je ten rozdíl v čase,“ říká zamyšleně máma. „Myslím, že to není pravda. Nejhorší je ten rozdíl kulturní…“
+„Všichni tvrdí, že nejhorší je ten rozdíl v čase,“ říká zamyšleně máma. „Myslím, že to není pravda. Nejhorší je ten rozdíl **kulturní**…“
 
 Tohle už je na Olivera moc. Z ničeho nic se k mámě otočí.
 
@@ -165,13 +165,13 @@ Máma se dívá na Olivera, jak zavěšuje čerpací pistoli do stojanu a odch�
 
 Jsem v šoku.
 
-„Svatba nebude?!“
+„Svatba **nebude**?!“
 
 „Je to idiot. Chce volit Bushe. Miluje zbraně.“
 
-„Počkej, zadrž!“ říkám. „Ty si nevezmeš bohatýho, úspěšnýho, dobře vypadajícího a zdvořilýho Stevena, protože chce volit Bushe?!“
+„Počkej, zadrž!“ říkám. „Ty si nevezmeš bohatýho, úspěšnýho, dobře vypadajícího a zdvořilýho Stevena, protože chce **volit Bushe**?!“
 
-„Nevezmu si nikoho, kdo je pro trest smrti,“ říká máma. „Kromě toho trval na obřadu v kostele…“
+„Nevezmu si nikoho, kdo je pro trest smrti,“ říká máma. „Kromě toho trval na obřadu **v kostele**…“
 
 Oliver se vrací.
 

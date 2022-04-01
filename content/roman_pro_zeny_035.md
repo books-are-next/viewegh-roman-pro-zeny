@@ -13,7 +13,7 @@ Když se naloďujeme, podá mi ruku. ON, ne Oliver.
 
 Oliver okamžitě uléhá na modrobílou plátěnou matraci na přídi, já si jdu prohlédnout řídicí kajutu. ON odváže lano a přichází za mnou. Nahodí motor, pomalu vyvede loď z přístavu, zrychlí a zamíří na volné moře mezi oba ostrovy. Příď začíná skákat po zpěněných vrcholcích vln. Fouká poměrně silný vítr, ale je stále horko, takže je to příjemné.
 
-„Chcete si to zkusit?“ obrátí se na mě. Poprvé musí zvýšit hlas, aby přehlušil motor, pleskání přídě o vodu a především křik mořských racků, kteří nás vyprovázejí. Nejistě přikývnu a ON mi přepustí dřevěné kormidlo. Ucítím JEHO parfém (jsem si téměř jistá, že je to Eternity od Calvina Kleina). Naše ruce se krátce dotknou, ale je nutno se soustředit na řízení. Chvíli mi trvá, než pochopím, že loď reaguje na pohyby kormidla s určitým zpožděním, ale potom už se jen tiše raduji ze síly motoru a z volného prostoru před námi. Bílé kameny lemující pobřeží se zvolna vzdalují, na horizontu je vidět úzký proužek Korčuly. ON stojí stále těsně za mnou.
+„Chcete si to zkusit?“ obrátí se na mě. Poprvé musí zvýšit hlas, aby přehlušil motor, pleskání přídě o vodu a především křik mořských racků, kteří nás vyprovázejí. Nejistě přikývnu a ON mi přepustí dřevěné kormidlo. Ucítím JEHO parfém (jsem si téměř jistá, že je to **Eternity** od Calvina Kleina). Naše ruce se krátce dotknou, ale je nutno se soustředit na řízení. Chvíli mi trvá, než pochopím, že loď reaguje na pohyby kormidla s určitým zpožděním, ale potom už se jen tiše raduji ze síly motoru a z volného prostoru před námi. Bílé kameny lemující pobřeží se zvolna vzdalují, na horizontu je vidět úzký proužek Korčuly. ON stojí stále těsně za mnou.
 
 Motýlků v mém břiše přibývá, jejich sametová křídla se třepetají.
 
@@ -41,7 +41,7 @@ Snažím se o nenucený, klidný tón, ale můj hlas zní přesto vzrušeně. P
 
 „Čili vaše ruce se na kormidle dotkly,“ říká. „Až jsi zatajila dech… ON stál tak těsně za tebou, že jsi v duchu zatoužila se ho dotknout. Dotknout se těch svalů, překvapivě ostře vystupujících pod jeho chlapecky jemnou, opálenou pokožkou…“
 
-„Nebuď směšnej, Olivere. Říkala jsem, že se chci udobřit – ne se pohádat.“
+„Nebuď směšnej, Olivere. Říkala jsem, že se chci **udobřit** – ne se pohádat.“
 
 „Ještě teď pociťuješ zajíkavé, dlouho nepoznané vzrušení. Ráda bys věřila, že jde o opojení z rychlosti, prostoru a slané vůně větru, ale kdesi v hloubi duše tušíš, že ono vzrušení způsobil ON.“
 
@@ -61,21 +61,21 @@ Náhle otevře oči a podívá se mi na ňadra. Zrudnu.
 
 Oliver odvrátí hlavu a zadívá se kamsi k obzoru.
 
-„Dnes večer nás pozve na Morešku,“ říká po chvíli. „Vsaď se. Já nejprve odmítnu, ale ty mě přemluvíš, abychom šli. Budeš sedět uprostřed mezi námi. Já budu mít své páchnoucí sandály, špinavé kraťasy a nějakou příšernou košili s roztřepeným límečkem, zatímco on bude mít černé kožené perforované mokasíny Camel, černé plátěné džíny Replay, černé strečové tričko Next a lehké bílé sako Hugo Boss, které ti později galantně přehodí přes prochladlá nahá ramena. Jeho podobnost s Černým králem –“
+„Dnes večer nás pozve na Morešku,“ říká po chvíli. „Vsaď se. Já nejprve odmítnu, ale ty mě přemluvíš, abychom šli. Budeš sedět uprostřed mezi námi. Já budu mít své páchnoucí sandály, špinavé kraťasy a nějakou příšernou košili s roztřepeným límečkem, zatímco on bude mít černé kožené perforované mokasíny **Camel**, černé plátěné džíny **Replay**, černé strečové tričko **Next** a lehké bílé sako **Hugo** **Boss**, které ti později galantně přehodí přes prochladlá nahá ramena. Jeho podobnost s Černým králem –“
 
 „– bude od té chvíle už doslova bít do očí, ale všichni budeme usilovně předstírat, že jsme si žádné symboliky nevšimli,“ říkám s hranou převahou. „Oukej. Tak dobře.“
 
 Oliver se zadostiučiněním přikývne.
 
-„Po představení nás v náhlém impulsu pozveš někam na drink,“ pokračuje.
+„Po představení nás **v náhlém impulsu** pozveš někam na drink,“ pokračuje.
 
-„Samozřejmě. Bude to jenom takový zcela spontánní, okamžitý nápad…“
+„Samozřejmě. Bude to jenom takový zcela **spontánní, okamžitý nápad**…“
 
-„Tak. V nejbližším baru si dáme každý dvě rakije, po kterých oba dostanete obrovský, téměř nezvladatelný hlad… ON bude naštěstí znát nedalekou rybí restauraci, kde mu minulý rok připravili přímo fantastického brancina… Tentokrát pozve ON nás. Během večeře vypijeme tři sedmičky vína Zlatan Plavac. Dříve nebo později budu tudíž muset jít na záchod, takže budeš mít dost času na to, aby sis u sousedního stolu bleskurychle vypůjčila propisovačku a napsala mu na ubrousek telefonní číslo.“
+„Tak. V nejbližším baru si dáme každý dvě rakije, po kterých oba dostanete obrovský, téměř **nezvladatelný** hlad… ON bude naštěstí znát nedalekou rybí restauraci, kde mu minulý rok připravili **přímo fantastického brancina**… Tentokrát pozve ON nás. Během večeře vypijeme tři sedmičky vína **Zlatan Plavac**. Dříve nebo později budu tudíž muset jít na záchod, takže budeš mít dost času na to, aby sis u sousedního stolu bleskurychle vypůjčila propisovačku a napsala mu na ubrousek telefonní číslo.“
 
 „Tohle nebudu poslouchat,“ říkám co možná rezolutně a vstá­vám.
 
-„Já budu muset,“ konstatuje Oliver ponuře. „Vsaď se, že tomu dokonce budu muset přihlížet…“
+„Já budu muset,“ konstatuje Oliver ponuře. „Vsaď se, že tomu dokonce budu muset **přihlížet**…“
 
 ## 3/
 
@@ -91,9 +91,9 @@ Přestože ON nás skutečně pozve.
 
 ON vypadá nechápavě a zklamaně zároveň (musím říct, že tahle kombinace mu mimořádně sluší).
 
-„Jsem v podstatě zpohodlnělý, ne-li přímo líný muž středního věku,“ vysvětluje Oliver a uchopí mě majetnicky kolem pasu, takže ON se, chudáček, okamžitě podívá jinam. „Mě děsí představa, že bych musel o svou dívku bojovat. A když se to navíc takto dramaticky vizualizuje…“
+„Jsem v podstatě zpohodlnělý, ne-li přímo líný muž středního věku,“ vysvětluje Oliver a uchopí mě majetnicky kolem pasu, takže ON se, chudáček, okamžitě podívá jinam. „Mě **děsí** představa, že bych musel o svou dívku **bojovat**. A když se to navíc takto dramaticky **vizualizuje**…“
 
-„A co kdyby sis vzal něco na uklidnění? Třeba hysteps?“ říkám naoko žertem (ve skutečnosti se pořád nemohu smířit s tím, že s NÍM na Morešku opravdu nepůjdeme).
+„A co kdyby sis vzal něco na uklidnění? Třeba hysteps?“ říkám naoko **žertem** (ve skutečnosti se pořád nemohu smířit s tím, že s NÍM na Morešku opravdu nepůjdeme).
 
 Ale Oliver neústupně vrtí hlavou.
 
@@ -117,7 +117,7 @@ Oliver vyhýbavě mlčí.
 
 „Budeme fotit? Mám vzít foťák?“ ptá se mne Oliver ráno v hotelovém pokoji, když se chystáme na cestu.
 
-Připravuji právě tři velké bagety se sýrem a pršutem a každou zvlášť s neobvyklou pečlivostí, bezmála něžně balím do ubrousku. Krátce k němu vzhlédnu: nezdá se, že by to myslel ironicky, tváří se věcně.
+Připravuji právě tři velké bagety se sýrem a pršutem a každou zvlášť s neobvyklou pečlivostí, bezmála **něžně** balím do ubrousku. Krátce k němu vzhlédnu: nezdá se, že by to myslel ironicky, tváří se věcně.
 
 „Jak chceš,“ říkám, ale v duchu si přeju, aby fotoaparát vzal.
 
@@ -147,7 +147,7 @@ Později se na přídi fotografujeme. Nejprve ON udělá snímek mně a Olivero
 
 Mačkám spoušť.
 
-Moc bych si přála mít i svou fotografii s NÍM – ale neodvážím se o to Olivera požádat.
+Moc bych si přála mít i **svou** fotografii s NÍM – ale neodvážím se o to Olivera požádat.
 
 ## 6/
 

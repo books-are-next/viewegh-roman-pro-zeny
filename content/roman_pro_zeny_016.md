@@ -39,23 +39,23 @@ Hmota v mých ústech pomalu tuhne.
 
 „Co to bylo za idiota?“ chce vědět máma, když mi o půl hodiny později znovu zavolá.
 
-„Zubař,“ usmívám se. „Českej zubař…“
+„Zubař,“ usmívám se. „**Českej** zubař…“
 
 Jsem moc ráda, že ji konečně slyším.
 
 „Co je novýho?“ ptá se.
 
-„Co je novýho?“ říkám a marně se snažím potlačit nadšení. „Napsal mi! Pozval mě dneska na večeři!“
+„Co je novýho?“ říkám a marně se snažím potlačit nadšení. „**Napsal mi!** Pozval mě dneska na večeři!“
 
-„Ten z tý reklamky? Ten čtyřicátník?“ žasne máma.
+„Ten z tý reklamky? Ten **čtyřicátník**?“ žasne máma.
 
 Ihned trochu ochladnu. Proč pořád všichni tolik zdůrazňují věk? Copak na věku záleží?
 
-„Ano, ten čtyřicátník,“ zopakuju po ní odměřeně. „Ten čtyřicátník, co by klidně moh bejt mým tátou…“
+„Ano, ten **čtyřicátník**,“ zopakuju po ní odměřeně. „Ten čtyřicátník, co by **klidně moh bejt mým tátou**…“
 
 „Proč se hned čertíš?“ říká máma. „Neřekla jsem ještě ani slovo…“
 
-„No právě… Tak co kdybys třeba řekla No tak to je skvělý! Držím ti palce…?“
+„No právě… Tak co kdybys třeba řekla **No tak to je skvělý! Držím ti palce…?**“
 
 „No tak to je skvělý!“ říká máma. „Držím ti palce!“
 
@@ -67,13 +67,13 @@ Ihned trochu ochladnu. Proč pořád všichni tolik zdůrazňují věk? Copak na
 
 „Zejtra už můžeš.“
 
-Překvapeně se zahihňám, ale chápu ji: i čtyřicátník je lepší než Rickie Kabíček.
+Překvapeně se zahihňám, ale chápu ji: i **čtyřicátník** je lepší než Rickie Kabíček.
 
 „No teda mami…,“ řeknu naoko pohoršeně.
 
 „Lichoť mu – ale nepřeháněj to.“
 
-„Dobře, dobře. Co je u tebe novýho, mami?“
+„Dobře, dobře. Co je **u tebe** novýho, mami?“
 
 „Celkem nic. Akorát –“
 
@@ -81,9 +81,9 @@ Najednou to zní tajuplně.
 
 „Akorát co?“ říkám zvědavě.
 
-„Akorát se možná budu vdávat!“ vybuchuje máma radostně.
+„Akorát se možná budu **vdávat**!“ vybuchuje máma radostně.
 
-Než začnu předstírat, že její radost sdílím, na chvíli se odmlčím. Takže i máma… U ní bych to teda nečekala. Tohle vážně nikdy nepochopím: ženská může být sebeemancipovanější – a stejně se nakonec vždycky úplně podělá už z pouhého slova svatba.
+Než začnu předstírat, že její radost sdílím, na chvíli se odmlčím. Takže i máma… U ní bych to teda nečekala. Tohle vážně nikdy nepochopím: ženská může být sebeemancipovanější – a stejně se nakonec vždycky úplně podělá už z pouhého slova **svatba**.
 
 (Asi nám, milé sestry, opravdu není pomoci.)
 
@@ -97,7 +97,7 @@ Než začnu předstírat, že její radost sdílím, na chvíli se odmlčím. Ta
 
   
 
-Žemla je náš blbec k večeři. Žemlovi bydlí v sousedním bytě, takže když se chceme s mámou trochu rozptýlit, stačí v koupelně otevřít poklop do stoupačky a máme na celý večer o zábavu postaráno.
+Žemla je náš **blbec k večeři**. Žemlovi bydlí v sousedním bytě, takže když se chceme s mámou trochu rozptýlit, stačí v koupelně otevřít poklop do stoupačky a máme na celý večer o zábavu postaráno.
 
 Dialogy Žemlových probíhají obvykle nějak takto:
 

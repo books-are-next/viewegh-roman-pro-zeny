@@ -13,13 +13,13 @@ Ještě v noci volám Ingrid.
 
 Trpělivě mě vyslechne a potom se opatrně zeptá, zda Oliverovo provinění trochu nepřeceňuju.
 
-„Nepřeceňuju?“ křičím. „Jak – nepřeceňuju?! On se s ní líbal, copak to nechápeš?! Strkal svůj jazyk do tý její zmalovaný tlamy!“
+„Nepřeceňuju?“ křičím. „Jak – **nepřeceňuju**?! On se s ní **líbal**, copak to nechápeš?! Strkal svůj **jazyk** do tý její zmalovaný tlamy!“
 
-„Zlato?“ říká Ingrid ospale. „Vzpomínáš si ještě, s kým ses na dovolené s Rickiem hned několikrát líbala ty?“
+„Zlato?“ říká Ingrid ospale. „Vzpomínáš si ještě, s kým ses na dovolené s Rickiem hned **několikrát** líbala ty?“
 
 Zahanbeně zmlknu.
 
-Ingrid se chopí příležitosti a vysvětlí mi, že muži jsou na rozdíl od žen nevěrní i tehdy, když jsou ve vztahu zcela spokojení. Je to prý vědecky dokázáno. Cituje mi výsledky jakési srovnávací studie: za celou historii lidstva tu bylo něco přes jedenáct set společenských kultur, přičemž více než tisíc bylo polygamních.
+Ingrid se chopí příležitosti a vysvětlí mi, že muži jsou na rozdíl od žen nevěrní i tehdy, když jsou ve vztahu zcela spokojení. Je to prý vědecky dokázáno. Cituje mi výsledky jakési srovnávací studie: za celou historii lidstva tu bylo něco přes jedenáct set společenských kultur, přičemž více než tisíc bylo **polygamních**.
 
 „To je víc než devadesát procent, chápeš? Chlapi maj bohužel nevěru v genech,“ říká Ingrid významně.
 
@@ -45,7 +45,7 @@ Nechci Olivera vidět. Neberu telefon, na jeho čím dál zoufalejší textové 
 
 Mámě nic neřeknu; statečně předstírám, že je všechno v po­řádku.
 
-V pondělí ráno přicházím do práce s předsevzetím se nikomu nesvěřovat, ale vyrovnané ženy na mně samy poznají, že se něco děje. Jejich starostlivé dotazy po chvíli způsobí, že propuknu v nezvladatelný pláč – a musím tudíž s pravdou ven.
+V pondělí ráno přicházím do práce s předsevzetím se nikomu nesvěřovat, ale **vyrovnané ženy** na mně samy poznají, že se něco děje. Jejich starostlivé dotazy po chvíli způsobí, že propuknu v nezvladatelný pláč – a musím tudíž s pravdou ven.
 
 Redakční názory na nevěru se rozcházejí:
 
@@ -67,17 +67,17 @@ Pravím, že o tom budu přemýšlet.
 
 Pohledy Tesařové jsou stále nespokojenější, takže se raději vrátím ke svému stolu a po zbytek dopoledne se pokouším pracovat. Nejprve otevřu došlou poštu – tentokrát je to pouze jediný dopis. Rukopis je obtížně čitelný, mnoho slov je výrazně podtržených.
 
-Milá redakce,
+_Milá redakce,_
 
-vždycky jsem si svoje osobní problémy nechávala spíš pro sebe, nežli bych se s nimi obracela na někoho vlastně úplně cizího, ale protože už opravdu nevím, na koho bych se obrátila, tak se obracím na Vás. Třeba mi pomůžete,
+_vždycky jsem si svoje osobní problémy nechávala spíš pro sebe, nežli bych se s nimi obracela na někoho vlastně úplně cizího, ale protože už opravdu nevím, na koho bych se obrátila, tak se obracím na Vás. Třeba mi pomůžete,_
 
-i když už o tom začínám pomalu pochybovat, protože takových, jako jsem já, jsou určitě celé spousty. Chtěla jsem se v osmé třídě ZŠ hlásit na SPgŠ, ale moje vlastní matka mi řekla, že na to nemám a ať se jdu vyučit prodavačkou, takže jsem se nakonec vyučila a teď už dva roky dělám u nás prodavačku v parfumerii. Už jsem měla přitom tenkrát podanou přihlášku na SPgŠ a to stáhnutí přihlášky jsem normálně obrečela a ani moje třídní na ZŠ to nechápala a jenom opakovala „Proč, Zuzano, proč?“ Celý můj problém je v tom, že asi nejsem nijak zvlášť hezká (ale nejsem doufám ani ošklivá!) a že jsem ušlápnutá a úplně zlomená a hlavně bez sebevědomí, jenomže je hrozně těžké mít sebevědomí, když vám vaše vlastní matka řekne, že vy na nějakou školu nemáte! V parfumerii jsem si to dávno úplně zošklivila, takže se musím přiznat, že někdy mám strašnou chuť nastříkat tester nějaké té s prominutím krávě, která si na vás kvůli každé blbosti hned otevře pusu, ne na ruku, ale rovnou do očí! Když jsem tam šla, těšila jsem se, že tam budou nakupovat aspoň někdy kluci, jenomže normální mladí kluci nakupujou v parfumerii jen málo, to spíš starší chlapi od rodin, co už mají peníze, protože normální kluk na parfémy kolem 1000–2500 Kč samozřejmě v našem „demokratickém“ kapitalismu nemůže mít!
+_i když už o tom začínám pomalu pochybovat, protože takových, jako jsem já, jsou určitě celé spousty. Chtěla jsem se v osmé třídě ZŠ hlásit na SPgŠ, ale moje vlastní matka mi řekla, že na to nemám a ať se jdu vyučit prodavačkou, takže jsem se nakonec vyučila a teď už dva roky dělám u nás prodavačku v parfumerii. Už jsem měla přitom tenkrát podanou přihlášku na SPgŠ a to stáhnutí přihlášky jsem normálně obrečela a ani moje třídní na ZŠ to nechápala a jenom opakovala „Proč, Zuzano, proč?“ Celý můj problém je v tom, že asi nejsem nijak zvlášť hezká (ale nejsem doufám ani ošklivá!) a že jsem ušlápnutá a úplně zlomená a hlavně bez sebevědomí, jenomže je hrozně těžké mít sebevědomí, když vám vaše vlastní matka řekne, že vy na nějakou školu nemáte! V parfumerii jsem si to dávno úplně zošklivila, takže se musím přiznat, že někdy mám strašnou chuť nastříkat tester nějaké té s prominutím krávě, která si na vás kvůli každé blbosti hned otevře pusu, ne na ruku, ale rovnou do očí! Když jsem tam šla, těšila jsem se, že tam budou nakupovat aspoň někdy kluci, jenomže normální mladí kluci nakupujou v parfumerii jen málo, to spíš starší chlapi od rodin, co už mají peníze, protože normální kluk na parfémy kolem 1000–2500 Kč samozřejmě v našem „demokratickém“ kapitalismu nemůže mít!_
 
-A i když na něj náhodou třeba má, tak stejně většinou přijde se svojí dívkou, což vám jenom trhá srdce, protože vy žádného takového kluka, který by vám koupil parfém nebo třeba jenom na jaře sněženky, pořád nemáte. Oni přijdou sice někdy i sami, jenomže když se mi nějaký líbí, tak na něj stejně nedokážu promluvit přesně tak, jak bych chtěla, protože mi úplně chybí sebevědomí, takže z toho nikdy nic není! Jinak žádnou příležitost k seznámení nemám, protože domů se dostanu vždycky až tak ve 3/4 na 8, a to už jsem stejně strašlivě utahaná a po večeři si jdu rovnou lehnout. O víkendech zase musím luxovat a různě pomáhat doma a večer nikam nesmím, i když je mi už devatenáct! Leda do kina, jenomže v sobotu večer nikdo do kina nejde, to dá rozum, všichni jdou tancovat do klubu nebo ještě tak do hospody. Mluvit dokážu jenom na ty mladší kluky, když jich k nám do parfumerie přijde víc a chtějí třeba kondomy a jsou na mě sprostý, ale na ty milé slušné kluky to nedokážu skoro nikdy! Až si někdy říkám, že nežli takový život, tak to radši žádný, ale nechci se rouhat, protože mi kromě sebevědomí vlastně v životě zase až tak moc nechybí. Jenom bych hrozně chtěla potkat někoho hodného, kdo by mě opravdu miloval a měl se mnou potom dvě děti. Nemusí to ani být žádný filmový krasavec, protože na světě jsou mnohem důležitější věci než fyzická krása. To přece nechci tak moc. Nebo chci? Můžete mi poradit, co mám udělat, aby se mi tenhle můj sen splnil, protože už někdy začínám být zoufalá a napadá mě, co když se mi ten sen nesplní vůbec nikdy????
+_A i když na něj náhodou třeba má, tak stejně většinou přijde se svojí dívkou, což vám jenom trhá srdce, protože vy žádného takového kluka, který by vám koupil parfém nebo třeba jenom na jaře sněženky, pořád nemáte. Oni přijdou sice někdy i sami, jenomže když se mi nějaký líbí, tak na něj stejně nedokážu promluvit přesně tak, jak bych chtěla, protože mi úplně chybí sebevědomí, takže z toho nikdy nic není! Jinak žádnou příležitost k seznámení nemám, protože domů se dostanu vždycky až tak ve 3/4 na 8, a to už jsem stejně strašlivě utahaná a po večeři si jdu rovnou lehnout. O víkendech zase musím luxovat a různě pomáhat doma a večer nikam nesmím, i když je mi už devatenáct! Leda do kina, jenomže v sobotu večer nikdo do kina nejde, to dá rozum, všichni jdou tancovat do klubu nebo ještě tak do hospody. Mluvit dokážu jenom na ty mladší kluky, když jich k nám do parfumerie přijde víc a chtějí třeba kondomy a jsou na mě sprostý, ale na ty milé slušné kluky to nedokážu skoro nikdy! Až si někdy říkám, že nežli takový život, tak to radši žádný, ale nechci se rouhat, protože mi kromě sebevědomí vlastně v životě zase až tak moc nechybí. Jenom bych hrozně chtěla potkat někoho hodného, kdo by mě opravdu miloval a měl se mnou potom dvě děti. Nemusí to ani být žádný filmový krasavec, protože na světě jsou mnohem důležitější věci než fyzická krása. To přece nechci tak moc. Nebo chci? Můžete mi poradit, co mám udělat, aby se mi tenhle můj sen splnil, protože už někdy začínám být zoufalá a napadá mě, co když se mi ten sen nesplní vůbec nikdy????_
 
-Vaše čtenářka Zuzana
+_Vaše čtenářka Zuzana_
 
-P. S. Napište!!!!!
+_P. S. Napište!!!!!_
 
 Dočtu a hlasitě se vysmrkám. Romana se ke mně podezíravě otočí.
 
@@ -89,9 +89,9 @@ Dočtu a hlasitě se vysmrkám. Romana se ke mně podezíravě otočí.
 
 Sotva se po obědě vrátíme do kanceláře, kdosi zvoní; Vlasta jde otevřít. Po chvíli se vrací a významně na nás pomrkává.
 
-„Tento mladý muž při pohledu na mě očividně zapochyboval, že se nachází v redakci Vyrovnané ženy…,“ zopakuje starý vtip.
+„Tento mladý muž při pohledu na mě očividně zapochyboval, že se nachází v redakci **Vyrovnané ženy**…,“ zopakuje starý vtip.
 
-Všichni se otočíme od monitorů: Vlasta za sebou vede mladého messengera v upnutém cyklistickém trikotu a žlutočerné bundě, z níž vane venkovní chlad. Je štíhlý, opálený v obličeji a zpod přilby mu vykukují krátké světlé vlasy.
+Všichni se otočíme od monitorů: Vlasta za sebou vede mladého **messengera** v upnutém cyklistickém trikotu a žlutočerné bundě, z níž vane venkovní chlad. Je štíhlý, opálený v obličeji a zpod přilby mu vykukují krátké světlé vlasy.
 
 V ruce drží kytici rudých růží.
 
@@ -101,7 +101,7 @@ Odpovídáme téměř unisono. Zdena se zahihňá.
 
 „Pro slečnu Lauru…,“ říká blonďák Vlastě a rozpačitě po nás těká pohledem; na mně se jeho pohled zastaví o poznání déle. Zalichotí mi to. Vlasta s úsměvem přikývne a messenger mi květiny s viditelnou úlevou předá.
 
-„Nedal byste si kávičku, švarný cyklisto?“ ptá se Romana, ale mladík zdvořile odmítá; sotva mu podepíšu převzetí dodávky, spěšně kancelář opouští.
+„Nedal byste si kávičku, švarný cyklisto?“ ptá se Romana, ale mladík zdvořile odmítá; sotva mu podepíšu **převzetí dodávky**, spěšně kancelář opouští.
 
 Mirek se otočí k obrazovce počítače a předstírá mimořádné pracovní zaneprázdnění, ale ostatní kolegyně včetně Tesařové mě zvědavě pozorují. Růží je přesně deset. Pod celofánem svítí malá bílá obálka.
 
@@ -109,9 +109,9 @@ _Dej mi prosím šanci tu hloupost napravit_, píše mi Oliver. _Miluju tě._
 
 „Tak co?“ nevydrží to Vlasta.
 
-Přečtu jim text nahlas. Snažím se, aby můj hlas zněl ironicky, ale příliš se mi to nedaří. Dámy jsou postřehnutelně vzrušeny. Konečně se díky mně dočkaly a staly se svědkyněmi autentického citového dramatu. Vlasta mi dokonce navrhuje, abych scénu s růžemi použila do _Příběhů, které psal život_, ale Romana ji odbyde máchnutím ruky.
+Přečtu jim text nahlas. Snažím se, aby můj hlas zněl ironicky, ale příliš se mi to nedaří. Dámy jsou postřehnutelně vzrušeny. Konečně se díky mně dočkaly a staly se svědkyněmi **autentického** citového dramatu. Vlasta mi dokonce navrhuje, abych scénu s růžemi použila do _Příběhů, které psal život_, ale Romana ji odbyde máchnutím ruky.
 
-„O její rubriku teď nejde,“ říká. „Teď jde o to, co Laura udělá…“
+„O její rubriku teď nejde,“ říká. „Teď jde o to, co Laura **udělá**…“
 
 ## 5/
 
@@ -131,12 +131,12 @@ Pro tři osoby.
 
 Dorazí k nám, posadí se ke stolu, vytáhne potvrzenou a zaplacenou objednávku, zvrátí se na židli dozadu a těší se z našich rozpaků.
 
-„Šedesát tři tisíc?!“ vrtí hlavou máma, zatímco si prohlíží voucher. „Teda Pažoute, ty ses musel zbláznit.“
+**„Šedesát tři tisíc?!“** vrtí hlavou máma, zatímco si prohlíží voucher. „Teda Pažoute, ty ses musel zbláznit.“
 
 Je ale vidět, že má radost.
 
-„To bys od Čecha nečekala, co?“ usmívá se Oliver. „Říkal jsem si, že Vánoce stejně neslavíte…“
+„To bys od **Čecha** nečekala, co?“ usmívá se Oliver. „Říkal jsem si, že Vánoce stejně neslavíte…“
 
-„No, laciný gesta ti fakt jdou,“ říkám naoko jízlivě.
+„No, **laciný gesta** ti fakt jdou,“ říkám naoko jízlivě.
 
 „Viď? V lacinejch gestech jsem byl vždycky dobrej,“ souhlasí pyšně Oliver.

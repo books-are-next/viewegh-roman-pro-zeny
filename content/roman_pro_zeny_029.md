@@ -45,7 +45,7 @@ Přejde okamžitě do němčiny a ještě jednou se Hansovi obšírně omlouvá
 
 Nyní je to pro změnu Hans, kdo upadne do rozpaků a kdo se zbytečně dlouze omlouvá. Zatímco mluví, v jeho očích je nevyřčená otázka.
 
-„Můj muž,“ informuje ho máma, „zemřel před osmi lety.“
+„**Můj** muž,“ informuje ho máma, „zemřel před osmi lety.“
 
 Hans se bezmocně nadechne. Zdá se, že nemůže najít ta správná slova.
 
@@ -55,7 +55,7 @@ Hans se rozesměje. Musím uznat, že smích mu sluší.
 
 Máma se rovněž usmívá. Nastupujeme na trajekt.
 
-„Co kdybychom nechali tady mládež,“ říká Hansovi a ukáže na Olivera a na mě, „a zcela nezávazně si někde dali kávu?“
+„Co kdybychom nechali tady **mládež**,“ říká Hansovi a ukáže na Olivera a na mě, „a **zcela nezávazně** si někde dali kávu?“
 
 „To je dobrý nápad!“ souhlasí okamžitě Hans.
 
@@ -63,13 +63,13 @@ Máma se rovněž usmívá. Nastupujeme na trajekt.
 
   
 
-„Je z Hamburku!“ zvěstuje nám máma radostně, když se po půlhodině vrátí. „Narodil se tam!“
+„Je z **Hamburku**!“ zvěstuje nám máma radostně, když se po půlhodině vrátí. „Narodil se tam!“
 
 Oliverův výraz je ostentativně nechápavý.
 
-„Promiň,“ chce vědět, „ale co je na Hamburku coby místě narození tolik potěšujícího?“
+„Promiň,“ chce vědět, „ale co je na Hamburku coby místě narození **tolik** potěšujícího?“
 
-Nejde samozřejmě o Hamburk, vysvětlí mu máma. Jde o to, že Hans je někdejší západní Němec (jak tajně doufala), a nikoli bývalý endérák.
+Nejde samozřejmě o Hamburk, vysvětlí mu máma. Jde o to, že Hans je někdejší **západní Němec** (jak tajně doufala), a nikoli bývalý **endérák**.
 
 „A proč,“ říká Oliver trochu hádavě, „je pro rodící se milostnou aféru důležitý, v jakym režimu kdo vyrůstal?“
 
@@ -101,15 +101,15 @@ V příštích dnech se od sebe Hans a máma nehnou na krok. Oba vypadají zam
 
 „Zatím skvělej,“ říká máma. „Zatím skoro ideál…“
 
-„Prokrista, už zas?“ úpí Oliver. „Ideální muž neexistuje! Ideální muž je virus napadající ženskou racionalitu – teda pokud něco jako ženská racionalita vůbec existuje…“
+„Prokrista, už zas?“ úpí Oliver. „**Ideální muž** neexistuje! Ideální muž je virus napadající ženskou racionalitu – teda pokud něco jako ženská racionalita vůbec existuje…“
 
-„Možná že ideální muž neexistuje, ale není to žádnej virus,“ nesouhlasím. „Je to krásnej sen.“
+„Možná že ideální muž neexistuje, ale není to žádnej virus,“ nesouhlasím. „Je to krásnej **sen**.“
 
 „A sny se kupodivu občas člověku i splněj…,“ doplní mě máma.
 
 Usmějeme se na sebe.
 
-„Nesmysl. Je to životu nebezpečnej mýtus,“ vrtí hlavou Oliver. „Každou ženskou, která tohle slovní spojení vysloví, bych stíhal za šíření poplašný zprávy. Nebo za obecný ohrožení – tam je trestní sazba podstatně vyšší.“
+„Nesmysl. Je to životu nebezpečnej **mýtus**,“ vrtí hlavou Oliver. „Každou ženskou, která tohle slovní spojení vysloví, bych stíhal za šíření poplašný zprávy. Nebo za **obecný ohrožení** – tam je trestní sazba podstatně vyšší.“
 
 Máma si dolévá čaj; všimnu si, že se jí trochu chvěje ruka.
 
@@ -137,9 +137,9 @@ Mluví přísně spisovně, což znamená, že je už opilý.
 
 „Úžasný,“ říkám unaveně. „Jaká je pointa?“
 
-„Ta píseň zcela zkreslila mou představu o hloubce ženského spánku.“
+„Ta píseň zcela zkreslila mou představu o **hloubce** ženského spánku.“
 
-Rozesměje mě to. Když Oliver chce, umí být zábavný. Jeho opálení mi navíc připomíná, že je to pořád ten Oliver.
+Rozesměje mě to. Když Oliver chce, umí být zábavný. Jeho opálení mi navíc připomíná, že je to pořád **ten** Oliver.
 
 Ten z Korčuly.
 
@@ -149,7 +149,7 @@ Přivinu se k němu těsněji a těším se z pocitu, že patříme k sobě.
 
 Rozhlédnu se, zda nás nikdo nepozoruje, a položím mu ruku do klína.
 
-„A to by se ti líbilo?“ ptám se ho koketně. „Kdybych opravdu hluboce spala?“
+„A to by se ti líbilo?“ ptám se ho koketně. „Kdybych opravdu **hluboce** spala?“
 
 „Připusťme,“ říká Oliver opatrně, „že spící žena může mít pro muže jistou atraktivitu.“
 
@@ -159,7 +159,7 @@ Rozhlédnu se, zda nás nikdo nepozoruje, a položím mu ruku do klína.
 
 Vím, že to nemyslí zcela vážně, ale přesto se odtáhnu.
 
-„Takže nejlepší by bylo, kdyby žena byla mrtvá?“
+„Takže nejlepší by bylo, kdyby žena byla **mrtvá**?“
 
 „Proč hned mrtvá?“ říká klidně Oliver. „Úplně by stačilo, kdyby si občas vzala rohypnol.“
 
@@ -185,26 +185,26 @@ Jsem naprosto konsternována.
 
 A tohohle člověka jsem si chtěla vzít!
 
-Praha 20. dubna 2000
+_Praha 20. dubna 2000_
 
-Drahá Lauro,
+_Drahá Lauro,_
 
-jaro je tady a já dál zpívám svou obehranou písničku. Jmenuje se Lauro, vrať se! a je to hotový šlágr sezóny. Byli jsme několikrát v různých novinách, dvakrát v hlavních zprávách na NOVĚ a prý to bylo i ve zprávách německé televize ARD (užívám spravedlivě množného čísla, protože všechen ten mediální úspěch je jaksi především Tvoje zásluha…). Jeden literární kritik dokonce napsal do Respektu článek Orfeus v metru – četlas to? Nebo už čteš jenom časopis Jachty a čluny?
+_jaro je tady a já dál zpívám svou obehranou písničku. Jmenuje se **Lauro, vrať se!** a je to hotový šlágr sezóny. Byli jsme několikrát v různých novinách, dvakrát v hlavních zprávách na NOVĚ a prý to bylo i ve zprávách německé televize ARD (užívám spravedlivě množného čísla, protože všechen ten mediální úspěch je jaksi především Tvoje zásluha…). Jeden literární kritik dokonce napsal do Respektu článek **Orfeus v metru** – četlas to? Nebo už čteš jenom časopis **Jachty a čluny**?_
 
-Sám jsem viděl mnohokrát, jak si někdo z cestujících (obvykle dívka či žena) můj dopis se zájmem a někdy i s postřehnutelným dojetím čte, což mě pokaždé jakýmsi smutným způsobem potěšilo, ale zažil jsem i opak – naprostý, lhostejný nezájem, kdy dotyčný člověk přečetl jen několik řádků a potom otráveně odvrátil pohled k sousedním reklamám: Vychutnej si tohle, poznej báječnou chuť tamtoho, nevaž se a odvaž se… To jsou věci, které letí. Smutek nudí – a cizí obzvlášť. Něčí bolest? To neřeš!
+_Sám jsem viděl mnohokrát, jak si někdo z cestujících (obvykle dívka či žena) můj dopis se zájmem a někdy i s postřehnutelným dojetím čte, což mě pokaždé jakýmsi smutným způsobem potěšilo, ale zažil jsem i opak – naprostý, lhostejný nezájem, kdy dotyčný člověk přečetl jen několik řádků a potom otráveně odvrátil pohled k sousedním reklamám: **Vychutnej si tohle, poznej báječnou chuť tamtoho, nevaž se a odvaž se…** To jsou věci, které letí. Smutek nudí – a cizí obzvlášť. Něčí bolest? To neřeš!_
 
-Nedávno jsem byl svědkem toho, jak si skupinka teenagerů dělala z mého předešlého dopisu dost vulgární legraci. Nejsem takový idiot, abych to nechápal, ale stejně jsem tajně doufal, že aspoň některá z holek řekne těm klukům něco jako „Nechte toho, ste blbí…“ – jako když někdo vypravuje hodně drsné anekdoty, které překračují únosnou míru. Jenže to žádná neřekla. Existuje ale ve věku tolik úspěšné České sody ještě nějaká míra? Když si děláme legraci z Palacha a z koncentráků, můžeme brát vážně obyčejný pocit opuštěnosti?
+_Nedávno jsem byl svědkem toho, jak si skupinka teenagerů dělala z mého předešlého dopisu dost vulgární legraci. Nejsem takový idiot, abych to nechápal, ale stejně jsem tajně doufal, že aspoň některá z holek řekne těm klukům něco jako „Nechte toho, ste blbí…“ – jako když někdo vypravuje hodně drsné anekdoty, které překračují únosnou míru. Jenže to žádná neřekla. Existuje ale ve věku tolik úspěšné České sody ještě nějaká míra? Když si děláme legraci z Palacha a z koncentráků, můžeme brát vážně obyčejný pocit opuštěnosti?_
 
-K zmíněné samotě: Nemusíš mi to věřit, ale za celé ty dlouhé měsíce od našeho rozchodu jsem nespal s žádnou ženou. Znáš mě dobře a víš, že sex pro mě vždycky byl hodně důležitý. Někdy před třemi týdny mě kolega z agentury (samozřejmě ho znáš, ale z pochopitelných důvodů ho nemohu jmenovat), který se už nemohl dívat na mé (jak se vyjádřil) dobrovolné mučednictví, zatáhl do jednoho mimopražského nevěstince – ale já jsem s žádnou z těch snaživých, ale očividně ne zrovna šťastných dívek stejně nedokázal jít nahoru. Ta ironie: přišel jsem o všechno, ale zábrany mi zůstaly… Abych byl zcela konkrétní (promiň tentokrát ty intimní detaily, uznej, že až dosud jsem byl v tomto ohledu velmi zdrženlivý): když začali hrát Let’s talk about love od Céline Dion, jedna ta dívka, právem otrávená mou nerozhodností, mi položila ruku do klína. Okamžitě jsem měl erekci – a současně jsem se nahlas rozplakal. Zkus si to představit (doktora Z. to minulý týden velmi rozesmálo – což ovšem na druhou stranu není zrovna to, co člověk očekává od svého psychiatra): sedím v maloměstském bordelu v jakési příšerné klubovce, kalhoty vyboulené, zpívá Céline Dion – a já hlasitě pláču.
+_K zmíněné samotě: Nemusíš mi to věřit, ale za celé ty dlouhé měsíce od našeho rozchodu jsem nespal s žádnou ženou. Znáš mě dobře a víš, že sex pro mě vždycky byl hodně důležitý. Někdy před třemi týdny mě kolega z agentury (samozřejmě ho znáš, ale z pochopitelných důvodů ho nemohu jmenovat), který se už nemohl dívat na mé (jak se vyjádřil) **dobrovolné mučednictví**, zatáhl do jednoho mimopražského nevěstince – ale já jsem s žádnou z těch snaživých, ale očividně ne zrovna šťastných dívek stejně nedokázal jít nahoru. Ta ironie: přišel jsem o **všechno**, ale **zábrany** mi zůstaly… Abych byl zcela konkrétní (promiň tentokrát ty intimní detaily, uznej, že až dosud jsem byl v tomto ohledu velmi zdrženlivý): když začali hrát **Let’s talk about love** od Céline Dion, jedna ta dívka, právem otrávená mou nerozhodností, mi položila ruku do klína. Okamžitě jsem měl erekci – a současně jsem se nahlas rozplakal. Zkus si to představit (doktora Z. to minulý týden velmi rozesmálo – což ovšem na druhou stranu není zrovna to, co člověk očekává od svého psychiatra): sedím v maloměstském bordelu v jakési příšerné klubovce, kalhoty vyboulené, zpívá Céline Dion – a já hlasitě pláču._
 
-Takže to by byla trocha decentně sebeironického humoru (jak psali v Respektu) spojená s nevtíravým sdělením, že žiju příkladně asketicky a především jsem stále single. Nyní něco méně legračního.
+_Takže to by byla trocha **decentně sebeironického humoru** (jak psali v Respektu) spojená s nevtíravým sdělením, že žiju příkladně asketicky a především jsem **stále single**. Nyní něco méně legračního._
 
-Poslední dobou mívám strašný, úzkostný sen. Potkávám Tě u východu různých parků, zejména pak Průhonického (vůbec nechápu, proč zrovna tam, byl jsem v Průhonicích naposledy na školním výletě, kde mi mimochodem jeden ze spolužáků nechtě strhl pihu, která mi pak celý den krvácela…). V těch snech jsi buďto těhotná, nebo se už skláníš nad kočárkem. Ten kočárek je podivně nemoderní – takový ten proutěný – ale co já vím, možná že už tenhle typ zase přišel do módy.
+_Poslední dobou mívám strašný, úzkostný sen. Potkávám Tě u východu různých parků, zejména pak Průhonického (vůbec nechápu, proč zrovna tam, byl jsem v Průhonicích naposledy na školním výletě, kde mi mimochodem jeden ze spolužáků nechtě strhl pihu, která mi pak celý den krvácela…). V těch snech jsi buďto těhotná, nebo se už skláníš nad kočárkem. Ten kočárek je podivně nemoderní – takový ten proutěný – ale co já vím, možná že už tenhle typ zase přišel do módy._
 
-Modlím se, aby to nebyla pravda.
+_Modlím se, aby to nebyla pravda._
 
-Miluju Tě, Lauro – a nepřestává to.
+_Miluju Tě, Lauro – a nepřestává to._
 
-Vrať se.
+_Vrať se._
 
-Oliver
+_Oliver_
