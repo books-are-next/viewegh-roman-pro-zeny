@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - roman_pro_zeny_002.html
+  - promo.html
   - roman_pro_zeny_005.html
   - roman_pro_zeny_006.html
   - roman_pro_zeny_007.html

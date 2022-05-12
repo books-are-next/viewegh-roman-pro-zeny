@@ -1,22 +1,66 @@
 {
-  "author": "Michal Viewegh",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "viewegh-roman-pro-zeny-8777cf9",
-  "languagecode": "cs",
-  "modified": "2019-01-24T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Román pro ženy",
-  "revision": "8777cf9",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-roman-pro-zeny-b4950db",
+  "revision": "b4950db",
+  "readingOrder": [
+    "promo.html",
+    "roman_pro_zeny_005.html",
+    "roman_pro_zeny_006.html",
+    "roman_pro_zeny_007.html",
+    "roman_pro_zeny_008.html",
+    "roman_pro_zeny_009.html",
+    "roman_pro_zeny_010.html",
+    "roman_pro_zeny_011.html",
+    "roman_pro_zeny_012.html",
+    "roman_pro_zeny_013.html",
+    "roman_pro_zeny_014.html",
+    "roman_pro_zeny_015.html",
+    "roman_pro_zeny_016.html",
+    "roman_pro_zeny_017.html",
+    "roman_pro_zeny_018.html",
+    "roman_pro_zeny_019.html",
+    "roman_pro_zeny_020.html",
+    "roman_pro_zeny_021.html",
+    "roman_pro_zeny_022.html",
+    "roman_pro_zeny_023.html",
+    "roman_pro_zeny_024.html",
+    "roman_pro_zeny_025.html",
+    "roman_pro_zeny_026.html",
+    "roman_pro_zeny_027.html",
+    "roman_pro_zeny_028.html",
+    "roman_pro_zeny_029.html",
+    "roman_pro_zeny_030.html",
+    "roman_pro_zeny_031.html",
+    "roman_pro_zeny_032.html",
+    "roman_pro_zeny_033.html",
+    "roman_pro_zeny_034.html",
+    "roman_pro_zeny_035.html",
+    "roman_pro_zeny_036.html",
+    "roman_pro_zeny_037.html",
+    "roman_pro_zeny_038.html",
+    "roman_pro_zeny_039.html",
+    "roman_pro_zeny_040.html",
+    "roman_pro_zeny_041.html",
+    "roman_pro_zeny_042.html",
+    "roman_pro_zeny_043.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 01 2022 10:57:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648810623837
+    "date": "Thu May 12 2022 10:41:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352117703
   },
   "documents": [
     {
-      "title": "Román pro ženy",
-      "file": "roman_pro_zeny_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +68,17 @@
       "order": 0,
       "prev": null,
       "next": "roman_pro_zeny_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Drahá Lauro, • Román pro ženy",
+      "title": "Drahá Lauro,",
       "file": "roman_pro_zeny_005.html",
       "words": 556,
       "chars": 3323,
       "ideas": 7,
       "role": "chapter",
       "order": 1,
-      "prev": "roman_pro_zeny_002.html",
+      "prev": "promo.html",
       "next": "roman_pro_zeny_006.html",
       "toc": [
         {
@@ -55,7 +91,7 @@
       ]
     },
     {
-      "title": "PROLOG • Román pro ženy",
+      "title": "PROLOG",
       "file": "roman_pro_zeny_006.html",
       "words": 461,
       "chars": 2817,
@@ -75,7 +111,7 @@
       ]
     },
     {
-      "title": "KAPITOLA I • Román pro ženy",
+      "title": "KAPITOLA I",
       "file": "roman_pro_zeny_007.html",
       "words": 1398,
       "chars": 8315,
@@ -131,7 +167,7 @@
       ]
     },
     {
-      "title": "KAPITOLA II • Román pro ženy",
+      "title": "KAPITOLA II",
       "file": "roman_pro_zeny_008.html",
       "words": 830,
       "chars": 4814,
@@ -180,7 +216,7 @@
       ]
     },
     {
-      "title": "KAPITOLA III • Román pro ženy",
+      "title": "KAPITOLA III",
       "file": "roman_pro_zeny_009.html",
       "words": 1020,
       "chars": 5954,
@@ -236,7 +272,7 @@
       ]
     },
     {
-      "title": "KAPITOLA IV • Román pro ženy",
+      "title": "KAPITOLA IV",
       "file": "roman_pro_zeny_010.html",
       "words": 1573,
       "chars": 9558,
@@ -292,7 +328,7 @@
       ]
     },
     {
-      "title": "KAPITOLA V • Román pro ženy",
+      "title": "KAPITOLA V",
       "file": "roman_pro_zeny_011.html",
       "words": 1997,
       "chars": 12091,
@@ -362,7 +398,7 @@
       ]
     },
     {
-      "title": "KAPITOLA VI • Román pro ženy",
+      "title": "KAPITOLA VI",
       "file": "roman_pro_zeny_012.html",
       "words": 2029,
       "chars": 12073,
@@ -439,7 +475,7 @@
       ]
     },
     {
-      "title": "KAPITOLA VII • Román pro ženy",
+      "title": "KAPITOLA VII",
       "file": "roman_pro_zeny_013.html",
       "words": 536,
       "chars": 3216,
@@ -474,7 +510,7 @@
       ]
     },
     {
-      "title": "KAPITOLA VIII • Román pro ženy",
+      "title": "KAPITOLA VIII",
       "file": "roman_pro_zeny_014.html",
       "words": 1311,
       "chars": 8044,
@@ -530,7 +566,7 @@
       ]
     },
     {
-      "title": "KAPITOLA IX • Román pro ženy",
+      "title": "KAPITOLA IX",
       "file": "roman_pro_zeny_015.html",
       "words": 1056,
       "chars": 6465,
@@ -586,7 +622,7 @@
       ]
     },
     {
-      "title": "KAPITOLA X • Román pro ženy",
+      "title": "KAPITOLA X",
       "file": "roman_pro_zeny_016.html",
       "words": 691,
       "chars": 3991,
@@ -628,7 +664,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XI • Román pro ženy",
+      "title": "KAPITOLA XI",
       "file": "roman_pro_zeny_017.html",
       "words": 1403,
       "chars": 8584,
@@ -684,7 +720,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XII • Román pro ženy",
+      "title": "KAPITOLA XII",
       "file": "roman_pro_zeny_018.html",
       "words": 1606,
       "chars": 10010,
@@ -733,7 +769,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XIII • Román pro ženy",
+      "title": "KAPITOLA XIII",
       "file": "roman_pro_zeny_019.html",
       "words": 1563,
       "chars": 9256,
@@ -789,7 +825,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XIV • Román pro ženy",
+      "title": "KAPITOLA XIV",
       "file": "roman_pro_zeny_020.html",
       "words": 1476,
       "chars": 8847,
@@ -831,7 +867,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XV • Román pro ženy",
+      "title": "KAPITOLA XV",
       "file": "roman_pro_zeny_021.html",
       "words": 2371,
       "chars": 14080,
@@ -908,7 +944,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XVI • Román pro ženy",
+      "title": "KAPITOLA XVI",
       "file": "roman_pro_zeny_022.html",
       "words": 1773,
       "chars": 10902,
@@ -964,7 +1000,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XVII • Román pro ženy",
+      "title": "KAPITOLA XVII",
       "file": "roman_pro_zeny_023.html",
       "words": 752,
       "chars": 4592,
@@ -1006,7 +1042,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XVIII • Román pro ženy",
+      "title": "KAPITOLA XVIII",
       "file": "roman_pro_zeny_024.html",
       "words": 1240,
       "chars": 7415,
@@ -1062,7 +1098,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XIX • Román pro ženy",
+      "title": "KAPITOLA XIX",
       "file": "roman_pro_zeny_025.html",
       "words": 1063,
       "chars": 6509,
@@ -1118,7 +1154,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XX • Román pro ženy",
+      "title": "KAPITOLA XX",
       "file": "roman_pro_zeny_026.html",
       "words": 1433,
       "chars": 8779,
@@ -1167,7 +1203,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXI • Román pro ženy",
+      "title": "KAPITOLA XXI",
       "file": "roman_pro_zeny_027.html",
       "words": 1509,
       "chars": 8934,
@@ -1223,7 +1259,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXII • Román pro ženy",
+      "title": "KAPITOLA XXII",
       "file": "roman_pro_zeny_028.html",
       "words": 1184,
       "chars": 7348,
@@ -1272,7 +1308,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXIII • Román pro ženy",
+      "title": "KAPITOLA XXIII",
       "file": "roman_pro_zeny_029.html",
       "words": 1761,
       "chars": 10733,
@@ -1328,7 +1364,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXIV • Román pro ženy",
+      "title": "KAPITOLA XXIV",
       "file": "roman_pro_zeny_030.html",
       "words": 902,
       "chars": 5421,
@@ -1377,7 +1413,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXV • Román pro ženy",
+      "title": "KAPITOLA XXV",
       "file": "roman_pro_zeny_031.html",
       "words": 977,
       "chars": 5904,
@@ -1426,7 +1462,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXVI • Román pro ženy",
+      "title": "KAPITOLA XXVI",
       "file": "roman_pro_zeny_032.html",
       "words": 882,
       "chars": 5284,
@@ -1482,7 +1518,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXVII • Román pro ženy",
+      "title": "KAPITOLA XXVII",
       "file": "roman_pro_zeny_033.html",
       "words": 832,
       "chars": 5062,
@@ -1552,7 +1588,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXVIII • Román pro ženy",
+      "title": "KAPITOLA XXVIII",
       "file": "roman_pro_zeny_034.html",
       "words": 954,
       "chars": 5900,
@@ -1594,7 +1630,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXIX • Román pro ženy",
+      "title": "KAPITOLA XXIX",
       "file": "roman_pro_zeny_035.html",
       "words": 1457,
       "chars": 8745,
@@ -1657,7 +1693,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXX • Román pro ženy",
+      "title": "KAPITOLA XXX",
       "file": "roman_pro_zeny_036.html",
       "words": 1062,
       "chars": 6229,
@@ -1727,7 +1763,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXI • Román pro ženy",
+      "title": "KAPITOLA XXXI",
       "file": "roman_pro_zeny_037.html",
       "words": 1620,
       "chars": 9696,
@@ -1790,7 +1826,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXII • Román pro ženy",
+      "title": "KAPITOLA XXXII",
       "file": "roman_pro_zeny_038.html",
       "words": 1275,
       "chars": 7634,
@@ -1846,7 +1882,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXIII • Román pro ženy",
+      "title": "KAPITOLA XXXIII",
       "file": "roman_pro_zeny_039.html",
       "words": 808,
       "chars": 4890,
@@ -1895,7 +1931,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXIV • Román pro ženy",
+      "title": "KAPITOLA XXXIV",
       "file": "roman_pro_zeny_040.html",
       "words": 709,
       "chars": 4438,
@@ -1937,7 +1973,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXV • Román pro ženy",
+      "title": "KAPITOLA XXXV",
       "file": "roman_pro_zeny_041.html",
       "words": 1303,
       "chars": 7754,
@@ -2007,7 +2043,7 @@
       ]
     },
     {
-      "title": "KAPITOLA XXXVI • Román pro ženy",
+      "title": "KAPITOLA XXXVI",
       "file": "roman_pro_zeny_042.html",
       "words": 582,
       "chars": 3549,
@@ -2070,7 +2106,7 @@
       ]
     },
     {
-      "title": "EPILOG • Román pro ženy",
+      "title": "EPILOG",
       "file": "roman_pro_zeny_043.html",
       "words": 178,
       "chars": 1099,
@@ -2090,11 +2126,11 @@
       ]
     },
     {
-      "title": "Tiráž • Román pro ženy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 146,
-      "chars": 926,
-      "ideas": 22,
+      "words": 123,
+      "chars": 773,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "roman_pro_zeny_043.html",
@@ -2112,9 +2148,9 @@
   ],
   "totals": {
     "all": {
-      "words": 46286,
-      "chars": 279220,
-      "ideas": 2520
+      "words": 46263,
+      "chars": 279067,
+      "ideas": 2514
     },
     "chapters": {
       "words": 46133,
