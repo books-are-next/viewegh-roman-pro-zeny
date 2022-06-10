@@ -7,8 +7,6 @@ _Osvědčený recept na rodinné štěstí – Kouzelný interiér s perskými
 
 ## 1/
 
-  
-
 „Myslím, že to není pravda,“ říká mi doma s úsměvem Oliver.
 
 „Co není pravda?“ ptám se opatrně.
@@ -75,15 +73,11 @@ Na tohle nemám slov. Aspoň za sebou pořádně třísknu dveřmi. Oliver je vz
 
 ## 2/
 
-  
-
 Vezmu si taxík, vystoupím na nábřeží a chvíli se jen tak procházím, abych se uklidnila. Ještě je světlo, od Vltavy fouká vítr. Černozelená hladina je poseta racky. Blíží se půl devátá.
 
 Mám tři a půl hodiny na to, abych se rozhodla.
 
 ## 3/
-
-  
 
 Spatřím HO ihned, jakmile vstoupím. Vstane (Oliver při mém příchodu nikdy nevstává), jde mi naproti a odebere mi kabát (Oliver většinou zapomene). Příjemně voní; jsem si téměř jistá, že je to **Fahrenheit** od Diora (Oliver značkovými parfémy pohrdá). Na sobě má nemačkavý, tmavě šedý letní oblek **Gianfranco Ferré** a přesně o odstín tmavší hedvábnou košili s rozhalenkou (Oliverův jediný oblek z **OP Prostějov** je jedenáct let starý). Dvorně mi odsune židli a počká, až se usadím (tohle by Olivera ani nenapadlo).
 
@@ -102,8 +96,6 @@ Nespouštím z NĚHO oči. Je tak chytrý a tolik toho ví.
 Připadá mi, že jsem nikdy v životě neslyšela nic zajímavějšího.
 
 ## 4/
-
-  
 
 Bydlí sám ve vlastní vile kdesi za Prahou.
 
@@ -131,8 +123,6 @@ ON se po chvíli vrací se třemi balíčky čajových svíček.
 
 ## 5/
 
-  
-
 Noc je teplá, takže si sedneme ven na terasu. Přináší francouzské šampaňské (tutéž značku, jakou jsme pili na jachtě) a dvě vysoké sklenky. Zapaluji svíčky a rozmístím je po celé délce mramorového zábradlí. Plamínky se chvějí. Mlčíme.
 
 Někde daleko ve tmách odbíjí půlnoc.
@@ -156,8 +146,6 @@ Má to ještě tři další sloky. Nerozumím z toho ani slovo, ale zní to kr�
 Tak krásně, že ho musím políbit. ON můj polibek opětuje a začínáme se svlékat.
 
 ## 6/
-
-  
 
 Ráno se znovu milujeme. Usmažím mu lívance a společně posnídáme. ON mě potom odveze do práce. Na rozloučenou mě políbí. Slibuje, že do oběda zavolá.
 

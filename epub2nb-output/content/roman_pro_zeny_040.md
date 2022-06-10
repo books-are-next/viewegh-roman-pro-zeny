@@ -7,8 +7,6 @@ _Zlověstné mlčení – Propuknutí Lauřiných emocí – Zpracování smut
 
 ## 1/
 
-  
-
 Neuvěřitelné!
 
 Stýská se mi po čtyřicetiletém náladovém alkoholikovi, který mě podvádí a kterému celé léto smrdí nohy!
@@ -20,8 +18,6 @@ Věřily byste tomu, milé sestry?
 Já taky ne.
 
 ## 2/
-
-  
 
 V červenci mu snad desetkrát zkouším volat, ale Oliver telefon nikdy nevezme. Když mu zavolám z jiného čísla, Oliver zavěsí ihned, jakmile promluvím. V srpnu mu pošlu dlouhý dopis, ale vrátí mi jej zpátky.
 
@@ -44,8 +40,6 @@ Musím uznat, že na tom něco je. _Nedovolte, aby myšlenky na vašeho bývalé
 „Ale jo,“ říká váhavě. „Já bych do toho šla.“
 
 ## 3/
-
-  
 
 Vyberu si den prvního výročí seznámení s Oliverem (náhoda mi přeje: jsem doma sama, máma doprovází dietologa na dvoudenní služební cestě do Karlových Varů).
 

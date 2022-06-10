@@ -7,8 +7,6 @@ _Hubertovy deprese – Pravá cena lásky (opakování) – Sladké finále �
 
 ## 1/
 
-  
-
 Ingrid se rozchází s Hubertem!
 
 „Už jsem ty kecy nedokázala poslouchat,“ vysvětluje mi během oběda v nuselské restauraci Radnice.
@@ -43,8 +41,6 @@ Ingrid vypadá, že si to zkouší představit.
 
 ## 2/
 
-  
-
 Oliver je ovšem na Ingrid naštvaný – a tím pádem i na mě. Tvrdí, že Huberta **zradila**.
 
 „Jak – zradila?“ nesouhlasím. „Copak mu něco **slibovala**? Copak lze v lásce něco slibovat?“
@@ -63,8 +59,6 @@ Tedy ještě s Rickiem – však víte.
 
 ## 3/
 
-  
-
 Máma a Hans.
 
 Kdykoli se mámy na jaře zeptám, jak to jde s Hansem, jenom s úsměvem pokrčí rameny (chápu to, po všech svých zkušenostech to nechce zakřiknout). Vídají se ale čím dál častěji. V dubnu jedou lyžovat na ledovec v Savojských Alpách (Hans, stejně jako máma, je výborný lyžař), koncem května letí na čtrnáct dní na Mallorku.
@@ -72,8 +66,6 @@ Kdykoli se mámy na jaře zeptám, jak to jde s Hansem, jenom s úsměvem pokr
 Vypadá to, že ti dva se opravdu našli.
 
 ## 4/
-
-  
 
 Z Mallorky přilétá máma ve čtvrtek odpoledne.
 
@@ -97,8 +89,6 @@ A potom se rozpláče.
 
 ## 5/
 
-  
-
 Stručná rekapitulace: na Mallorce máma po týdnu Hansovi vytkla, že se k turistům z bývalého východním bloku (zejména k východním Němcům, Polákům a bohužel i k Čechům) chová s postřehnutelnou povýšeností, a označila takové chování za **krajně nesympatické**. Hans pravil (po kratší pauze), že podle něj je to vcelku přirozená reakce na to, jak neomaleně se **většina** těchto lidí chová. Nevšimla si snad máma, jak se oblékají? Jak nakupují? Jak se chovají na trajektu nebo v hotelové jídelně u švédských stolů? Copak nevidí, že některým těmhle lidem zcela schází jakási základní **kultura**?
 
 Máma ho obratem nařkla, že je **kryptofašista**.
@@ -115,8 +105,6 @@ Hans vstal, otřel si z obličeje zmrzlinu a teplé maliny a z recepce si te
 
 ## 6/
 
-  
-
 Ostatní v květnu.
 
 Babička s pomocí francouzských holí už jakž takž chodí.
@@ -130,7 +118,5 @@ Mirka pozvu do kavárny Louvre.
 Dostaví se v hnědých manšestrových kraťasech a zelené košili se vzdutými nárameníky, takže vypadá jako skautský náčelník. Všechno si vyříkáme. **Ano,** **i já ho mám ráda, ale jenom jako kamaráda.** Znáte to. Je potěšený a zklamaný zároveň. Dělá takové ty sladkokyselé obličeje.
 
 ## 7/
-
-  
 
 Květen je zároveň poslední měsíc, kdy jsem tyhle věci ještě schopná vnímat. Počátkem června odlétáme s Oliverem na deset dní na Korčulu, kde se – jak se vzácně shodnou všichni výše jmenovaní – **úplně zblázním.**

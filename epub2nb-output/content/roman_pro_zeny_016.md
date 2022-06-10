@@ -7,8 +7,6 @@ _Vilný dentista Mrázek – Máma se bude vdávat! – Dvorní komik Žemla_
 
 ## 1/
 
-  
-
 „Je to taková hustší lepkavá tekutina,“ směje se Mrázek, když mi vkládá do úst stříbrnou podkovu plnou otiskovací hmoty. „Nechutná to nijak zvlášť nepříjemně, ale radši to nepolykejte…“
 
 Zamrká na sestru, která znechuceně zdvihne oči ke stropu a potom mi věnuje účastný, solidární pohled. Mrázek to vidí, ale k mému překvapení si z toho nic nedělá.
@@ -34,8 +32,6 @@ Sestra ho pozoruje s kamenným výrazem.
 Hmota v mých ústech pomalu tuhne.
 
 ## 2/
-
-  
 
 „Co to bylo za idiota?“ chce vědět máma, když mi o půl hodiny později znovu zavolá.
 
@@ -94,8 +90,6 @@ Než začnu předstírat, že její radost sdílím, na chvíli se odmlčím. Ta
 „To je dobře,“ říkám. „Žemla už se tě nemůže dočkat…“
 
 ## 3/
-
-  
 
 Žemla je náš **blbec k večeři**. Žemlovi bydlí v sousedním bytě, takže když se chceme s mámou trochu rozptýlit, stačí v koupelně otevřít poklop do stoupačky a máme na celý večer o zábavu postaráno.
 

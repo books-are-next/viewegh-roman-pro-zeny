@@ -7,8 +7,6 @@ _Matčino trauma – Pažoutovy osudové tenisky – Zaručená dieta – Mon
 
 ## 1/
 
-  
-
 Takže teď moje máma.
 
 Do Chicaga odletěla za Američanem jménem Steven. Před ním chodila půl roku s Norem jménem Knut. Před ním s jakýmsi Francouzem (jméno mi vypadlo), kterému v Praze týden tlumočila.
@@ -27,15 +25,11 @@ Ten druhý Čech byl můj táta.
 
 ## 2/
 
-  
-
 Máma je ročník 1958 (je mimochodem lev a v jejím případě to vážně sedí). V roce 1976, když byla v prvním ročníku na filozofické fakultě (obor překladatelství–tlumočnictví), začala chodit s Pažoutem. Pažout byl její úplně první kluk. Byla to údajně velká láska, nicméně jim vydržela pouze rok. Máma byla Pažoutovi po celou dobu věrná, ale on na ni přesto neustále žárlil; sám ji přitom minimálně dvakrát podvedl. Při sexu prý myslel převážně na sebe, takže máma s ním nikdy neměla orgasmus. Navíc neměl ani korunu, nemožně se oblékal a ani jednou nepozval mámu na večeři do nějaké příjemné vinárny.
 
 Definitivně se rozešli toho večera, co Pažout přišel do Realistického divadla ve starém lyžařském svetru a v teniskách. Máma měla nové večerní šaty. Řekla mu, že ho už nikdy v životě nechce vidět – a taky to dodržela.
 
 ## 3/
-
-  
 
 Ještě týž večer se seznámila s mým tátou.
 
@@ -54,8 +48,6 @@ Bohužel ho taky milovala.
 „Příšerná kombinace,“ říkává občas máma. „Ta nejhorší.“
 
 ## 4/
-
-  
 
 Češi zkrátka mou mámu definitivně zklamali.
 
@@ -76,8 +68,6 @@ Značně rezervovaný vztah má tudíž máma i k české **historii**. Celé 
 „Ani tak nemám pocit, že by bylo osmadvacátýho října co **oslavovat**,“ říká.
 
 ## 5/
-
-  
 
 Máma nesnáší Čechy, české vlaky a igelitky.
 

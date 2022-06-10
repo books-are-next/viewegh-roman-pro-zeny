@@ -7,8 +7,6 @@ _Oliverovo náhlé zmizení – Společensky nepřijatelné odpovědi – Blbo
 
 ## 1/
 
-  
-
 Pak jsem ho ale za celý den nezahlédla.
 
 Na pláži se vůbec neobjevil. Krátce se mihl u večeře, oba nás s Richardem pozdravil, jenže než jsem stačila cokoliv navrhnout, opět zmizel.
@@ -20,8 +18,6 @@ Počkala jsem, až vypluje, zamávala jsem mu (nic neříkejte, prosím vás…)
 Co to proboha dělám? napadlo mě.
 
 ## 2/
-
-  
 
 Asi za půl hodiny stál nade mnou, v ruce sklenici minerálky. Měl napuchlé oči, vypadal rozespale a byl z něj cítit alkohol.
 
@@ -59,8 +55,6 @@ Uraženě jsem vstala.
 
 ## 3/
 
-  
-
 Večer jsme ho s Rickiem potkali ve městě na folklórním vystoupení mečového tance **Morešky**. Schodiště pod městskou bránou sloužilo jako improvizované hlediště; usadili jsme se mezi ostatní diváky, a když jsem se po chvíli otočila, spatřila jsem Olivera jen o pár schodů nad námi. Vypadal už mnohem lépe, dokonce mi pokynul hlavou na pozdrav. Rickie si ničeho nevšiml. Noc byla horká, měla jsem jen bílé šaty na ramínka, svetr jsem si ovázala kolem pasu. Představení začalo. Rickie mě objal kolem ramen. Ve světlech pod námi Červený král dlouze bojoval s Černým králem, který zajal jeho dívku.
 
 Cítila jsem na krku Oliverův pohled.
@@ -68,8 +62,6 @@ Cítila jsem na krku Oliverův pohled.
 Konečně byl Černý král poražen.
 
 ## 4/
-
-  
 
 Na odchodu jsme se s Oliverem znovu střetli; Rickie ho málem nepoznal.
 
@@ -104,8 +96,6 @@ Ale neodpověděl mi.
 Ani na ty dvě další.
 
 ## 5/
-
-  
 
 O dva dny později jsme měli s Rickiem odjet na celodenní lodní výlet na ostrov Mljet. Nedokázala jsem si už představit, že Olivera celý den neuvidím. V předvečer výletu jsem proto využila první záminku, kterou mi nic netušící Rickie poskytl, a vyprovokovala jsem zoufale zbytečnou, téměř půlhodinovou hádku.
 

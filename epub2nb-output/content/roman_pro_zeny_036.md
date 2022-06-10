@@ -7,8 +7,6 @@ _Mokré slipy – Láska a nenávist – Příliš složité otázky – Zrc
 
 ## 1/
 
-  
-
 „Tak jak bylo?“ ptá se mě máma v sobotu po příletu.
 
 „Jo, dobrý…,“ říkám.
@@ -18,8 +16,6 @@ Máma nakloní hlavu na stranu a věnuje Oliverovi tázavý pohled.
 Oliver pokrčí rameny.
 
 ## 2/
-
-  
 
 Ještě téhož dne zavolám své kadeřnici a objednám se na první možný termín. Oholím si klín a nohy. Uvažuju rovněž, že bych navštívila Mrázka a nechala si vyleštit zuby, ale když si představím všechny ty jeho slovní oplzlosti, koupím si raději bělicí pastu. Zaskočím k babičce, ale nedokážu se soustředit na nic z toho, co mi zmateně vypráví, a tak jenom nepřítomně přikyvuju. Vrátím se domů, dám prát špinavé prádlo a na balkóně je pověsím. Krátce přitom pohovořím s Žemlou: chemoterapie prý zabrala, manželka je na tom už lépe. Oliverovy ponožky, slipy a trička vypadají mokré ještě ubožeji než normálně. Vrátím se do bytu a znovu zkontroluju mobil.
 
@@ -34,8 +30,6 @@ Když jde Oliver na záchod, vyndám z fotoaparátu film a uložím si ho do k
 Ještě je cítit mořem.
 
 ## 3/
-
-  
 
 V neděli ráno konečně zpráva:
 
@@ -56,8 +50,6 @@ Zkouším, jak ta slova v mých ústech zní.
 „Mluvíš jako tvoje matka,“ konstatuje Ingrid.
 
 ## 4/
-
-  
 
 Večer jdeme s Oliverem do kina. Oliverovo oblečení není ani trochu elegantní. Naopak. Na starém tričku má žmolky a ještě si na něj drobí popcorn. V sále se naštěstí vzápětí setmí. Běží první reklamy.
 
@@ -127,8 +119,6 @@ Jsem šťastná.
 
 ## 5/
 
-  
-
 V pondělí ráno dám v Kodaku vyvolat film.
 
 „Všechny, nebo jen dobré?“ chce vědět zrzavá dívka za přepážkou.
@@ -144,8 +134,6 @@ Pro jistotu.
 Slovo **matné** se mi k NĚMU naprosto nehodí.
 
 ## 6/
-
-  
 
 Z redakce volám Ingrid, abych si zajistila alibi.
 
@@ -168,8 +156,6 @@ Mirek mě stále pozoruje.
 Mirek vrtí hlavou.
 
 ## 7/
-
-  
 
 Cestou z práce se stavím v Kodaku. Vzhledem k tomu, že jde o jednu jedinou fotografii, je moje vzrušení poněkud nepřiměřené. Hned na ulici obálku otevřu a začínám fotografiemi rychle listovat. Jsou pěkné, ostré. Usmívám se a vrážím do lidí. Na většině fotografií jsem já. Na některých já a Oliver. Zatajím dech.
 

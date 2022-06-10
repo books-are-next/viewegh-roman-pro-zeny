@@ -7,8 +7,6 @@ _Němec nesnášející Němce – Námluvy pozůstalých – Ovlivňuje tří
 
 ## 1/
 
-  
-
 Svou příští životní lásku potká máma hned nazítří, během výletu na Tenerife.
 
 Je to Němec, který upřímně nesnáší Němce.
@@ -16,8 +14,6 @@ Je to Němec, který upřímně nesnáší Němce.
 Máma zase nesnáší Čechy, takže mají skvělé předpoklady vytvořit ideální pár.
 
 ## 2/
-
-  
 
 Jmenuje se Hans, je mu pětačtyřicet a pracuje jako architekt; cestuje sám. Vypadá tak trochu jako mladší Clint Eastwood – tenhle můj dojem se ještě prohloubí, když se na nás při čekání na trajekt anglicky obrátí s jakýmsi dotazem.
 
@@ -61,8 +57,6 @@ Máma se rovněž usmívá. Nastupujeme na trajekt.
 
 ## 3/
 
-  
-
 „Je z **Hamburku**!“ zvěstuje nám máma radostně, když se po půlhodině vrátí. „Narodil se tam!“
 
 Oliverův výraz je ostentativně nechápavý.
@@ -93,8 +87,6 @@ Máma se směje.
 
 ## 4/
 
-  
-
 V příštích dnech se od sebe Hans a máma nehnou na krok. Oba vypadají zamilovaně.
 
 „Jakej je?“ vyptávám se zvědavě.
@@ -120,8 +112,6 @@ Máma si dolévá čaj; všimnu si, že se jí trochu chvěje ruka.
 „Samozřejmě že nevadilo…,“ říkám.
 
 ## 5/
-
-  
 
 Večer s Oliverem sedíme v hotelovém baru; společnost nám dělá jen několik podobně osamělých párů. Z přilehlých restaurací k nám doléhá hlahol počínajících silvestrovských oslav. Kdybych si mohla vybrat, šla bych si někam zatancovat, ale Oliver diskotéky nesnáší. Nepřiznám to nahlas, ale myslím na mámu.
 

@@ -7,8 +7,6 @@ _Mirek a vyrovnané ženy – Je Laura hezká? – Otázka života a smrti_
 
 ## 1/
 
-  
-
 V redakci **Vyrovnané ženy** mám na starost čtenářskou rubriku. V praxi to znamená luštit všechny ty těžko čitelné, často navíc srdceryvné dopisy, které denně přicházejí z celé republiky, a přepisovat je do publikovatelné podoby. Samozřejmě musím pokaždé leccos přestylizovat, zjednodušit, přidat, nebo naopak vyhodit – ale to mě na tom právě baví.
 
 Baví mě vytvářet z těch dopisů úplně nové příběhy.
@@ -18,8 +16,6 @@ Baví mě vytvářet z těch dopisů úplně nové příběhy.
 Nemůžu říct, že by mě to nepotěšilo.
 
 ## 2/
-
-  
 
 Život v naší redakci má svůj zavedený řád. Kdo přijde ráno jako první, nakrmí rybičky, zalije kytky a postaví vodu na kávu. To už je takový náš ranní rituál. Než se dostaví Tesařová, tak si při kafi povídáme, co kdo včera nebo o víkendu zažil. I když, povídáme: Romana je rozvedená a žije dost osaměle a Vlasta a Zdeňka jsou zase dávno vdané (obě mimochodem shodně tvrdí, že nešťastně), takže logicky vyprávím nejvíc já. Potom je tu ještě Mirek, náš grafik, ale ten nikdy nevypráví nic, protože se prý nechce **vydávat lidem všanc**. Mirek si totiž myslí, že já se moc dávám lidem všanc – když jim například vyprávím o svých milencích – ale já si to nemyslím.
 
@@ -35,8 +31,6 @@ Mirek neodpovídá a mně je jasné, že by byl nejradši, kdybych se svým vyp
 
 ## 3/
 
-  
-
 Jsem hezká? Nevím – a věřte mi, milé dámy, že to říkám upřímně. Není to rozhodně žádné takové to falešně ostýchavé **nevím**, celé nacucané nepřiznanou vírou v mnohem lepší ohodnocení… Já to **opravdu** nevím. Samozřejmě doufám, že **jsem** hezká, ale **jistotu** nemám a zřejmě ji nikdy mít nebudu. Ingrid například tvrdí, že prý mám **bystré** oči – ale nikdo mi ještě neřekl, že mám **hezké** oči… Mám celkem čistou, ale trochu mastnou pleť, a navíc trpím na rozšířené póry. V pase jsem štíhlá, ale zároveň mám poměrně silná stehna a boky. Mám také pěkná prsa (po mámě), ale někdy se mi zdají moc velká. Jsou zkrátka dny, kdy si připadám hezká, někdy dokonce velmi hezká – ale stejně tak jsou dny, kdy se cítím neatraktivní, tlustá a ošklivá… Vzájemný poměr těchto dnů? Půl na půl? Možná. Ostatně přesnější, než se ptát, zda jsme oškliví či hezcí (to jsou vždycky jen něčí slova), je myslím otázka, zda jsme schopni vzbuzovat v druhých zamilovanost – to se totiž dá **prokázat**.
 
 Tak **tohle** o sobě vím.
@@ -46,8 +40,6 @@ Vím, že jsem – při vší skromnosti – schopna vzbuzovat lásku.
 Protože když inteligentní čtyřicetiletý muž prostojí v noci dvě hodiny pod oknem vašeho hotelového pokoje, co jiného to je než láska?
 
 ## 4/
-
-  
 
 Vyčistím si zuby svou oblíbenou mentolovou pastou, obléknu se, netrpělivě vyčkám, až Rickie vypadne, a běžím telefonovat kadeřnici Sandře. Vezme mě! Sláva!
 
@@ -62,8 +54,6 @@ Horečně vymýšlím nějaký přijatelný důvod.
 „Výměna amalgámové výplně za bílou?“ směje se zubař. „No tak to v tom případě přijďte, králíčku. Ve tři. Já se vám **na to** teda kouknu.“
 
 ## 5/
-
-  
 
 Mám ještě dvě hodiny času. Opět zjišťuju, že neumím být sama: kdykoliv jsem v bytě sama, mám pocit, že mě někdo pozoruje. Že kdosi neznámý hodnotí, jak svou samotu zvládám.
 

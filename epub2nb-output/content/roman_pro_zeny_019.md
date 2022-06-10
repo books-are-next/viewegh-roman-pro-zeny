@@ -7,8 +7,6 @@ _Člověk se vyvíjí – Jak se s tím vyrovná Laura? – Co koupí Rickie 
 
 ## 1/
 
-  
-
 Oliver zacouvá nazpět do koupelny, kde se zamkne.
 
 Máma se v předsíni posadí na kufr. Jdu k ní, abych ji objala, ale ve stejné chvíli Oliver cosi křikne přes dveře. Nerozumím mu – zní to jako zasténání.
@@ -57,8 +55,6 @@ Potřebuje prý čas, aby se s tím vyrovnal.
 
 ## 2/
 
-  
-
 Vykrade se z bytu, ani se neohlédne. Jakmile za ním zaklapnou dveře, máma jde spát. Hodinu čekám, jestli Oliver zavolá, ale mobil mlčí. Nevydržím být sama, a tak zavolám Ingrid, že k ní okamžitě jedu.
 
 Ingrid je zpočátku příslušně šokována, ale nyní už vypadá pobaveně.
@@ -88,8 +84,6 @@ S Oliverem, Rickie. S Oliverem.
 Rickie chvíli trucuje, ale nakonec souhlasí. Přinese mi zítra ukázat ty kryty.
 
 ## 3/
-
-  
 
 „On je někdy tak hodnej!“ říkám Ingrid, jakmile zavěsím.
 
@@ -163,8 +157,6 @@ Oliver mou teorii ani v nejmenším nepopírá.
 
 ## 4/
 
-  
-
 Nad postelí v Oliverově překvapivě útulné nuselské garsoniéře (čekala jsem příslušný bohémský bordel, ale Oliver tu má místy až pedantský pořádek) visí jedna z těch velkých reklam na cigarety Marlboro – **Marlboro Country**. Určitě je znáte: široké pláně zalité měkkým světlem zapadajícího slunce, divocí koně, usměvaví opálení kovbojové v džínsách a kostkovaných košilích – a pod tím následující text:
 
 **This is the place where some men do what others only dream about.** (Tohle je místo, kde někteří muži dělají to, o čem ostatní pouze sní.)
@@ -198,8 +190,6 @@ Praštím ho dlaní do prsou a potom se dlouze líbáme.
 „Dospělí lidi s postelí plnou plyšových talismanů?“ říká Oliver.
 
 ## 5/
-
-  
 
 Ale odpoledne jí opravdu voláme.
 

@@ -7,8 +7,6 @@ _Jsou všichni muži takoví? – Oliver se zdráhá objednat druhou láhev �
 
 ## 1/
 
-  
-
 Večeřím s Oliverem!
 
 Sedíme v zaplněné sklepní restauraci **Marco Polo** na vltavském nábřeží; oknem nad sebou vidím osvětlený Žofín. Podnik vybral Oliver; tvrdí, že se mu líbí **zdejší poctivá dřevěná podlaha a ty poctivé dřevěné židle**.
@@ -36,8 +34,6 @@ Naštěstí nám v příští chvíli přinesou předkrm; plamínek svíčky se
 „No, pokud možno dobrou chuť,“ říká Oliver.
 
 ## 2/
-
-  
 
 U aperitivu, na který jsme kvůli Ingrid úplně zapomněli, navrhnu Oliverovi tykání. Už se to nedá odkládat. Připíjíme si, a jakmile si po chvíli zvykneme na výslovnost nezvyklého **ty**, naše konverzace se rozběhne se stejnou lehkostí jako dřív. Je to opět ten Oliver, jakého si pamatuji z našich hovorů na pláži: uvolněný, chytrý, zábavný.
 
@@ -76,8 +72,6 @@ Chci – a tak to udělám. V restauraci, přede všemi. Dotknu se špiček j
 „Do **mojí** postele,“ říkám tiše.
 
 ## 3/
-
-  
 
 Taxík zastavuje před naším panelákem.
 
@@ -122,8 +116,6 @@ Přitisknu se k němu celým tělem a políbím ho.
 „Toho vačnatce jsi líbala dýl,“ praví Oliver vyčítavě.
 
 ## 4/
-
-  
 
 Někdy na samém sklonku noci v polospánku ucítím, jak se Oliver opatrně nadzdvihuje a jemně vyprošťuje svou ruku zpod mého zpoceného zátylku. Otevřu oči. V pokoji už je kalné světlo – venku za okny zvolna začíná svítat.
 

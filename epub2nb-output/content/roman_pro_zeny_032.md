@@ -7,8 +7,6 @@ _Meet my parents – Trio kuřátek – Lze být pyšný na zámkovou dlažbu?
 
 ## 1/
 
-  
-
 A v dubnu mě Oliver představí svým pětašedesátiletým rodičům.
 
 Jako by nevěděl, že i bez toho máme dost problémů!
@@ -19,8 +17,6 @@ Seznam Oliverových nedostatků se zlověstně rozrůstá.
 
 ## 2/
 
-  
-
 Eskortuje mě k nim na velikonoční svátky; tvrdí, že už tu návštěvu nelze dále odkládat. Cestou v autě se mi snaží vsugerovat, že bych to měla brát ne jako nepříjemnou povinnost, nýbrž jako poctu. V jeho životě bylo mnoho známostí, naznačuje mi, ale svým rodičům představil jen ty opravdu vážné…
 
 „A co **Bludičku**?“ zeptám se rovnou. „Tu jsi jim představil?“
@@ -30,8 +26,6 @@ Oliver se náhle velice soustředí na řízení.
 „Aha,“ říkám kysele.
 
 ## 3/
-
-  
 
 Zastaví před řadovým domkem na samém kraji obce; dál už jsou jenom pole. Zahrádka je pečlivě udržovaná, po **hluku a smogu velkoměsta** tu není ani památky – ale bydlet bych tu rozhodně nechtěla. Oliver vypne motor a nečekaně zatroubí, takže se nepříjemně leknu (někdy se mi z podobných leknutí dělají opary). Záclonky s květinovým vzorem se poodhrnou – a rodiče už nám chvátají vstříc. Usmívají se, ale dobře vím, že mě zároveň nenápadně srovnávají s Oliverovými předchozími dívkami.
 
@@ -49,8 +43,6 @@ Oliver na mě pochvalně mrká.
 
 ## 4/
 
-  
-
 Odpoledne se všichni jdeme projít **po městě** (absolutně nechápu, kde berou odvahu nazývat tuhle příšernou ospalou díru městem). Oliverova matka se do mě s šokující samozřejmostí **zavěsí**, Oliver jde po boku otce tři kroky před námi. Kráčíme nesmyslně pomalu, takže je mi jako obvykle zima a připadám si jako na pohřbu. Konečně přicházíme na jakési náměstí.
 
 „Nově vydlážděné!“ upozorňuje mě pyšně Oliverův otec.
@@ -64,8 +56,6 @@ To je možné, nicméně všechny obchody i jediná kavárna jsou zavřené. Je
 Jeho **spolužačka**.
 
 ## 5/
-
-  
 
 Večer se všichni díváme na televizi. Po skončení filmu s Dustinem Hoffmanem se vymluvím na bolest hlavy a jdu si lehnout – do Oliverova **studentského pokoje**.
 

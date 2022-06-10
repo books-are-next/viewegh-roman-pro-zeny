@@ -7,8 +7,6 @@ _Čtyři koně ve dvoře – Konverzace s mrtvolou – Díkuvzdání v Bohni
 
 ## 1/
 
-  
-
 Ke všemu jsou za týden Dušičky.
 
 Máma tenhle svátek upřímně nenávidí, a tudíž ho zcela ignoruje.
@@ -53,8 +51,6 @@ Babička se pohrdavě zasměje.
 
 ## 2/
 
-  
-
 Na hřbitově je lidí jako o pouti. Olivera to zjevně překvapí.
 
 „Dneska tu vrcholí soutěž o titul **Nejlepší pozůstalý**,“ vysvětlím mu.
@@ -71,8 +67,6 @@ Ještě pořád jsem si na to nezvykla.
 
 ## 3/
 
-  
-
 Dušičky máma sabotuje – ale zato už několik let slaví **Den díkuvzdání**.
 
 Vím, co chcete říct, milé dámy. Ano, Den díkuvzdání je **americký** svátek.
@@ -86,8 +80,6 @@ V inkriminovaný den uklidila dopoledne celý byt, osprchovala se, namalovala a
 Rickie se jejímu přání snaživě přizpůsobil.
 
 ## 4/
-
-  
 
 Po Rickiem štafetu nové rodinné tradice přebírá chudák Oliver.
 
@@ -128,8 +120,6 @@ Oliver nicméně stále vrtí hlavou.
 „Oukej, at seven,“ říká Oliver. „Seven pí em?“
 
 ## 5/
-
-  
 
 Přijde včas; je bez kravaty, ale má oblek a polobotky. Z aktovky vytáhne tři láhve bílého Muškátu a _Dějiny USA_, které si den předtím vypůjčil od Huberta. Krátce mě políbí, máma mu nastaví tvář. Potom knihu otevře na stránce, kterou si doma založil.
 

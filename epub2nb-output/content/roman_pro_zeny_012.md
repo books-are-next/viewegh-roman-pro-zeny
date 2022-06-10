@@ -7,8 +7,6 @@ _Vysněný muž – Arašídové máslo – Proč se Laura rozešla s Jeffem?
 
 ## 1/
 
-  
-
 Byl něžný, pozorný a ohleduplný.
 
 Vypadalo to, že mě opravdu miluje.
@@ -19,8 +17,6 @@ Připadalo mi, že je to přesně ten muž, o kterém jsem vždycky snila.
 
 ## 2/
 
-  
-
 Anglicky mě moc nenaučil, neboť jsme spolu (přes jeho opakované námitky) mluvili téměř výlučně česky. Zastávám totiž názor, že buďto s vámi někdo **chodí**, nebo vás něco **doučuje** – ale kombinovat to podle mě nejde. Když už je někdo jednou váš milenec, nemůžete se ho v jednom kuse ptát, jestli jste v předchozí větě použili správnou předložku…
 
 Ale jinak mě Jeff naučil hodně: Nestydět se mluvit o sexu. Užít si sex. Nebát se mluvit s číšníky a s taxikáři. Lyžovat, používat arašídové máslo, kondičně běhat a kouřit trávu. Snídat ve městě, chovat se sebevědomě, cestovat.
@@ -28,8 +24,6 @@ Ale jinak mě Jeff naučil hodně: Nestydět se mluvit o sexu. Užít si sex. N
 Dokonce mě naučil i **létat**.
 
 ## 3/
-
-  
 
 New York mě okouzloval i děsil zároveň.
 
@@ -63,8 +57,6 @@ Ale naštěstí to neudělala.
 
 ## 4/
 
-  
-
 Odpoledne jsem většinou trávila ve vstupních hotelových halách; vybírala jsem si větší rušné hotely, abych nebyla nápadná. Usedla jsem do některého z křesílek a četla si, ale každou chvíli jsem se dívala na hodinky předstírajíc, že tu na kohosi čekám. U vedlejších stolů mlčky posedávaly starší manželské páry. Jeden příklad za všechny: ona s příčeskem, on s rukama posetýma jaterními skvrnami, mlčky pijí kávu a drahé víno a jediné jejich úsměvy patří přivolanému číšníkovi…
 
 **Manželství**, říkala jsem si.
@@ -79,8 +71,6 @@ Nepatřím sem, uvědomovala jsem si občas. Co tu probůh vůbec dělám? V no
 
 ## 5/
 
-  
-
 Zato máma byla z Jeffa doslova nadšená. Chápala jsem ji: cizinec, absolvent prestižní univerzity, liberál, navíc ze solidní středostavovské rodiny… Nechala ho u nás bydlet, vařila mu, jezdila s námi na výlety a chodila s námi do kina. Mluvila s ním výlučně anglicky, společně vtipkovali, smáli se – a já jim příliš nerozuměla.
 
 Jeffovým krajanům, s kterými se Jeff v New Yorku a později znovu v Praze scházel několikrát týdně, jsem rozuměla ještě míň. Jeff se mi sice snažil překládat, ale i tak jsem si v téhle společnosti připadala jako mentálně retardovaný debil. Na oplátku jsem Jeffovi vyčítala, že nerozumí výrazům jako **je to v kopru** nebo **a bylo vymalováno**…
@@ -92,8 +82,6 @@ Nelíbilo se mi to. Skoro jsem si přála chodit s někým, koho by mi máma to
 **Well**, s Rickiem Kabíčkem se mi to rozhodně povedlo.
 
 ## 6/
-
-  
 
 Oba spiklenci byli z mého rozhodnutí **absolutely shocked**.
 
@@ -119,15 +107,11 @@ Asi si umíte představit, co mi říkala moje matka.
 
 ## 7/
 
-  
-
 Dodnes ale na Jeffa často vzpomínám. Dokonce někdy víc než to: například včera, když jsem vyndávala z myčky ty žlutomodré hrnky a talíře, které Jeff s mámou kdysi koupili v IKEI, jsem si překvapeně uvědomila, že kdyby teď Jeff odemkl, hodil tak jako dřív klíče na poličku v předsíni a zavolal vesele „I’m home, honey!“, vlastně by mě to vůbec nepřekvapilo. Utřela bych si klidně ruce do žlutobílé utěrky (rovněž IKEA), šla do předsíně, postavila se na špičky a políbila ho. Potom bych mu odebrala část jeho nákupu z TESCA a pomohla mu tašky vypakovat (vím přesně, co by v nich bylo: vejce, slanina, fazole, kečup, párky, pivo, pistácie, olivy, žlutý meloun, tuňák v konzervě, levnější francouzské sýry, suché červené víno, čokoládové sušenky a velké balení ořechové zmrzliny). Kam se to všechno podělo? říkám si. Všechna ta láska přece nemohla zmizet? Tím spíš, že Jeff byl můj první. Chápejte, milé sestry, celé **týdny** jsem na něho myslela, celé **dny** jsem o něm mluvila s Ingrid, líčila jsem se pro něho, červenala jsem se před ním, tajila jsem dech, předváděla se, potila, spěchala na schůzky, nervózně čekala na zavolání, kupovala mu dárky, psala mu, sténala rozkoší, zajíkala se radostí, tišila hlas, zvyšovala hlas, lekala se, žárlila, těšila se, zoufala si, plakala – kde všechna ta **energie** je?
 
 I ta pitomá baterka do hodinek velikosti malíčkového nehtu vydrží víc.
 
 ## 8/
-
-  
 
 Dvakrát nebo třikrát, když jsem byla v podobné náladě, jsem se sebrala, šla k telefonu a bez přemýšlení vymačkala to dlouhé **americké** číslo (po našem rozchodu se Jeff už definitivně vrátil do Států).
 

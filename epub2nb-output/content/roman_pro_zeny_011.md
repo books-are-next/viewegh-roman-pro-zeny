@@ -7,8 +7,6 @@ _I wish I could fly – Naše angličtinářka – Co jedí mořské želvy?
 
 ## 1/
 
-  
-
 A nyní vám, milé dámy, budu vyprávět, jak jsem cestovala do New Yorku já. Letěla jsem tam před dvěma lety, za Jeffem. (Kdo je Jeff? Vydržte, za chvíli se to dozvíte.)
 
 Už týden před odletem začínám být nervózní; jak se den odletu blíží, moje nervozita se pochopitelně stupňuje.
@@ -71,8 +69,6 @@ Potom se rozhlédnu, zda se nikdo nedívá, vytáhnu z kabelky plyšového klok
 
 ## 2/
 
-  
-
 Tak a teď jak jsem se seznámila s Jeffem.
 
 Musím začít trochu zeširoka. Odmaturovala jsem v devatenácti. Na filozofickou fakultu (obor čeština–psychologie) jsem se nedostala. Byla jsem panna a neuměla jsem pořádně anglicky. Příslušné výmluvy: Za moje panenství mohli mí spolužáci, neboť jsem si za celé ty čtyři roky ani jednou nedokázala představit, že bych s některým z těch hlučných pitomců vlezla do postele… Kromě toho jsem měla doslova hrůzu z pohlavních chorob. Párkrát jsem se nechala pozvat do kavárny, ale pokaždé to skončilo naprostým fiaskem. Seděla jsem proti tomu či onomu klukovi, světlo svíčky se mu odráželo v očích – a já si představovala kyselý pach jeho potu, AIDS a **stafylokoky**…
@@ -84,8 +80,6 @@ I know. I just make excuses.
 Byla jsem líná, zmatená, nejistá a přehnaně kritická puberťačka.
 
 ## 3/
-
-  
 
 Brýlatá devatenáctiletá panna, která neumí pořádně anglicky…
 
@@ -145,8 +139,6 @@ Načež jsem vyšla ze třídy – a už nikdy jsem se tam nevrátila.
 
 ## 4/
 
-  
-
 „Už se tam nikdy nevrátím,“ oznámila jsem mámě. „Najdu si školu, která **nepoužívá** alternativní vyučovací metody.“
 
 „Dobře,“ pravila máma. „Najdi si školu, kde vládne biflování a prušácký dril…“
@@ -158,8 +150,6 @@ Na zemi nikdo neležel.
 Zašla jsem do kanceláře a zapsala se.
 
 ## 5/
-
-  
 
 Do Jeffa jsem se zamilovala hned první hodinu. Byl vysoký, hubený, nosil brýle s výraznými obroučkami a především měl krásné, světle hnědé dredy. Když jsme během hodiny s ostatními studenty občas začali mluvit česky, upadal do roztomilých rozpaků, nechápavě se usmíval a hezkýma tmavýma očima bezmocně těkal po učebně.
 
@@ -174,8 +164,6 @@ Začalo se mi o něm zdát. Jeho dredy mě ve snech šimraly na břiše. Nevydr
 Potom jsme se objaly.
 
 ## 6/
-
-  
 
 Ještě jsem potřebovala požehnání Ingrid; Ingrid pro mě v těchto věcech byla autoritou, kterou nebylo možné obejít. Rozhodla jsem se, že jí Jeffa ukážu.
 
@@ -206,8 +194,6 @@ Zakoulela významně očima. Zrudla jsem. Jeff mě konečně zahlédl.
 Ingrid nás se zalíbením pozorovala.
 
 ## 7/
-
-  
 
 Naše oční kontakty se stávaly čím dál častější. Kdykoli jsem zdvihla oči od podmínkových vět, setkala jsem se s Jeffovým pohledem. A naopak. Ostatní si toho samozřejmě všimli. Jejich poznámky mi dělaly dobře.
 

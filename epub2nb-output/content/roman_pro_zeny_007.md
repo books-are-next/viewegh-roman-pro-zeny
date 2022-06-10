@@ -7,8 +7,6 @@ _Má už Laura chlapce? – Nejlepší přítelkyně – Rickieho bělmo – 
 
 ## 1/
 
-  
-
 Začnu třeba tím, jak jsme se předloni na konci srpna vrátili s Richardem z dovolené v Chorvatsku.
 
 Na začátku každého mluveného i psaného projevu by prý měl být vtip – alespoň to tvrdí příručka **Jak si zlepšit mluvený a psaný projev**. Různé psychologické příručky jako **Nekazte si život maličkostmi** nebo **Jak si vybudovat harmonický partnerský vztah** si mimochodem kupuju dost často, neboť odjakživa trpím možná naiv­ní, ale tak jako tak znervózňující představou, že se v nich skrývají jakési zásadní informace, bez jejichž znalosti není možné prožít šťastný život… No nic. Vtipem **navodíte přátelskou atmosféru a získáte si posluchače na svou stranu**, tvrdí autor výše zmíněné brožury. Když v projevu, tak proč ne na začátku románu, říkám si, jenomže **kterým**?
@@ -32,8 +30,6 @@ Tak jsem na ni udělala takové ty upřímné oči à la Barunka Panklová a pr
 „Mám, babičko. Dokonce hned **dva**.“
 
 ## 2/
-
-  
 
 Nyní tedy ten návrat z dovolené: Přiletěli jsme ve čtvrtek odpoledne. Byt byl prázdný, máma byla ještě v Chicagu u svého tehdejšího přítele Stevena, takže Rickie se rozhodl, že u nás přespí.
 
@@ -59,8 +55,6 @@ Což má ostatně pravdu.
 
 ## 3/
 
-  
-
 V pátek jsem ještě měla dovolenou. Mohla jsem klidně spát třeba až do jedenácti, ale místo toho jsem byla už od svítání vzhůru a pozorovala strop. Nemohla jsem se dočkat, až zapnu mobil – ale to jsem nemohla udělat dřív než v osm, aby to Rickiemu nebylo nápadné. Musela jsem mobil na noc vypnout, neboť jsem během dovolené zjistila, že Rickieho dokáže vzbudit i to jediné tichounké pípnutí, ohlašující příchod textové zprávy. Znáte to: v půl druhé v noci otevřete oči, protože si nejste jistá, jestli to píplo nebo ne (bojíte se samozřejmě obou variant) – a na protější zdi se zrádně odráží nazelenalý proužek displeje… Takže zrudnete (naštěstí je tma), zadržíte dech, opatrně se natáhnete k nočnímu stolku pro mobil a zprávu si co nejrychleji přečtete (samozřejmě tak, aby na ni váš přítel neviděl, kdyby byl náhodou vzhůru):
 
 EXISTUJE NECO PRAZDNEJSIHO NEZ PRAZDNA NARUC?
@@ -73,8 +67,6 @@ Vsadím se, že moc dobře víte, jaké takové jedno pípnutí dokáže vytvoř
 
 ## 4/
 
-  
-
 Nakonec jsem to stejně nevydržela. Ve čtvrt na osm jsem si nasadila brýle a vstala jsem z postele. Rickie spal – nebo předstíral, že spí. Mimochodem, brýle: nosím je už od třetí třídy, takže jsem si na ně dávno zvykla. Nemám z nich sebemenší mindrák. Já rovná se brýle, tak to vždycky bylo a bude. O kontaktních čočkách jsem nikdy neuvažovala – jednak se dneska dají sehnat opravdu slušivé brýle a za druhé si už z principu odmítám strkat prsty do očí… Připadá mi to vážně nechutné. Když vidím, jak si někdo stahuje spodní víčko a ukazuje celému světu svou rudou sliznici, je mi z toho pokaždé šoufl. Navíc přitom každý vypadá jako mentálně retardovaný idiot – všimli jste si někdy, jak se lidé při nasazování čoček **tváří**?
 
 No nic, jakmile jsem měla brýle na nose, šla jsem do kuchyně zapnout mobil, abych zjistila, jestli mi v noci nepřišla **od někoho** nějaká textovka. Říkám **od někoho**, ale samozřejmě mám na mysli hlavně Olivera. Kromě něj mi v noci píší už jenom máma a Ingrid. Se zprávami od mámy problém není, ty můžu dát Rickiemu kdykoliv přečíst (samozřejmě s výjimkou těch, v nichž se máma zmiňuje o něm – ha ha…).
@@ -82,8 +74,6 @@ No nic, jakmile jsem měla brýle na nose, šla jsem do kuchyně zapnout mobil, 
 Typická textovka od Ingrid přichází v časných ranních hodinách a zní: VSECHNY CHLAPY BY MELI VYKASTROVAT!
 
 ## 5/
-
-  
 
 Zapnutý mobil tiše pípne. Přijaté zprávy: 1, hlásí displej. Stisknu příslušné tlačítko: Oliver. Od Ingrid naštěstí nic, od mámy taky nic, což mě lehce znervózňuje – ale teď je tu především ta Oliverova zpráva. Číst? Ano!!!
 

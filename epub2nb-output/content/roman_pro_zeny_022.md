@@ -7,8 +7,6 @@ _Odmítá Laura Huberta poznat? – Prosvítající bradavky – Mohutný inte
 
 ## 1/
 
-  
-
 „Rád bych tě **konečně** někdy představil Hubertovi,“ navrhuje mi Oliver jednoho říjnového večera, pár dní po mámině odletu za Stevenem. Sedíme u nás v obýváku a právě otvíráme druhou sedmičku chilského červeného vína.
 
 V onom lehce zdůrazněném **konečně** je postřehnutelná výčitka: jako by naznačoval, že jsem o seznámení s Hubertem dosud neprojevila dostatečně vřelý zájem, nebo že se dokonce přímo bráním jeho nejlepšího přítele poznat.
@@ -47,8 +45,6 @@ Olivera to zjevně zaskočí, ale nezbyde mu, než přikývnout.
 
 ## 2/
 
-  
-
 V pátek je už od začátku všechno špatně.
 
 Oliver přijde z práce až v půl osmé, lehce podrážděný. Sděluje mi, že večírek je od sedmi – takže rázem spěcháme, což nesnáším. Ještě nejsem ani oblečená. Rychle volím černé lodičky, šedý kalhotový kostým a do něj černou košili s velkým špičatým límcem; když stojím před zrcadlem v předsíni (v ruce tři červené gerbery pro Hubertovu manželku), mám ze sebe docela uspokojivý pocit, ale Oliver moje oblečení označí za **nemístně slavnostní**. Sám se s převlékáním neobtěžuje: na sobě má zelené manšestráky s vytahanými koleny a černý žmolkovitý svetr, který se mu páře v podpaží.
@@ -72,8 +68,6 @@ Posílám ji zpátky nahoru.
 „Zapomněla si kalhotky a podprsenku,“ zahlaholím bodře – ale ani se neušklíbne.
 
 ## 3/
-
-  
 
 Otevřít nám přichází sám Hubert.
 
@@ -157,8 +151,6 @@ Najednou mi to dojde: Ingrid a já jsme jejich Žemlovi.
 
 ## 4/
 
-  
-
 A tak to jde pořád dál. Hubert po většinu času nepustí nikoho ke slovu. Když ho žertování na účet našeho časopisu konečně omrzí, sžíravě odsoudí bezduchý svět reklamy a naprostou imaginativní impotenci tzv. kreativců (Oliver se směje) a vzápětí nám všem přehraje **Polovecké tance**, přičemž polovinu skladby sám oddiriguje. Potom přejde ke **Dnům německého divadla v Praze**, od nichž se posléze dostane k Thomasu Bernhardovi, jenž je prý jediný žijící německý spisovatel; ostatní žijící němečtí spisovatelé jsou údajně dávno mrtví, pouze o tom nevědí… Oliver, který nedávno shodou okolností učetl asi čtyřicet stránek Bernhardova románu **Mýcení** (a pak jej – jak dobře vím – otráveně odložil), souhlasně přikyvuje. Ingrid se nepřestává tvářit obdivně. Pokud jde o mě, nemám už delší dobu co pít a z otevřeného okna na mě studeně táhne. Taky umírám hlady. Na stolku přede mnou je sice jakási oschlá pomazánka, ale není tu nic, na co bych si ji mohla namazat.
 
 Kvůli Oliverovi v tom intelektuálském pekle vydržím déle než dvě hodiny. Krátce před půlnocí mu pošeptám, že bych chtěla jít domů; současně vstřícně navrhuju, že jestli chce, může samozřejmě ještě zůstat.
@@ -196,8 +188,6 @@ Vstanu, jdu do předsíně a začínám se obouvat. Krev se mi hrne do hlavy �
 A prásknu za sebou dveřmi.
 
 ## 5/
-
-  
 
 Vyběhnu na noční ulici a marně vyhlížím taxík. Všechno ve mně vře. Po pár minutách vyjde z domu Oliver a beze slova se ke mně připojí.
 

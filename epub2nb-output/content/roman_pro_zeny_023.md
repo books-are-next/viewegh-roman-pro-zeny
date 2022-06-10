@@ -7,8 +7,6 @@ _Je Oliver alkoholik? – Dočasně zdvořilý Hubert – Na tuzemské afrodis
 
 ## 1/
 
-  
-
 Začnu Oliverovo pití nenápadně sledovat.
 
 Zda pije přes den, nevím. Z práce přichází až na výjimky střízlivý (ale je mi jasné, že dvě nebo tři skleničky na něm stejně nepoznám). Zůstaneme-li večer doma, vypije obvykle sedmičku vína; pokud piju s ním, otevře často druhou láhev. V restauraci si z úsporných důvodů objednáváme jen jednu, ale Oliverův vypitý díl je samozřejmě větší než můj, a navíc si před jídlem i po jídle dává ještě fernet.
@@ -63,8 +61,6 @@ Tak to udělám.
 
 ## 2/
 
-  
-
 Uvědomuju si, že naše večery ve městě se v poslední době omezují jen na pobyt v restauracích. Začnu se proto snažit, abychom víc chodili do kina a do divadla, jenže Oliver po představení pokaždé navrhuje, abychom ještě někam zašli na víno – a já jeho naléhání většinou ustoupím.
 
 Už mi to taky chutná?
@@ -92,8 +88,6 @@ Oliver září nadšením a hladí mi hřbet dlaně.
 Tisknu se k jeho rameni a těším se do postele.
 
 ## 3/
-
-  
 
 Doma nám přichystám romantickou noční koupel: napustím plnou vanu horké vody, přidám pěnu a afrodisiakální aromatický olej a po celé koupelně rozmístím hořící svíčky. Přinesu přehrávač, pustím hudbu a potom se vzájemně svlékáme. Když jsme nazí, přidržíme se jeden druhého a vstupujeme opatrně do vany – voda je tak horká, až tajíme dech. Zvolna si sedáme, naše těla o sebe hladce kloužou. Konečně sedíme. Pěna tiše praská, zrcadlo je zamžené, plamínky svíček vytvářejí chvějivé stíny.
 

@@ -7,8 +7,6 @@ _Richard alias Rickie – Aplikace femigelu – BMW a rodinné finance_
 
 ## 1/
 
-  
-
 Rickie je o dva roky mladší než já. Když jsem ho poznala, prodával v jednom obchodě na Národní třídě mobilní telefony. Měl tudíž sklon posuzovat lidi podle toho, jaký vlastní přístroj.
 
 _Takovej blbeček s tim nejlevnějšim Alcatelem…_
@@ -18,8 +16,6 @@ Co dělá Rickie dneska?
 To nevím.
 
 ## 2/
-
-  
 
 Jmenuje se ve skutečnosti Richard, ale kamarádi mu říkají Rickie. Richard je podle mě – na rozdíl od Rickieho – docela dobré, jaksi **poctivé** jméno, ale Rickie trval na tom, abych jeho přezdívku laskavě používala. Tak jsem ji používala. Copak záleží na jméně? říkala jsem si. Zpočátku mi její vyslovení na veřejnosti dělalo trochu potíže, ale zvykla jsem si. Časem mi to ani nepřišlo. Klidně jsem ho oslovila **Rickie** i před lidmi. Říkala jsem to ale trochu zdrženlivě, jakoby **uvědoměle**, jestli mi rozumíte, abych všem, co mě slyšeli a co si tak jako já možná uvědomovali, že ta přezdívka je mírně řečeno sporná, dala najevo patřičný ironický odstup. Po roce už jsem dokázala na Rickieho i hlasitě **zavolat**:
 
@@ -40,8 +36,6 @@ Snaží se, aby to znělo autoritativně, ale v jeho očích je otázka.
 Dívá se na mě podezíravě.
 
 ## 3/
-
-  
 
 Richard je hodný kluk a je na něho spolehnutí. Je spíš drobnější, ale vypadá dobře: má husté hnědé vlasy, pěkně vykrojenou pusu a hezké tmavé oči. Někdy, když máma nebyla doma a Rickie sedával v naší kuchyni naproti mně a četl inzeráty v Annonci nebo Realitním magazínu, jsem ho pozorovala. Znervózňovalo ho to, ale většinou to nedal najevo.
 
@@ -78,8 +72,6 @@ Takhle to bylo s Rickiem skoro pořád: když mlčel a já pozorovala tu jeho 
 Jenomže on vždycky dříve či později promluvil – a já začala mít pocit, že náš vztah je jeden velký omyl.
 
 ## 4/
-
-  
 
 Nejvíc mě ale Richard (ano, já vím, **Rickie**) dojímal, když jsem viděla, jak se snaží myslet na naši budoucnost. Vystřihoval inzeráty na byt a zakládal si je do zvláštních desek, které neustále nosil v aktovce. Chápala jsem ho. Vlastní byt jsme neměli a u mě doma jsme mohli být jenom ve dnech, kdy byla máma pryč.
 

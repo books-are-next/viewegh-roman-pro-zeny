@@ -7,8 +7,6 @@ _Mlčení pod palmami – Muž ve značkových slunečních brýlích – Při
 
 ## 1/
 
-  
-
 Když už je někdo hodně opálený, měl by se alespoň usmívat. Za­chmu­řený **bledý** obličej může snad vypadat důstojně, ale zakaboněný **opálený** obličej vyhlíží podle mě většinou směšně.
 
 Po sedmi horkých slunečných dnech na Korčule jsme s Oliverem oba opálení do tmava – ale ani jeden z nás se neusmívá. Nakvašeně sedíme ve stínu palem v malém parčíku na nábřeží městečka Hvar (na stejnojmenném ostrově) a nejspíš vypadáme směšně. Mám žízeň, ale nemám sílu jít shánět něco k pití. Mlčky čekáme na trajekt, který nás má odvézt zpátky na Korčulu; trajekt má už hodinu zpoždění, což všechno ještě zhoršuje.
@@ -31,8 +29,6 @@ Oliver pokrčí rameny – a přikývne.
 
 ## 2/
 
-  
-
 A potom se objeví ona velká bílá jachta s českou vlaječkou na stožáru a zakotví u mola přímo před námi.
 
 Lodní šroub prudce víří tyrkysovou vodu, pak motor ztichne. Z řídící kajuty vyjde nápadně hezký, asi třicetiletý muž ve slunečních brýlích; na sobě má jen elegantní světlé kalhoty, od pasu nahoru je nahý.
@@ -54,8 +50,6 @@ Bez přípravy se odrazí a pružně přeskočí z jachty na břeh.
 „Nazdar,“ říká otráveně Oliver.
 
 ## 3/
-
-  
 
 ON je **ředitelem pražské pobočky velké světové reklamní agentury** – Oliver všechny ty přívlastky parodicky skanduje jako moderátor vyvolávající na jeviště proslulého umělce. Toho času na dovolenkové plavbě po Jadranu; cestuje kupodivu sám. Mě označí Oliver za **dívku, s níž ještě před pár dny chodil**; dnes už to prý **není tak jisté**.
 

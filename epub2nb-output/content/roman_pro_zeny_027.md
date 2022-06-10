@@ -7,8 +7,6 @@ _Polygamie jako dědičné břímě – Odlišné názory na nevěru – Neš�
 
 ## 1/
 
-  
-
 Ještě v noci volám Ingrid.
 
 Trpělivě mě vyslechne a potom se opatrně zeptá, zda Oliverovo provinění trochu nepřeceňuju.
@@ -39,8 +37,6 @@ A zavěsí.
 
 ## 2/
 
-  
-
 Nechci Olivera vidět. Neberu telefon, na jeho čím dál zoufalejší textové zprávy nereaguju.
 
 Mámě nic neřeknu; statečně předstírám, že je všechno v po­řádku.
@@ -63,9 +59,9 @@ Pravím, že o tom budu přemýšlet.
 
 ## 3/
 
-  
-
 Pohledy Tesařové jsou stále nespokojenější, takže se raději vrátím ke svému stolu a po zbytek dopoledne se pokouším pracovat. Nejprve otevřu došlou poštu – tentokrát je to pouze jediný dopis. Rukopis je obtížně čitelný, mnoho slov je výrazně podtržených.
+
+  
 
 _Milá redakce,_
 
@@ -79,13 +75,13 @@ _Vaše čtenářka Zuzana_
 
 _P. S. Napište!!!!!_
 
+  
+
 Dočtu a hlasitě se vysmrkám. Romana se ke mně podezíravě otočí.
 
 „Panebože,“ vzdychne nahlas, „ona už zase brečí…“
 
 ## 4/
-
-  
 
 Sotva se po obědě vrátíme do kanceláře, kdosi zvoní; Vlasta jde otevřít. Po chvíli se vrací a významně na nás pomrkává.
 
@@ -114,8 +110,6 @@ Přečtu jim text nahlas. Snažím se, aby můj hlas zněl ironicky, ale příli
 „O její rubriku teď nejde,“ říká. „Teď jde o to, co Laura **udělá**…“
 
 ## 5/
-
-  
 
 Co udělám?
 

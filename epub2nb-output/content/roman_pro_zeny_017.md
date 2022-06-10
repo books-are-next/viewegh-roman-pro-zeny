@@ -7,8 +7,6 @@ _Dala si Sissa Sklowská zvětšit prsa? – Tísňové volání Ingrid – Ne
 
 ## 1/
 
-  
-
 Od kadeřnice jedu metrem do redakce. Je pátek odpoledne, a tak se bojím, abych své kolegy ještě stihla všechny, ale když rozrazím dveře do toho našeho tmavého krcálku a uvidím je tam sedět v plné sestavě, jako vždy nahrbené nad klávesnicemi počítačů, zmocní se mě dojetí.
 
 „Nazdárek!“ zahulákám na ně vesele.
@@ -48,8 +46,6 @@ Nic.
 Jsem zamilovaná.
 
 ## 2/
-
-  
 
 „Tak co, Lauro,“ mrká na mě babička, zatímco vyndávám nákup v kuchyni na stůl, „jestlipak už máš nějakého chlapce?“
 
@@ -97,8 +93,6 @@ Heřmánkovou mast? Panebože, co si všichni myslí? Že jsem jejich opatrovate
 
 ## 3/
 
-  
-
 V lékárně potkávám souseda Žemlu; manželka marodí, a tak jí jde vyzvednout prášky. Těch prášků je bezmála půl igelitky; všimnu si, že zatímco se Žemla obrací ke mně, lékárník si ho zkoumavě prohlédne.
 
 „A kdy přijede máma z Amériky?“ chce vědět Žemla.
@@ -124,8 +118,6 @@ Počkám, až Žemla definitivně vypadne. Lékárník trpělivě čeká se mnou
 „A jeden femigel prosím,“ požádám ho tiše.
 
 ## 4/
-
-  
 
 O půl hodiny později sedím na červeném sofa z prodejny **The Art of Living**. Ingrid zuřivě křižuje pětadvacet čtverečních metrů své elegantně zařízené garsoniéry a nepřítomně si přitom prohlíží můj dárek: náramek z růžového korálu, který jsem jí před chvílí připnula na zápěstí. Je půl šesté odpoledne, ale ona je stále ještě v noční košili.
 
@@ -168,8 +160,6 @@ Ani k tomu nepustil hudbu.
 Ingrid krvácela, takže jí zavolal taxíka. O telefon si neřekl.
 
 ## 5/
-
-  
 
 Ingrid mi pláče na rameni, její slzy mi máčejí tričko.
 
