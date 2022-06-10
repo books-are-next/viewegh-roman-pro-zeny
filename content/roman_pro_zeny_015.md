@@ -3,6 +3,8 @@ title: KAPITOLA IX
 contentType: prose
 ---
 
+<section>
+
 _Oliverovo náhlé zmizení – Společensky nepřijatelné odpovědi – Blbost za čtyřicet kuna – Bočanová a Zedníček_
 
 ## 1/
@@ -156,3 +158,5 @@ Sama jsem se té otázky dodatečně zalekla. Oliver se nepatrně nadzdvihl na l
 Vlepila jsem mu facku a potom jsem ho políbila.
 
 Do odjezdu jsme si podobnou scénu zopakovali ještě dvakrát.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA IV
 contentType: prose
 ---
 
+<section>
+
 _Matčino trauma – Pažoutovy osudové tenisky – Zaručená dieta – Mona Lisa Ruzyně – I wish I could fly_
 
 ## 1/
@@ -112,3 +114,5 @@ Máma se posadí. Mezitím už jedna z letušek začíná obvyklou demonstraci 
 Pro mou mámu je to **mše** a zmíněná letuška je mladou **kněžkou** její životní víry.
 
 Víry, že ji ta obrovská síla Boeingu 737 dokáže navždy odnést pryč od všech těch nevěrných, buranských a špatně oblečených **Čechů**.
+
+</section>

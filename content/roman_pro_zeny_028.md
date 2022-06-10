@@ -3,6 +3,8 @@ title: KAPITOLA XXII
 contentType: prose
 ---
 
+<section>
+
 _Bezprecedentní samostatnost – Nein, Vater, nein! – Vzpomínka na Brigitte Bardot – Vánoce na pláži_
 
 ## 1/
@@ -136,3 +138,5 @@ Oliver omluvně pokrčí rameny.
 „Na zdraví a **na lásku**,“ říká máma a ťukne si s námi.
 
 Po zbytek odpoledne potom skáčeme ve vlnách.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA I
 contentType: prose
 ---
 
+<section>
+
 _Má už Laura chlapce? – Nejlepší přítelkyně – Rickieho bělmo – SMS od Olivera! – Riskantní lež_
 
 ## 1/
@@ -96,3 +98,5 @@ Moje myšlenky proběhnou v následujícím sledu:
 Nenávidím ho! Jak mohl to pípnutí slyšet? Už přichází. Vymazat zprávu? Ano. Mažu zprávy. Tak dělej! Žádné přijaté zprávy. Uf. Rickie stojí přede mnou. Políbí mě na čelo (ví, že ještě nemám vyčištěné zuby) a podezíravě hledí na mobil v mé ruce.
 
 „Máma,“ říkám chladnokrevně. „Pokud sežene letenku, přiletí už dneska večer.“
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXXI
 contentType: prose
 ---
 
+<section>
+
 _Osvědčený recept na rodinné štěstí – Kouzelný interiér s perskými dekoracemi – Screaming Orgasm – Omamná vůně rašelinného kouře – Francouzský šarm_
 
 ## 1/
@@ -188,3 +190,5 @@ _Patříme k sobě, Lauro._
 _Miluju Tě. Vrať se._
 
 _Oliver_
+
+</section>

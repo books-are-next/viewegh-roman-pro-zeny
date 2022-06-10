@@ -3,6 +3,8 @@ title: KAPITOLA VII
 contentType: prose
 ---
 
+<section>
+
 _S kadeřnicí Sandrou o výhodách polopenze – Náhle ztichlé vlasové difuzéry_
 
 ## 1/
@@ -78,3 +80,5 @@ Všechny kadeřnice i zákaznice se ke mně pobaveně otáčejí.
 „Jo tak proto to tak spěchalo!“ říká spokojeně Sandra a triumfálně se rozhlíží. Přitahuje si sousední křeslo a sedá si vedle mě.
 
 „Ježišmarjá, tak honem vyprávějte…“
+
+</section>

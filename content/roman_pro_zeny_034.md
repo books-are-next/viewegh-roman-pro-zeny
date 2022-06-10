@@ -3,6 +3,8 @@ title: KAPITOLA XXVIII
 contentType: prose
 ---
 
+<section>
+
 _Mlčení pod palmami – Muž ve značkových slunečních brýlích – Přirozená úskalí partnerského vztahu – Žárlit je třeba začít včas!_
 
 ## 1/
@@ -100,3 +102,5 @@ Omluvně se na NĚHO usměju.
 ON můj úsměv rozpačitě opětuje. Motýlci v mém břiše třepetavě vzlétnou. Oliver nás pozoruje.
 
 „**Předčasná** žárlivost je logický nesmysl,“ poznamená suše. „Žárlivost přichází naopak vždycky **pozdě**.“
+
+</section>

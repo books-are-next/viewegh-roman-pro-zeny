@@ -3,6 +3,8 @@ title: KAPITOLA XXXVI
 contentType: prose
 ---
 
+<section>
+
 _Důvěrně známý rukopis – Nekompromisní Laura – Zelený symbol rodinné soudržnosti – Klimakterické změny – Orfeus v metru_
 
 ## 1/
@@ -61,7 +63,9 @@ Na radu Doris, Ingrid a Roberta s nimi naložím úplně stejně.
 
 Pár dní po Novém roce objevím v metru cestou do práce první dopis. Samozřejmě zprvu vůbec nic netuším, a tak jen napůl zvědavě, napůl nechápavě přistoupím blíž ke kovovému rámečku a čtu:
 
-  
+</section>
+
+<section>
 
 _Drahá Lauro,_
 
@@ -69,7 +73,9 @@ _jediné, co mi po Tobě zbylo, jsou vzpomínky._
 
 _Když to takhle napíšu, zní to jako text nějakého hloupého amerického hitu, kterým jsme se spolu občas vysmívali – a najednou je pro mě v tom klišé hluboká pravda. Celé hodiny, celé dny na Tebe vzpomínám – v práci, v autě, doma, v čekárně u doktora Z. – všude. Vzpomínám, a kdykoliv se mi podaří objevit v paměti nějaký nový obrázek nebo třeba jenom nový detail, úplně mě to nadchne – a hned vzápětí „sejme“…_
 
-  
+</section>
+
+<section>
 
 Náhle pochopím, že dopis psal Oliver a že jeho adresátkou jsem já. Polekaně zatajím dech, proti své vůli zrudnu, o krok poodstoupím a opatrně se rozhlédnu, jako by mě některý ze spolucestujících mohl usvědčit, že adresátkou dopisu jsem právě já…
 
@@ -94,3 +100,5 @@ V červenci zklamaně projíždím všechny trasy metra a ve stanicích přeb�
 „Zaplaťpánbůh,“ říká Robert kysele.
 
 (Tu soubornou zkoušku neudělal.)
+
+</section>

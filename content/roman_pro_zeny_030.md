@@ -3,6 +3,8 @@ title: KAPITOLA XXIV
 contentType: prose
 ---
 
+<section>
+
 _Zprávy z domova – Kafe od Žida – Láska po telefonu – Oliverův nečekaný návrh_
 
 ## 1/
@@ -98,3 +100,5 @@ Chvíli mlčí.
 „To nestojí za to – na těch čtrnáct dní. Musím každej den k babičce.“
 
 „Nemyslím na čtrnáct dní,“ opraví mě Oliver. „Myslím **napořád**.“
+
+</section>

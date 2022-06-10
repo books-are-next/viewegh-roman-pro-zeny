@@ -3,6 +3,8 @@ title: KAPITOLA XXV
 contentType: prose
 ---
 
+<section>
+
 _Čeho se Laura bojí? – Oliver a třídní schůzky – Citát z Havlíčka – Zamilovaný Mirek_
 
 ## 1/
@@ -112,3 +114,5 @@ Ingrid se nejprve dojatě usmívá, ale při druhém čtení už se směje nahla
 Ale potom se neudržím a chechtám se spolu s ní.
 
 Moje **mezilidské vztahy mezi mužem a ženou** jsou už asi pokažené.
+
+</section>

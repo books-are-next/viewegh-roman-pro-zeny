@@ -3,6 +3,8 @@ title: KAPITOLA VIII
 contentType: prose
 ---
 
+<section>
+
 _Tajuplně osamělý muž – Promění se Laura v naravni odrezak? – Procházka rozhněvaných ateistů – Konečně čtyřicet!_
 
 ## 1/
@@ -120,3 +122,5 @@ Svého plyšového klokánka, kterého bych si přitom úzkostně tiskla k ňad
 Pokrčil rameny.
 
 „Člověk je **vždycky** sám,“ poznamenal jakoby omluvně. „Možná je lepší si zvykat.“
+
+</section>
