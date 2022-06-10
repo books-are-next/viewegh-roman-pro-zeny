@@ -7,8 +7,6 @@ _S kadeřnicí Sandrou o výhodách polopenze – Náhle ztichlé vlasové di
 
 ## 1/
 
-  
-
 „Takže koukám už po dovolený…,“ promluví Sandra, moje kadeřnice, zatímco mi pročesává mokré vlasy (když mi jednou udělala trvalou, máma sarkasticky poznamenala, že Sandra bude nejspíš **umělecký pseudonym**).
 
 „Opálená, odpočinutá…,“ říká.
@@ -38,8 +36,6 @@ Ani tentokrát mě nenapadá žádná použitelná replika, takže aspoň kývnu
 Jsem bez brýlí, takže Sandřin odraz v zrcadle přede mnou je značně rozostřený a výraz v jejím obličeji mohu pouze odhadovat. Pro každý případ se široce usměju.
 
 ## 2/
-
-  
 
 „Na Brači kde přesně?“ zeptám se o něco později, jako bych Brač znala.
 

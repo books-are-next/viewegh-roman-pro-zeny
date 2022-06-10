@@ -7,8 +7,6 @@ _Čeho se Laura bojí? – Oliver a třídní schůzky – Citát z Havlíč
 
 ## 1/
 
-  
-
 STAROMLADENECKA PEVNOST DOBYTA! textuju Ingrid.
 
 Mám takovou radost, že jí málem pošlu **letící srdce**, ale naštěstí si včas připomenu své celoživotní předsevzetí neposílat nikdy nikomu žádný z těch hloupých obrázků (copak jsme Indiáni, abychom komunikovali prostřednictvím obrázkového písma?). Zároveň mám ze společného bydlení s Oliverem trochu strach.
@@ -22,8 +20,6 @@ Bojím se, že dopustím, aby mi Oliver začal jít na nervy.
 Bojím se, že nepřestanu dál **hledat**.
 
 ## 2/
-
-  
 
 První dva měsíce jsou ovšem nad očekávání skvělé. Oba se od samého začátku nápadně snažíme. Na uvítanou dostanu od Olivera květiny, modré hedvábné pyžamo **Marks and Spencer** a bílý froté župan; já mu na oplátku koupím totéž křeslo, jaké před časem koupila Ingrid Hubertovi.
 
@@ -63,8 +59,6 @@ Když vám někdo před usnutím **nezištně** hladí dlaň.
 
 ## 3/
 
-  
-
 Jenomže nic netrvá věčně.
 
 „Pravá cena lásky spočívá v tom, že **byla**,“ cituje mi Oliver jednoho únorového večera z rozečteného Jaroslava Havlíčka. „Splněné sny stojí na prahu bouří, marné přijdou do ráje.“
@@ -100,8 +94,6 @@ Samozřejmě že chrápe – je to jako ve filmu. Postavím mu k posteli kbel�
 „Chceš vidět, jak vypadá láska?“ říkám bez úvodu, ani se nepokouším tišit hlas. „Tak se seber a přijeď sem…“
 
 ## 4/
-
-  
 
 Stojíme nad ožralým Oliverem a pozorujeme ho jako dvě znechucené sudičky: čpí z něj kouř a alkohol.
 

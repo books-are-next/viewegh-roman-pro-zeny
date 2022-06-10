@@ -7,8 +7,6 @@ _Bezprecedentní samostatnost – Nein, Vater, nein! – Vzpomínka na Brigit
 
 ## 1/
 
-  
-
 Je to ovšem organizovaný zájezd – a máma organizované zájezdy odjakživa nesnáší. Vyřeší to elegantně: na pražském letišti se až do odletu drží stranou od hlavní skupiny a povinnou prezentací u přepážky cestovní kanceláře pověří mě a Olivera. Po příletu zase odmítne hromadný převoz z letiště do letoviska; přítomné delegátce, která nás nervózně vyzývá, abychom si nastoupili do přistaveného autobusu (fouká velmi prudký vítr, takže musí křičet), zdvořile vysvětlí, že si tak jako tak hodláme pronajmout na celý týden auto, takže se do hotelu dopravíme sami. Delegátka vypadá zaskočeně, s podobným požadavkem se prý ještě nesetkala, a argumentuje odpovědností za **všechny** účastníky zájezdu.
 
 „**My** to zvládneme, zlato,“ usmívá se máma.
@@ -25,8 +23,6 @@ Vrátíme se do haly ke stánku AVIS, máma španělsky zažertuje s přítomno
 
 ## 2/
 
-  
-
 Počasí je skvělé; je sice stále hodně větrno, ale teplo: odpoledne bývá až třiadvacet stupňů. Je to poprvé v životě, co nemám v prosinci studený nos a ruce.
 
 Hotel je tříhvězdičkový, celkem pěkný; mámin jednolůžkový pokoj má dokonce přímý výhled na moře. V hotelu ovšem pouze snídáme (máma ještě před odletem požádala Olivera, aby zrušil zakoupenou polopenzi) a na obědy a večeře chodíme do početných restaurací v letovisku (mým nejoblíbenějším jídlem jsou brambory ve slupce, **papas arrugadas**, nejlépe s pikantní červenou omáčkou **mojo**, a především **gambas**, krevety servírované ve vroucím olivovém oleji, s teplou česnekovou bagetou). Číšníci i hosté nás očividně považují za manžele s dcerou. Když jednou máma odejde na toaletu a Oliver mě vášnivě políbí, dvojice starších Angličanů u sousedního stolu na nás vytřeští oči. Někdy je to nepříjemné, jindy se podobnými reakcemi docela bavíme.
@@ -34,8 +30,6 @@ Hotel je tříhvězdičkový, celkem pěkný; mámin jednolůžkový pokoj má d
 „Nein, Vater, nein!“ bráním se, když mě na pláži plné Němců Oliver obejme.
 
 ## 3/
-
-  
 
 Na pláži si ovšem znovu uvědomím, že Oliverovi se líbí převážně **mladé** ženy; jeho výmluvně zaujatý pohled několikrát dokonce provází i velmi mladé dívky. Když ho na to po pár dnech v mámině nepřítomnosti upozorním (o něco žárlivěji, než jsem původně chtěla), k mému překvapení se vůbec nepokouší zapírat.
 
@@ -108,8 +102,6 @@ Nakonec nás s Oliverem musí usmířit máma.
 To jsme to dopracovali.
 
 ## 4/
-
-  
 
 Štědrý den je tu poznat prakticky jen podle toho, že pláž je už od rána plná přiopilých, německy hovořících Santa Clausů v plavkách. S mámou se shodneme, že je to mile absurdní a že to v nás naštěstí – na rozdíl od kaprů, **purpur na plotně** a rozzářených stromečků v oknech bohnického sídliště – nevyvolává téměř žádné vánoční asociace.
 

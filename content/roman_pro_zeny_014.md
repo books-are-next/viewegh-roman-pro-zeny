@@ -7,8 +7,6 @@ _Tajuplně osamělý muž – Promění se Laura v naravni odrezak? – Proch
 
 ## 1/
 
-  
-
 Všimla jsem si ho hned první den v hotelové jídelně.
 
 Bylo ostatně těžké si ho nevšimnout, mezi více než dvěma stovkami rekreantů byl jediný, kdo seděl u stolu sám. Líbilo se mi, jak svou samotu zvládá: klidně, s jakousi samozřejmou důstojností. Do jídelny přicházel pomalu, při jídle se tvářil neutrálně, jen výjimečně trochu zasmušile; když si na počátku večeře u mladých chorvatských servírek objednával obvyklou sedmičku vína (v prvních dnech to u okolních stolů budilo značnou pozornost), v jeho tváři se často objevil mile sebeironický výraz. V druhém týdnu už se s ním servírky dávaly do řeči. Nepřekvapovalo mě to: oblečený býval sice dost ledabyle, ale vypadal poměrně mladě (hádala jsem mu tak pětatřicet), měl inteligentní obličej a sympatický úsměv a jeho podivná osamělost mohla navíc vzbuzovat příslušně romantické představy.
@@ -19,8 +17,6 @@ Takhle Oliver mluví vždycky.
 
 ## 2/
 
-  
-
 Jeho dovolenkové dny se řídily pedantsky důsledným rozvrhem, který působil až komicky. Po snídani jsem ho pravidelně vídávala, jak si u baru objednává dvojité espreso s mlékem a odnáší si je pokaždé do téhož křesla na hotelovou terasu, kde si pak přesně hodinu četl. Kolem jedenácté přicházel na pláž; nejprve se půl hodiny slunil a nato šel do vody; plaval vždy velmi daleko. Po obědě si chodil zdřímnout a potom se znovu opaloval a plaval. V půl páté se vracel do hotelu; dvojité espreso si tentokrát odnesl na pokoj, kde až do večeře pracoval. Kdybych bývala chtěla, mohla jsem ho kdykoliv z pláže zahlédnout, jak se u malého plastového stolku na svém balkóně s překvapivým soustředěním sklání nad otevřeným notebookem.
 
 Až na občasné návaly jakýchsi pobavených sympatií k jeho samotářskému údělu mi byl v prvních dnech spíše lhostejný. Teprve později jsem se tu a tam přistihla, že zatímco olizuji čokoládové **Cornetto** nebo si s Rickiem v mělkém příboji **vesele** házím létajícím talířem, pátrám po Oliverovi očima.
@@ -28,8 +24,6 @@ Až na občasné návaly jakýchsi pobavených sympatií k jeho samotářskému
 Když jsem ho objevila, cítila jsem cosi jako úlevu.
 
 ## 3/
-
-  
 
 Po třech dnech nás začal Oliver přátelsky zdravit – podobně jako další rekreanty, které potkával na pláži nebo v jídelně.
 
@@ -50,8 +44,6 @@ Přírodní řízky byly taky často. Oliver se suše zasmál. Rickie očividně
 „Nashle,“ utrousil Rickie bez zájmu.
 
 ## 4/
-
-  
 
 Už jsem si zvykla, že mě tu každé ráno v sedm budily zvony některého městského kostela – ale v neděli začaly zvonit už v šest. Nekonečné, monotónní zvonění… Dostala jsem takový vztek, že jsem už nedokázala usnout. Co si ti zasraní pánbíčkáři vůbec myslí?
 
@@ -94,8 +86,6 @@ Příliv tiše šuměl. Rybáři se vraceli z moře. Zdálo se mi, že slunce u
 („No jasně…,“ poznamená zkušeně Sandra.)
 
 ## 5/
-
-  
 
 Došli jsme až na kraj městečka a na terase jediné otevřené kavárny jsme si dali džus a kávu. Kolem sedělo jen pár místních, byli jsme tu zatím jediní turisté. Oliver mi vyprávěl několik zábavných historek o svém kamarádovi jménem Hubert. Čas příjemně plynul.
 

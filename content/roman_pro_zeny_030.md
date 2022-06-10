@@ -7,8 +7,6 @@ _Zprávy z domova – Kafe od Žida – Láska po telefonu – Oliverův ne�
 
 ## 1/
 
-  
-
 Vítejte z dovolené aneb Zprávy z domova:
 
 **Babička** na novoroční vycházce s pečovatelkou upadla a zlomila si krček v kyčli. Je po operaci a leží na Bulovce, na pokoji se dvěma dalšími podobně nepohyblivými stařenkami a jedním umírajícím státním úředníkem na penzi. Obden se u ní s mámou střídáme v návštěvách. Pokoušíme se ji všemožně rozptýlit, ale babička je nezvykle zamlklá; dokonce se mě ani jednou nezeptá, zda už mám chlapce.
@@ -22,8 +20,6 @@ Vítejte z dovolené aneb Zprávy z domova:
 Zatím to příliš nepomáhá.
 
 ## 2/
-
-  
 
 Od vydavatele **Vyrovnané ženy** jsme všichni dostali k Vánocům vstupenky do Národního divadla – na Maryšu. Zavolala jsem mámě a zeptala se, zda nemám lístky vzhledem k situaci s babičkou někomu věnovat, ale máma řekla, že půjde ráda; potřebujeme se prý rozptýlit.
 
@@ -49,8 +45,6 @@ Tuším, co máma myslí.
 
 ## 3/
 
-  
-
 Od návratu z Kanárů jí Hans obden telefonuje; dvakrát třikrát týdně volá ona jemu. Mluví spolu německy, takže téměř ničemu nerozumím, ale když skončí, máma pokaždé vypadá zasmušile.
 
 Vyprávím to Oliverovi. Nic na to neřekne, pouze pokrčí rameny.
@@ -66,8 +60,6 @@ Asi v polovině ledna vyleze z našeho bohnického faxu potvrzená objednávka
 Když je v pohybu, cítí se v bezpečí.
 
 ## 4/
-
-  
 
 Letadlo odlétá ráno.
 

@@ -7,8 +7,6 @@ _Laura promlouvá k fotografii – Happy Birthday! – Mírně promiskuitní 
 
 ## 1/
 
-  
-
 Kupodivu to skutečně začalo fungovat. Sice pomaloučku polehoučku, ale fungovalo to.
 
 Nejprve jsem se přinutila _přestat doufat_, že mi Oliver napíše nebo zavolá. V příštích týdnech už jsem na něj dokázala myslet, aniž bych se přitom rozbrečela (výjimka potvrzuje pravidlo). Díky doktorce Wolfové jsem si také konečně uvědomila, že mě _neopustil proto, aby mě zničil_. Tím poměrem s Bludičkou mě nijak neponížil – _o mojí přitažlivosti to vůbec nic nevypovídá_. To, že mi o svém poměru nic neřekl, je pouze _výrazem jeho neschopnosti stát za svým chováním a zároveň výrazem strachu z mojí reakce_.
@@ -23,8 +21,6 @@ Na konci září jsem si troufla přinést ze sklepa jeho fotografie. Vybrala js
 
 ## 2/
 
-  
-
 Máma měla z mých pokroků pochopitelně radost. Dokonce mi tajně uspořádala narozeninový večírek.
 
 Bylo to jako ve filmu: v pátek přijdu z práce domů, nic netušíc odemknu dveře (narozeniny mám až v neděli) a marně se pokouším rozsvítit – žádný vypínač nefunguje. Všude je tma, a navíc slyším podivný šramot. Nezdá se mi to. Najednou se všechna světla rozsvítí a proti mně stojí máma, Ingrid a celá redakce _Vyrovnané ženy_: Romana, Vlasta, Zdeňka, Mirek a – světe, div se! – i Tesařová. Taky je tu Žemla. Ingrid drží v ruce dort s jedenadvaceti svíčkami.
@@ -32,8 +28,6 @@ Bylo to jako ve filmu: v pátek přijdu z práce domů, nic netušíc odemknu 
 „Happy birthday, milá Lauro, happy birthday to you!“ zpívají všichni a já se rozbulím jako želva.
 
 ## 3/
-
-  
 
 Na tom večírku jsem si nicméně uvědomila, že všechny ty lidi znám už příliš dlouho a že naléhavě potřebuju poznat nějaké **nové**.
 
@@ -44,8 +38,6 @@ Ale je tu jeden problém: patrně se při hledání nových známostí nevyhnete
 Byla bych moc ráda, kdyby mi to doktorka Wolfová vysvětlila.
 
 ## 4/
-
-  
 
 Do barů a různých klubů mě začala tahat Ingrid (občas s námi šla i máma). Obvykle jsem se tvářila značně útrpně – jako že to celé podstupuji výlučně kvůli nim – a zhola nic jsem si od toho neslibovala (vím dávno, že pravděpodobnost seznámení s někým **použitelným** je v barech a hospodách ještě menší než jinde). Někdy to nicméně bylo docela fascinující divadlo… Jestli si, milé dámy, aspoň občas vyjdete samy, jen ve dvou nebo ve třech, určitě víte, o čem mluvím. Začíná to samozřejmě pohledy od sousedních stolů. Myslím, že všichni chlapi by si své **významné** pohledy měli aspoň jednou v životě zkusit doma před zrcadlem – možná by jim to pak došlo. Očividně si vůbec neuvědomují, co takový významný pohled dokáže po čtyřech panácích udělat s jejich obličejem… A to je teprve začátek. Dříve nebo později k vám některý z nich bez vyzvání přistoupí, podívá se vám do výstřihu a pronese cosi jako Tak co, kočky, jak to jde? (nebo něco podobně invenčního). Potom se pyšně ohlédne na své padesátileté prošedivělé kamarády, kteří se na vás šklebí jako puberťáci, nabere si z vaší misky plnou hrst oříšků a začne si je v rytmu pístu parní lokomotivy po jednom vhazovat do pusy. Vy mu velmi odměřeně odpovíte, načež ten chlap se zeširoka usměje, ukáže vám jazyk pokrytý žlutobílým kobercem rozžvýkaných buráků (zřejmě si takhle představuje **zářivý úsměv**) a řekne:
 
@@ -69,8 +61,6 @@ A tak dále.
 
 ## 5/
 
-  
-
 V říjnu jsem v **Solidní nejistotě** narazila na kluka, který se od podobných playboyů příjemně lišil. Jmenoval se Robert. Byl menší, ale hezký, studoval pedagogickou fakultu a do baru přišel s kamarádem oslavit úspěšně složenou zkoušku. Příliš si nás s Ingrid nevšímali, a proto jsem se ho _aktivně_ zeptala, jestli si k nim můžeme přisednout.
 
 Ingrid a kamarád asi po půlhodině odešli každý zvlášť (kamarádovi bylo prý cítit z pusy), ale my dva jsme zůstali a povídali si. I když, povídali: byl to jeden z těch typů, co buďto mlčí, nebo mluví téměř výlučně o sobě, takže jsem se s ním upřímně řečeno nudila. Samozřejmě jsem se na něj po celou tu dobu patřičně společensky culila, ale **doopravdy** mě rozesmát se mu za celý večer nepodařilo. No a co, říkala jsem si, lepší než nic. Kde je psáno, že život musí být ukrutná sranda? Navíc když mluvil o zápočtových písemkách nebo o **souborné zkoušce** u docentky Machové, měl v očích takové lesklé vzrušení… Jakmile nás přišli zkasírovat, dotkla jsem se jeho ruky.
@@ -85,8 +75,6 @@ To mi přišlo velice romantické.
 
 ## 6/
 
-  
-
 V posteli nebyl Robert nic moc a já jsem se kromě toho styděla na něj hned napoprvé vybalit, jak to potřebuju – takže o orgasmu jsem si mohla jenom nechat zdát.
 
 „Líbilo?“ zeptal se mě ráno u snídaně.
@@ -100,8 +88,6 @@ Nervózně se usmíval – zřejmě jako před každým známkovým ohodnocení
 „Prospěl s vyznamenáním,“ pravila jsem vážně a on potěšeně zrudl.
 
 ## 7/
-
-  
 
 Robertův život probíhal v cyklu zimních a letních semestrů. Jeho nejvyšším životním cílem bylo složit soubornou zkoušku u docentky Machové.
 

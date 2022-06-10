@@ -7,8 +7,6 @@ _Slepičí polévka pro duši – Máte od doby rozchodu průjem? – Akceptuj
 
 ## 1/
 
-  
-
 Máma se pohřbu zúčastní, já přes její naléhání odmítnu.
 
 „Já vozím babičku na hřbitov,“ hájím se. „Tentokrát seš na řadě ty.“
@@ -18,8 +16,6 @@ Máma se pohřbu zúčastní, já přes její naléhání odmítnu.
 V následujícím týdnu dvakrát donese Žemlovi hrnek domácí polévky – ale tím to pro ni prý končí. Říká, že se v tom odmítá dál angažovat. Už si prý užila svoje.
 
 ## 2/
-
-  
 
 I já mám svých starostí dost. Vyplnila jsem si test z knihy Když partner odchází:
 
@@ -34,8 +30,6 @@ Podle doktorky Wolfové má porozchodová krize celkem čtyři fáze. První dv�
 No to si snad ta Němka dělá srandu?!
 
 ## 3/
-
-  
 
 Umiňuju si, že svou krizi zkrátím. Přechodím to jako chřipku. Nemůžu si přece dovolit ztratit kvůli NĚMU dva až čtyři roky – na to je život příliš krátký. Jsem přece dost silná, abych se s tím vyrovnala mnohem rychleji. (**I am strong enough to live without HIM…**) Člověk, který absolvuje autoškolu formou třítýdenního rychlokursu, nemusí být o nic horší řidič než ti, kteří kurs navštěvují několik měsíců… Rozhodnu se, že vyberu z knihy pouze to podstatné:
 
@@ -88,8 +82,6 @@ Máma vyjde z koupelny právě ve chvíli, když si vztekle zavazuju tenisky.
 „Hlavně se mi to nepokoušej rozmluvit!“
 
 ## 4/
-
-  
 
 Sídliště spí, v temné řadě protějších paneláků svítí už jen několik oken. V oranžovém světle pouličních lamp krouží můry. Chodník je prázdný. Běžím a každým krokem HO zadupávám do asfaltu. Bezděčně stále zrychluji, takže mě brzy začíná pálit na prsou. Přeběhnu přes silnici, aniž se předtím rozhlédnu, spoléhám jen na svůj sluch. Běžím dál a dál, směrem k Ústavu. Konečně se zastavím a v předklonu vyčerpaně oddechuji.
 

@@ -7,8 +7,6 @@ _A loď pluje – Žárlivý prognostik – Je Oliver Hamletova matka? – P
 
 ## 1/
 
-  
-
 Když se naloďujeme, podá mi ruku. ON, ne Oliver.
 
 Oliver okamžitě uléhá na modrobílou plátěnou matraci na přídi, já si jdu prohlédnout řídicí kajutu. ON odváže lano a přichází za mnou. Nahodí motor, pomalu vyvede loď z přístavu, zrychlí a zamíří na volné moře mezi oba ostrovy. Příď začíná skákat po zpěněných vrcholcích vln. Fouká poměrně silný vítr, ale je stále horko, takže je to příjemné.
@@ -26,8 +24,6 @@ Zní to jako otázka.
 ON beze slova přikývne a převezme ode mne kormidlo.
 
 ## 2/
-
-  
 
 Sundám si tričko a horní díl plavek (vím, že ON se dívá) a lehnu si na břicho vedle Olivera. Oči má stále zavřené.
 
@@ -79,8 +75,6 @@ Oliver se zadostiučiněním přikývne.
 
 ## 3/
 
-  
-
 Takže na Morešku jít nemůžeme.
 
 Přestože bych jít chtěla.
@@ -113,8 +107,6 @@ Oliver vyhýbavě mlčí.
 
 ## 4/
 
-  
-
 „Budeme fotit? Mám vzít foťák?“ ptá se mne Oliver ráno v hotelovém pokoji, když se chystáme na cestu.
 
 Připravuji právě tři velké bagety se sýrem a pršutem a každou zvlášť s neobvyklou pečlivostí, bezmála **něžně** balím do ubrousku. Krátce k němu vzhlédnu: nezdá se, že by to myslel ironicky, tváří se věcně.
@@ -133,8 +125,6 @@ Líbám ho, jako bych se tím mohla vykoupit.
 
 ## 5/
 
-  
-
 Nálada během plavby je tentokrát o poznání lepší. Oliver se snaží a po dlouhé době je znovu zábavný. Pijeme pravé francouzské šampaňské (láhev stojí ve stříbrném kbelíku plném ledu) a přikusujeme k tomu lososové chlebíčky a moje bagety. Moře je modré a slunce pálí.
 
 „Být za vodou má něco do sebe,“ poznamenám nahlas.
@@ -150,8 +140,6 @@ Mačkám spoušť.
 Moc bych si přála mít i **svou** fotografii s NÍM – ale neodvážím se o to Olivera požádat.
 
 ## 6/
-
-  
 
 Už jste se někdy, milé dámy, potápěly s mužem, kterého začínáte milovat?
 

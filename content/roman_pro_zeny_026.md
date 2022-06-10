@@ -7,8 +7,6 @@ _Laura touží poznat high society – Lasery a křepelčí vejce – Skandá
 
 ## 1/
 
-  
-
 „Už toho mám dost,“ říkám Oliverovi naoko vyčítavě začátkem prosince.
 
 Ležím na boku ohnutá do oblouku a tlačím mu svůj nahý zadek do klína.
@@ -37,8 +35,6 @@ Otočí mě na záda a začíná mi pomalu hladit prsa. Moje bradavky okamžit�
 
 ## 2/
 
-  
-
 Vezme mě na večírek známé mezinárodní firmy se zastoupením v Praze; koná se to v jakémsi rozlehlém tanečním klubu, kde jsem ještě nikdy nebyla. Před vchodem se tlačí dav lidí, o tři schody výš stojí nekompromisně se tvářící ochranka. Prodereme se dopředu, kde nás holohlavý mladík v tmavém obleku a kravatě zastaví pohledem. Oliver vytahuje pozvánku a ukazuje mu ji; mladík o krok ustoupí a mlčky nás pouští dál.
 
 Klub má dvě patra a také několik zvýšených podlaží či spíše pódií; hudba je všudypřítomná, hlasitá, ale zatím naštěstí nikoli ohlušující. Všude panuje značné přítmí, v jednom sále je dokonce téměř tma; odkudsi ze stropu vystřelují laserové paprsky. Vzduch je těžký, dusný, zakouřený, často cítím různé drahé parfémy (některé poznávám: **Clinique Happy**, **Kenzo** a **Oblique** od **Givenchy**). Polekaně si uvědomím, že jedna z dívek, kterou cestou od šatny míjíme, je od pasu nahoru nahá – ale zdá se, že jsem jediná, kdo si toho všiml. Kdosi Olivera přátelsky zdraví, ale než se stačím ohlédnout, dotyčný je pryč. Chytím se Olivera za ruku a on mě táhne dál do útrob klubu. Tváří se ironicky, skoro nadřazeně, ale vycítím, že i on je nesvůj. Několik mladých lidí Oliverovi překvapivě zdvořile kyne, ale zároveň občas zaregistruji, že jeho manšestrové kalhoty a sepraná černá košile budí mezi všemi těmi značkovými pánskými obleky jistou ironickou pozornost. Mám pocit, že i já jsem zvolila příliš konzervativní oblečení, a připadám si tudíž nepatřičně. Také mě znervózňuje, že se stále nedokážu dostatečně zorientovat. Místnosti, kterými procházíme, mají většinou nepravidelný tvar a jsou podivně členité; v každé je bar, kolem kterého se vine dlouhá fronta. Za chůze hledám očima toalety, ale žádné nenalézám. S výjimkou jedné slavné modelky nevidím zatím ani žádné známé osobnosti. V dalším sále je velké projekční plátno, na kterém se rychle střídají jakési barevné obrazce. Do kohosi narazím, omlouvám se. Oliver se náhle zastaví, skloní se a políbí na tvář mladou, celkem hezkou dívku v upnutých černých kalhotách a stříbrném tílku s flitry; čekám, že mě představí, ale dívka zmizí. Oliver mě před sebou tlačí dál.
@@ -61,8 +57,6 @@ Mám úplně ztuhlou šíji.
 
 ## 3/
 
-  
-
 Po necelé hodině jsem už příjemně opilá. Uvolním se, začnu víc vnímat hudbu a bez ostychu se vlním v bocích.
 
 Už se usmívám. Tváře lidí se zdají být přátelštější než předtím.
@@ -74,8 +68,6 @@ Rozepne mi košili o jeden knoflíček, rozhrne výstřih a spokojeně si proh
 „Hned přijdu,“ říká potom.
 
 ## 4/
-
-  
 
 Je pryč skoro třicet minut. Rozhlížím se, ale nikde ho nevidím. Dva muži na mě téměř současně promluví anglicky; nerozumím, co říkají, a tak jen s úsměvem zavrtím hlavou. Cítím veselou lhostejnost, ale zároveň ve mně roste jakési zvláštní znepokojení.
 

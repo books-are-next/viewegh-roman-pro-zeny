@@ -7,8 +7,6 @@ _Oliver má pěnu u pusy – Je trvalý cit pouhý mýtus? – Spadla z obla
 
 ## 1/
 
-  
-
 Ráno se probudíme takřka současně; Oliver se pootočí a začíná se mě opatrně dotýkat. Je to velmi příjemné, ale přesto ještě chvíli předstírám spánek. Konečně zavrním a přitisknu se k němu celým tělem; cítím jeho obvyklou ranní erekci. Políbí mě na rameno, lehce mě odstrčí, tiše vyklouzne z postele a plíží se do koupelny. Jde si vyčistit zuby, protože se chce milovat. Zatímco se dotýkám prsty v klíně, představuji si ho, jak stojí nahý před zrcadlem: penis ztopořený, oteklá víčka ještě slepená spánkem a na bradě zelenou pěnu…
 
 Musím se usmívat – ale zároveň mě to vzrušuje.
@@ -16,8 +14,6 @@ Musím se usmívat – ale zároveň mě to vzrušuje.
 „Pospěš si, miláčku,“ zavolám. „Už tě hrozně chci.“
 
 ## 2/
-
-  
 
 Večer Olivera nenávidím, ráno ho miluju.
 
@@ -28,8 +24,6 @@ Tak prudké výkyvy vztahu k partnerovi by mi ještě před pár lety připadal
 **Ne, počkej! Zůstaň tu se mnou, lásko…**
 
 ## 3/
-
-  
 
 Na letiště odjíždíme jako čerstvě zamilovaný pár.
 
@@ -59,8 +53,6 @@ Zatvářím se zklamaně.
 
 ## 4/
 
-  
-
 Postáváme mezi vycházejícími lidmi a vyhlížíme mámu. Hydraulické dveře, které nás dělí od tranzitního prostoru, se znovu a znovu otvírají. Náhle ji spatřím: vzpřímeně kráčí po boku mladého elegantního Asiata, který tlačí vozík s jejími kufry. Na sobě má nový kožený kabát, který jí moc sluší. Divoce mávám. Usměje se, krátce si nás s Oliverem prohlédne a potom se zastaví, aby se se svým cizokrajným společníkem rozloučila; podává mu ruku a cosi mu anglicky říká. Zřejmě to je něco vtipného, neboť mladík se nahlas směje. Netrpělivě přešlapuju. Máma konečně zamíří s vozíkem k nám.
 
 „Tak co, vy dva holoubci?“ říká jakoby shovívavě. „Ještě vás to nepřešlo?“
@@ -86,8 +78,6 @@ Mámě zablýskne v očích, ale květiny od něho přijme a nechá se i pol�
 „Nazdar, Pažoute,“ říká a znovu si nás důkladně změří. „Byli jste někde **stanovat**? Nebo jste **čistili les**?“
 
 ## 5/
-
-  
 
 Venku je nevlídno, sychravo. Studeně mží.
 

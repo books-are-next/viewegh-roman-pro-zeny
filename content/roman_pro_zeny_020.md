@@ -7,8 +7,6 @@ _Trapný incident při objednávce martini – Má vůbec Oliver vlastní myšl
 
 ## 1/
 
-  
-
 V neděli už od půl jedné sedíme s Oliverem v Louvru a čekáme na mámu. Oba jsme nervózní, Oliver dokonce zvrhne sklenici s minerálkou.
 
 Máma se objeví pět minut po jedné. Vypadá dobře. Rozhlíží se a já zdvihnu ruku a zamávám na ni. Sebevědomě projde uličkou mezi stolky. Několik přítomných mužů vzhlédne. Oliver vstává.
@@ -65,8 +63,6 @@ Oliver se mi zhroutí do náruče. Hladím mu čelo a tváře.
 
 ## 2/
 
-  
-
 Máma se vrací, vypadá klidnější; nepatrně se usmívá, a dokonce se krátce podívá i na Olivera.
 
 Kdybych ji neznala, řekla bych, že si na záchodě **šlehla**.
@@ -122,8 +118,6 @@ Máma se omluví.
 A takhle to jde pořád dokola, až do konce. Rozcházíme se po půldruhé hodině, s pocity značné rozladěnosti. Jdu s mámou domů; Oliver se jde projít.
 
 ## 3/
-
-  
 
 Po zbytek odpoledne se vyptávám mámy na Ameriku – je mi jasné, že tématu **Oliver** má pro tenhle víkend dost. Líčí mi pobyt u Steva v Chicagu a potom mluvíme o vážných i komických důsledcích jeho nabídky k sňatku. Už se zase chichotáme jako dvě dobré kamarádky.
 

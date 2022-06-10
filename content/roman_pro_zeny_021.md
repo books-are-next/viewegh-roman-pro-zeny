@@ -7,8 +7,6 @@ _Do Thajska s Liškou – Co trápí křehkou duši princezny Stephanie? – 
 
 ## 1/
 
-  
-
 Je to tak. Před rokem nám Rickie tajně založil stavební spoření. Každý měsíc platil ze svého sporožira tři tisíce korun, za každého patnáct set. Mělo to být překvapení. Už za pouhé čtyři roky by mě býval mohl ohromit naspořenou **cílovou částkou**, jakož i možností snadného získání úvěru. Uvědomila jsem si, jak moc se musel přemáhat, aby mi to neprozradil. Dodatečně to vysvětlovalo, proč se pokaždé, když jsem se rozčilovala nad cenami pražských bytů, tak záhadně usmíval.
 
 A k čemu mu to všechno bylo? (Kdykoli si ještě dnes na ten Rickieho tajuplný úsměv vzpomenu, začnu si připadat provinile.)
@@ -33,8 +31,6 @@ Připadá mi to vůči Rickiemu netaktní a cynické.
 
 ## 2/
 
-  
-
 „Rozešla jsem se definitivně s Rickiem Kabíčkem,“ oznamuji ve středu ráno ostatním **vyrovnaným ženám** v redakci. Je to samozřejmě Zpráva dne. Romana začne posmrkávat, Zdeňka s Vlastou nestačí zírat, Mirek je dočasně potěšen (alespoň do té chvíle, než se dozví další podrobnosti). Tesařová se jen kysele ušklíbne: Přestaňte se laskavě vykecávat, znamená její pohled, dneska je uzávěrka nového čísla.
 
 Vrátím se k počítači a prohlížím si nachystané materiály: _Co trápí křehkou duši princezny Stephanie? – Olga z Klatov: Boj s nadváhou nikdy nevzdám! – Finančně strádám, ale úvěr splácím, říká Zbyněk Merunka._ _– Neplacení výživného je trestný čin. – Proč na svatbě B. Pitta chyběla nevěstina matka Nancy? – Štěkavý kašel malého Petříka vyděsil rodiče. – Moje šestnáctiletá dcera se zamilovala, ale o sexu se mnou odmítá mluvit. – Jak zůstat mladý. – Kolik vydělávají budoucí králové? – Nedělní recept: fazolový salát se žampióny. – Pacientku dlouho trápila prasklá ovariální cysta. – Charlesova přítelkyně Camilla se nervově zhroutila._ _– Marcela Březinová namísto mužských střídá účesy. – Exkluzivně: plakát Kassandry._ Moje dva příběhy ze života tentokrát zní: _Namísto barmanky šlapkou!_ a _Odloudila jsem milence svého manžela!_ Moc se s tím nepářu a do oběda jsem dávno hotová.
@@ -56,8 +52,6 @@ Když jdu o chvíli později na záchod, Zdeňka za mnou vyběhne na chodbu.
 Tiše se hihňáme všem našim čtenářkám.
 
 ## 3/
-
-  
 
 Nazítří ráno stojím před Oliverovou kuchyňskou linkou, na nahém těle mám Oliverovo bavlněné tričko (trochu kropenaté od mé oblíbené mentolové zubní pasty) a smažím nám lívance k snídani. Oliver stojí za mými zády a hladí mě po ňadrech. Pípnutí mobilu mi ohlásí příchod zprávy.
 
@@ -83,8 +77,6 @@ Je to poprvé, co ho slyším tohle slovo vyslovit.
 
 ## 4/
 
-  
-
 Odjakživa nenávidím mytí oken.
 
 O víkendu myju babičce okna a zpívám si. Stojím odvážně na parapetu, babička se křižuje. Jsem jen v kalhotkách a v tílku, venku je babí léto. Slunce mě pálí do ramen a rozsvěcuje bílou omítku na protějším domě. Nebe je nádherně modré, listí v parku už žloutne. Odpovídám na mávání kluků dole na chodníku. Těší mě, že se jim líbí můj zadek. Iron příjemně voní. Okna se lesknou.
@@ -100,8 +92,6 @@ Je hrozná škoda, že babička nemá víc oken.
 „To je dobře,“ říká babička. „Člověk by neměl být sám.“
 
 ## 5/
-
-  
 
 Nevzpomínám si, že by pro mě radost ze života byla někdy úplně samozřejmá. Snad ještě tak v dětství – ale od té doby jsem se životní radosti musela pokaždé jakoby **učit**. Přinejmenším od tátovy smrti jsem si už vždycky musela **připomínat**, že ten či onen okamžik, který zrovna prožívám, je milý, hezký, nebo dokonce výjimečný – a že bych se **rouhala**, kdybych si to neuvědomovala.
 
@@ -120,8 +110,6 @@ S **budoucností** to nikdy nebylo o moc lepší. Snila jsem třeba o tom, ja
 Nebo si představuju, jak někdy po obědě uteču z redakce a udělám si takové to krásné odpoledne mladé emancipované ženy: koupím si Elle nebo Cosmopolitan, sednu si do nějaké útulné kavárny, objednám si cappuccino, přehodím si nohu přes nohu a budu si číst a skrze výlohu zasněně pozorovat spěchající davy… A pak tu představu **zrealizuju**: v mé oblíbené kavárně je beznadějně plno, a tak tři čtvrtě hodiny hledám jinou; když konečně nějakou (mnohem horší) najdu, zjistím, že cappuccino mi neudělají, protože se jim před chvílí ucpala tryska na ohřev mléka. Dám si tedy velké espreso, ale protivný číšník mi omylem přinese malé; vypiju ho za pět minut a najednou nevím, co s rukama. Kolemjdoucí lidé na mě skrz výlohu nepříjemně zírají. Pokouším se číst, ale text skoro nevnímám, a tak raději platím a jedu domů, nebo se dokonce vrátím do práce…
 
 ## 6/
-
-  
 
 Oliver tohle změnil.
 
@@ -147,8 +135,6 @@ Patříme k sobě. Miluju ho.
 
 ## 7/
 
-  
-
 Máma se na moji lásku k **Pažoutovi** už nemůže dívat, a tak počátkem října znovu odletí do Chicaga za Stevem.
 
 Když tu novinu sdělím na chodbě Žemlovi (o chystané svatbě raději pomlčím), reaguje bezmála žárlivě.
@@ -164,8 +150,6 @@ V rukou vleče nákup, vypadá unaveně. Při zouvání se musí posadit na bot
 Skoro mi ho je líto.
 
 ## 8/
-
-  
 
 _Svatba bude 10. prosince_, píše máma.
 
@@ -187,23 +171,33 @@ _V jednom americkém filmu, který jsme kdysi viděli spolu (název jsem bohuž
 
 _Pokud jsi předchozí dva dopisy nečetla, pak věz, že jsem to v nich na Tebe zkoušel přes sentiment vzpomínek: nedělní rána u mě doma, smažení lívanců, však víš, dovolené v Chorvatsku, Kanáry a podobně. Tentokrát na Tebe vytáhnu těžší kalibr – poezii. (Ano, začal jsem číst poezii, kdo by to byl do mě řekl, že?) Nedávno jsem kdesi narazil na Ortenovu báseň Milostný dopis, v níž je obsaženo hodně z toho, kvůli čemu tohle všechno podnikám. Tady je:_
 
+  
+
 _Nejčistší světlo je když svítá  
 a přece přijde chvíle ta:  
 můj obraz ztratí se ti někde v dálce  
 a nebude už ani ve tvých víčkách_
+
+  
 
 _Protože moje srdce nelétá  
 a umí chodit jenom po špičkách  
 jedenkrát večer k tobě přicupitá  
 a poznáš moje písmo na obálce_
 
+  
+
 _Tu řekneš si že čehosi je škoda  
 tma nejkrásnější že je když se stmívá  
 a budeš náhle stařičká a sešlá_
 
+  
+
 _Pak budeš plakat až ti slovo podá  
 můj pohled který se už nepodívá  
 a ucítíš že láska neodešla_
+
+  
 
 _Oba dobře víme, že reklama je navoněná zdechlina a tak dále, ale věř mi, že v tomhle případě je to opravdu jinak. To jsou verše, které mne bolestivě zasáhly a které si mne v poslední době znovu a znovu „nacházejí“. Není to žádný slogan, který bych vybral s obvyklou cynickou vírou v jeho účinnost. Nic Ti neprodávám, ale ze srdce dávám. Miluju Tě. Moc Tě prosím, vrať se._
 

@@ -7,8 +7,6 @@ _Když partner odchází – Jakou barvu má láska? – Jak to, že Oliver ne
 
 ## 1/
 
-  
-
 ON nezavolá ani zítra, ani pozítří.
 
 Ani v příštích dnech.
@@ -20,8 +18,6 @@ Když zavřu oči, vidím displej mobilu.
 V noci brečím do polštáře. Máma se na nic nevyptává, a přesto je jí všechno jasné. Občas ji přistihnu, jak mě nenápadně pozoruje. Když se srazíme ve dveřích kuchyně, je to ona, kdo se omlouvá.
 
 ## 2/
-
-  
 
 Čtu knihu německé psychoterapeutky Doris Wolfové _Když partner odchází_, kterou mi dala Ingrid (původně ji koupila pro Huberta, ale ten ji odmítl, takže nyní jsem na řadě já…). Záložka brožury slibuje, že po jejím přečtení budu vědět:
 
@@ -44,8 +40,6 @@ V redakci to nestojí za nic. Romana je nemocná, takže musím na čtrnáct dn
 „Pepina má recht,“ syčím. „Všichni chlapi jsou svině a zasloužili by vykastrovat!“
 
 ## 3/
-
-  
 
 Na konci týdne dám Ingrid na taxík a poprosím ji, zda by mi od Olivera nepřivezla věci.
 
@@ -74,8 +68,6 @@ Nevěřím svým uším. Ne že by mi na Oliverovi sebemíň záleželo, ale ste
 Svět je odporné místo.
 
 ## 4/
-
-  
 
 Máma vytáhne z kredence láhev červeného (**Tři Gracie**, značka jejího mládí), zručně ji otevře a všem nám nalije. Usadíme se v kuchyni. Chvíli jen tak nezávazně tlacháme a potom nám Ingrid začne líčit problémy se studentem, který u ní toho času bydlí. Pro vaši informaci: Ingrid už dneska nedokáže bydlet sama. Neumí si prý představit, že by na polštáři vedle ní bylo prázdno… Tím pádem si každého chlapa, se kterým se seznámí, k sobě okamžitě nastěhuje.
 
@@ -140,8 +132,6 @@ Její ironický výraz je náhle pryč.
 Najednou i ona vypadá smutně.
 
 ## 5/
-
-  
 
 „Máme ještě víno, mami?“ ptám se.
 
