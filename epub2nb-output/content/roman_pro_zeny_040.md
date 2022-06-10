@@ -3,6 +3,8 @@ title: KAPITOLA XXXIV
 contentType: prose
 ---
 
+<section>
+
 _Zlověstné mlčení – Propuknutí Lauřiných emocí – Zpracování smutku_
 
 ## 1/
@@ -66,3 +68,5 @@ Představuju si, jak se mě dotýkal.
 Vzpomínám na jeho smích, jeho hlas, jeho dech, jeho gesta, jeho chůzi, jeho únavu, jeho polibky.
 
 (To už samozřejmě nahlas pláču.)
+
+</section>

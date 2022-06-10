@@ -3,6 +3,8 @@ title: Drahá Lauro,
 contentType: prose
 ---
 
+<section>
+
 _Praha 20. prosince 1999_
 
 _jediné, co mi po Tobě zbylo, jsou vzpomínky. Když to takhle napíšu, zní to jako text nějakého hloupého amerického hitu, kterým jsme se spolu občas vysmívali – a najednou je pro mě v tom klišé hluboká pravda. Celé hodiny, celé dny na Tebe vzpomínám – v práci, v autě, doma, v čekárně u doktora Z. – všude. Vzpomínám, a kdykoliv se mi podaří objevit v paměti nějaký nový obrázek nebo třeba jenom nový detail, úplně mě to nadchne – a hned vzápětí „sejme“. Ty se budeš určitě smát, ale já si detailně vybavuji i zdánlivé hlouposti – třeba ten téměř obřadný způsob, jakým jsi u mne doma zalévala květiny, nebo ten přehnaně vyděšený, neodolatelně komický obličej, který pokaždé děláš, když si strkáš do ucha čisticí tyčinku… Směšné, co? Nebo ta nedělní rána, když ses probudila v báječné náladě a rozhodla ses, že nám usmažíš k snídani vajíčka nebo čerstvé lívance – úplně Tě vidím, jak stojíš bosá v kuchyni před sporákem a na jednom z mých bílých bavlněných triček, ve kterých jsi spávala, máš jako obvykle zelené skvrny od Tvé oblíbené mentolové zubní pasty._
@@ -14,3 +16,5 @@ _Lásko, mohu Ti psát jen jednou měsíčně a na každý dopis mám navíc je
 _Líbám Tě vroucně (vroucně je možná trapně knižní slovo, ale neumím najít žádné výstižnější)._
 
 _Oliver_
+
+</section>

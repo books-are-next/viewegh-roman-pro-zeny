@@ -3,6 +3,8 @@ title: KAPITOLA X
 contentType: prose
 ---
 
+<section>
+
 _Vilný dentista Mrázek – Máma se bude vdávat! – Dvorní komik Žemla_
 
 ## 1/
@@ -114,3 +116,5 @@ A podobně.
 Z mámy je Žemla úplně auf – obzvlášť od té doby, co táta umřel. Máma i já máme totiž trochu sklon ke tloušťce a po tátově smrti jsme obě báječně zhubly. Máma dodneška tvrdí, že jediná skutečně úspěšná dieta je úmrtí v rodině. Zní to jako vtip, ale funguje to: když se máma zhruba po roce trochu otřepala, došla si k holiči a namalovala se, vypadala jako ty krásné štíhlé vdovy z amerických westernů… Žemla se do ní okamžitě zamiloval – a Žemlová ji začala nenávidět.
 
 Znáte to.
+
+</section>

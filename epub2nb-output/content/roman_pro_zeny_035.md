@@ -3,6 +3,8 @@ title: KAPITOLA XXIX
 contentType: prose
 ---
 
+<section>
+
 _A loď pluje – Žárlivý prognostik – Je Oliver Hamletova matka? – Podvodní svět_
 
 ## 1/
@@ -154,3 +156,5 @@ V proudech u dna se vlní rostliny, které jste nikdy v životě neviděly.
 ON má radost z vašeho úžasu. Několikrát se potopí až na dno a vyloví pro vás mušli svatého Jakuba. Nemůžete pochopitelně mluvit, takže se domlouváte jen očima – a plachými dotyky. Když se například příliš přiblížíte ke břehu, ON vás vezme za ruku, abyste si v příboji mezi ostrými kameny neublížila. Tváře máte tak blízko u sebe, až si vyčítáte, že jste si nekoupila vodovzdorný mejkap. Když se konečně vynoříte, máte obličej celý rozmočený, prosolený a otlačený od brýlí – ale jste šťastná.
 
 Tak šťastná, že MU při nejbližší příležitosti tajně podstrčíte telefonní číslo.
+
+</section>

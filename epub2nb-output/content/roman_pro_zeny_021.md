@@ -3,6 +3,8 @@ title: KAPITOLA XV
 contentType: prose
 ---
 
+<section>
+
 _Do Thajska s Liškou – Co trápí křehkou duši princezny Stephanie? – Connecting people – Mytí oken vůbec nemusí být nepříjemná práce!_
 
 ## 1/
@@ -171,34 +173,46 @@ _V jednom americkém filmu, který jsme kdysi viděli spolu (název jsem bohuž
 
 _Pokud jsi předchozí dva dopisy nečetla, pak věz, že jsem to v nich na Tebe zkoušel přes sentiment vzpomínek: nedělní rána u mě doma, smažení lívanců, však víš, dovolené v Chorvatsku, Kanáry a podobně. Tentokrát na Tebe vytáhnu těžší kalibr – poezii. (Ano, začal jsem číst poezii, kdo by to byl do mě řekl, že?) Nedávno jsem kdesi narazil na Ortenovu báseň Milostný dopis, v níž je obsaženo hodně z toho, kvůli čemu tohle všechno podnikám. Tady je:_
 
-  
+</section>
+
+<section>
 
 _Nejčistší světlo je když svítá  
 a přece přijde chvíle ta:  
 můj obraz ztratí se ti někde v dálce  
 a nebude už ani ve tvých víčkách_
 
-  
+</section>
+
+<section>
 
 _Protože moje srdce nelétá  
 a umí chodit jenom po špičkách  
 jedenkrát večer k tobě přicupitá  
 a poznáš moje písmo na obálce_
 
-  
+</section>
+
+<section>
 
 _Tu řekneš si že čehosi je škoda  
 tma nejkrásnější že je když se stmívá  
 a budeš náhle stařičká a sešlá_
 
-  
+</section>
+
+<section>
 
 _Pak budeš plakat až ti slovo podá  
 můj pohled který se už nepodívá  
 a ucítíš že láska neodešla_
 
-  
+</section>
+
+<section>
 
 _Oba dobře víme, že reklama je navoněná zdechlina a tak dále, ale věř mi, že v tomhle případě je to opravdu jinak. To jsou verše, které mne bolestivě zasáhly a které si mne v poslední době znovu a znovu „nacházejí“. Není to žádný slogan, který bych vybral s obvyklou cynickou vírou v jeho účinnost. Nic Ti neprodávám, ale ze srdce dávám. Miluju Tě. Moc Tě prosím, vrať se._
 
 _Oliver_
+
+</section>

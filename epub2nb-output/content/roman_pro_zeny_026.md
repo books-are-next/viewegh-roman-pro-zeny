@@ -3,6 +3,8 @@ title: KAPITOLA XX
 contentType: prose
 ---
 
+<section>
+
 _Laura touží poznat high society – Lasery a křepelčí vejce – Skandální odhalení_
 
 ## 1/
@@ -98,3 +100,5 @@ _Já o Tebe, Lauro, zkrátka **bojuju**. Bojuju, jak nejlíp umím – a to p
 _Miluju Tě, Lauro. Vrať se._
 
 _Oliver_
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XIV
 contentType: prose
 ---
 
+<section>
+
 _Trapný incident při objednávce martini – Má vůbec Oliver vlastní myšlenky? – Rickieho ponožky_
 
 ## 1/
@@ -218,3 +220,5 @@ To je ta nejupřímnější odpověď, kterou mu můžu dát.
 „Není to tvoje vina, Rickie,“ říkám tiše jako ve filmu.
 
 „Ale já už nám dva roky **spořím na byt**!“ vybuchuje Rickie v návalu ukřivděnosti. „**S Liškou!**“
+
+</section>

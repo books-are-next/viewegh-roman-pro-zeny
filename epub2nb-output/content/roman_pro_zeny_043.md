@@ -3,6 +3,8 @@ title: EPILOG
 contentType: prose
 ---
 
+<section>
+
 (Ano, já vím, milé dámy… Já **taky** miluju šťastné konce…)
 
 Počátkem loňského prosince, šest měsíců po Oliverově posledním dopisu, se na stole v našem obýváku objeví zelený adventní věnec se čtyřmi červenými svíčkami.
@@ -42,3 +44,5 @@ Máma zrozpačití, odkašle si a nadechne se.
 **„Pana Žemlu?!“** vyhrkneme s Oliverem prakticky současně.
 
 A potom ji oba obejmeme.
+
+</section>

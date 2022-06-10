@@ -3,6 +3,8 @@ title: KAPITOLA III
 contentType: prose
 ---
 
+<section>
+
 _Mirek a vyrovnané ženy – Je Laura hezká? – Otázka života a smrti_
 
 ## 1/
@@ -72,3 +74,5 @@ Mám ji ráda. Kdykoli Ingrid mluví o své výšce, pokaždé úplně zjihnu.
 To ji pokaždé uklidní.
 
 Máma se neozývá. Už jsem z toho nervózní a v duchu jí to začínám vyčítat, ale potom si připomenu časový posun: v Chicagu je noc, takže máma nejspíš spí. Tak aspoň vezmu mobil a napíšu jí, ať mi co nejdřív zavolá.
+
+</section>

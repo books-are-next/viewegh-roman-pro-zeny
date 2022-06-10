@@ -3,6 +3,8 @@ title: KAPITOLA XXI
 contentType: prose
 ---
 
+<section>
+
 _Polygamie jako dědičné břímě – Odlišné názory na nevěru – Nešťastná prodavačka kondomů – Velký blondýn v cyklistických tretrách_
 
 ## 1/
@@ -61,7 +63,9 @@ Pravím, že o tom budu přemýšlet.
 
 Pohledy Tesařové jsou stále nespokojenější, takže se raději vrátím ke svému stolu a po zbytek dopoledne se pokouším pracovat. Nejprve otevřu došlou poštu – tentokrát je to pouze jediný dopis. Rukopis je obtížně čitelný, mnoho slov je výrazně podtržených.
 
-  
+</section>
+
+<section>
 
 _Milá redakce,_
 
@@ -75,7 +79,9 @@ _Vaše čtenářka Zuzana_
 
 _P. S. Napište!!!!!_
 
-  
+</section>
+
+<section>
 
 Dočtu a hlasitě se vysmrkám. Romana se ke mně podezíravě otočí.
 
@@ -134,3 +140,5 @@ Je ale vidět, že má radost.
 „No, **laciný gesta** ti fakt jdou,“ říkám naoko jízlivě.
 
 „Viď? V lacinejch gestech jsem byl vždycky dobrej,“ souhlasí pyšně Oliver.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXVI
 contentType: prose
 ---
 
+<section>
+
 _Meet my parents – Trio kuřátek – Lze být pyšný na zámkovou dlažbu? – Nedáte-li malovaný, dejte aspoň bílý!_
 
 ## 1/
@@ -88,3 +90,5 @@ Opírám se o zeď a zhluboka dýchám, abych se z toho smradu nepozvracela.
 Pohlédnu mu přímo do očí.
 
 „Já se **snažím**!“ zasyčím na něho. „I když bych upřímně řečeno byla radši, kdybys byl oboustrannej sirotek…“
+
+</section>

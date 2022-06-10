@@ -3,6 +3,8 @@ title: KAPITOLA II
 contentType: prose
 ---
 
+<section>
+
 _Richard alias Rickie – Aplikace femigelu – BMW a rodinné finance_
 
 ## 1/
@@ -92,3 +94,5 @@ Jindy třeba z ničeho nic pronese:
 „Dobře, **bavorák**. Je to dobrý auto, ale leasingový splátky ti zloměj krk. Máš tak sešněrovaný rodinný finance, že se nemůžeš pomalu ani uprdnout. Natož pak něco jinýho… Má to potom **cenu**?“
 
 „Nemá, Rickie,“ říkám co možná přesvědčivě.
+
+</section>

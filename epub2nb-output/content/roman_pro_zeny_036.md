@@ -3,6 +3,8 @@ title: KAPITOLA XXX
 contentType: prose
 ---
 
+<section>
+
 _Mokré slipy – Láska a nenávist – Příliš složité otázky – Zrcadlo Lauřiny touhy_
 
 ## 1/
@@ -168,3 +170,5 @@ Náhle mě kdosi zezadu obejme. Polekaně se otočím. Přede mnou stojí Oliver
 Vytřeštím na něho oči. Oliver se usmívá. Šel z práce a zahlédl mě, vysvětluje. Nezajdeme na kafe? ptá se.
 
 Říkám, že nemůžu. Jdu na večeři s Ingrid a potřebuju se převléct.
+
+</section>
