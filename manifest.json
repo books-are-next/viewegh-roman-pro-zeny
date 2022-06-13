@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-roman-pro-zeny-2caf118",
-  "revision": "2caf118",
+  "identifier": "viewegh-roman-pro-zeny-aaae007",
+  "revision": "aaae007",
   "readingOrder": [
     "promo.html",
     "roman_pro_zeny_005.html",
@@ -54,8 +54,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:13:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949626064
+    "date": "Mon Jun 13 2022 21:59:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157564639
   },
   "documents": [
     {
@@ -2128,9 +2128,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 87,
-      "chars": 574,
-      "ideas": 7,
+      "words": 118,
+      "chars": 740,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "roman_pro_zeny_043.html",
@@ -2148,9 +2148,9 @@
   ],
   "totals": {
     "all": {
-      "words": 46227,
-      "chars": 278868,
-      "ideas": 2505
+      "words": 46258,
+      "chars": 279034,
+      "ideas": 2513
     },
     "chapters": {
       "words": 46133,
