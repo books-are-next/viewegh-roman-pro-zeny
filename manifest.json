@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-roman-pro-zeny-3b4b2f0",
-  "revision": "3b4b2f0",
+  "identifier": "viewegh-roman-pro-zeny-0722f9a",
+  "revision": "0722f9a",
   "readingOrder": [
     "promo.html",
     "roman_pro_zeny_005.html",
@@ -51,11 +51,11 @@
     "roman_pro_zeny_041.html",
     "roman_pro_zeny_042.html",
     "roman_pro_zeny_043.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:32:49 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980369824
+    "date": "Thu Jul 07 2022 08:42:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183325750
   },
   "documents": [
     {
@@ -2114,7 +2114,7 @@
       "role": "chapter",
       "order": 39,
       "prev": "roman_pro_zeny_042.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2127,11 +2127,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 137,
-      "chars": 875,
+      "chars": 874,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "roman_pro_zeny_043.html",
       "next": null,
@@ -2149,7 +2149,7 @@
   "totals": {
     "all": {
       "words": 46277,
-      "chars": 279169,
+      "chars": 279168,
       "ideas": 2514
     },
     "chapters": {

@@ -54,7 +54,7 @@ readingOrder:
   - roman_pro_zeny_041.html
   - roman_pro_zeny_042.html
   - roman_pro_zeny_043.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

@@ -64,7 +64,7 @@
             "filename": "roman_pro_zeny_003.md",
             "xhtml": "roman_pro_zeny_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "roman_pro_zeny_004.md",
             "xhtml": "roman_pro_zeny_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -595,7 +595,7 @@
             "filename": "roman_pro_zeny_044.md",
             "xhtml": "roman_pro_zeny_044.xhtml",
             "id": 43,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -955,6 +955,6 @@
       "user": "books-are-next",
       "repo": "viewegh-roman-pro-zeny"
     },
-    "generatedAt": 1655980028811
+    "generatedAt": 1657182663346
   }
 }
