@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-roman-pro-zeny-eff1efd",
-  "revision": "eff1efd",
+  "identifier": "viewegh-roman-pro-zeny-7386745",
+  "revision": "7386745",
   "readingOrder": [
     "promo.html",
     "roman_pro_zeny_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:08:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151698440
+    "date": "Mon Oct 10 2022 16:00:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417650344
   },
   "documents": [
     {
@@ -2129,7 +2129,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 875,
+      "chars": 876,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -2149,7 +2149,7 @@
   "totals": {
     "all": {
       "words": 46277,
-      "chars": 279169,
+      "chars": 279170,
       "ideas": 2514
     },
     "chapters": {
