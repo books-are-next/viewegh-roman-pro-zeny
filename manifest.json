@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-roman-pro-zeny-7386745",
-  "revision": "7386745",
+  "identifier": "viewegh-roman-pro-zeny-73fa966",
+  "revision": "73fa966",
   "readingOrder": [
     "promo.html",
     "roman_pro_zeny_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:00:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417650344
+    "date": "Fri Oct 21 2022 11:46:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352799453
   },
   "documents": [
     {
